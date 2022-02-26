@@ -1,0 +1,8 @@
+<instant>てにいれた　どうぐを　つかいます=Use obtained item
+<instant>てにいれた　どうぐを　すてます=Discard obtained item
+<instant>てにいれた　だいじなものを　みることができます=Examine important items
+<instant>だれに　つかいますか？>>=Select item target>>
+<instant>いくつ　すてますか？>>=Discard how many?
+<instant>ほんとうに　すてますか？|　　はい　　　いいえ=Are you sure?|  Yes  No
+<instant>ここでは　つかえません！=Cannot be used here!
+<instant>とくに　こうかが　ない！>>=No effect!
