@@ -1,6 +1,6 @@
-<instant>だれの　じゅつを　つかいますか？>>=Select who will use jutsu
-<instant>だれに　じゅつを　つかいますか？>>=Select jutsu target
-<instant>チャクラが　たりない！>>=Not enough chakra
-<instant>つかえる　じゅつが　ありません>>=No jutsu available
-<instant>とくに　こうかが　ない！>>=No effect!!
-<instant>ここでは　つかえません！>>=Cannot be used here!
+<instant>だれの　じゅつを　つかいますか？>>=<instant>Select who will use jutsu>>
+<instant>だれに　じゅつを　つかいますか？>>=<instant>Select jutsu target>>
+<instant>チャクラが　たりない！>>=<instant>Not enough chakra>>
+<instant>つかえる　じゅつが　ありません>>=<instant>No jutsu available>>
+<instant>とくに　こうかが　ない！>>=<instant>No effect!!>>
+<instant>ここでは　つかえません！>>=<instant>Cannot be used here!>>
