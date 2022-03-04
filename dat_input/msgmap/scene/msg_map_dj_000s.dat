@@ -109,8 +109,8 @@
 <sakura>「ナルト？　アンタ　どうかしたの？|はやいとこ　依頼受付所にいくわよ」=
 <naruto>「え・・・　<w32>あ・・・　<w32>うん・・・」=
 <naruto>（だっ・・・　<w32>ダメだってばよ・・・<w32>|も・・・<w32>　もれそう）=
-<narrator><instant><blue>１ぷんいないに　ナルトのいえまで　たどりつけ！！<black=
-><narrator><blue><instant>カウントダウン　<w32><instant>かいし！！！！<black>=
+<narrator><instant><blue>１ぷんいないに　ナルトのいえまで　たどりつけ！！<black>=
+<narrator><blue><instant>カウントダウン　<w32><instant>かいし！！！！<black>=
 <naruto>「はわっ！！！！」=
 <naruto>「も・・・　う・・・|げんかい　だってばよォ・・・」=
 <sasuke>「コ・・・　コイツ・・・」=
