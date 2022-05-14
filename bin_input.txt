@@ -212,14 +212,14 @@
 かくとくきんがく=Money gained.
 かくとくアイテム=Items gained.
 かくとくメンバー=Members gained.
-を|てにいれた！$$=
+を|てにいれた！$$=|obtained!$$
 つうさん　せいせき=
-<black>を　えとくした！$$=
+<black>を　えとくした！$$=gained <black>!#skill learn
 <katsuyu>「おつかれさん！」$$=
 はレベルがあがった！$$=leveled up!$$
 はい=
 <katsuyu>「よくやったな！」$$=
-こ|てにいれた！$$=
+こ|てにいれた！$$=|obtained!$$
 しんきろく　たっせい！！=
 のけいけんちをかくとく！$$=experience points!$$
 <katsuyu>「上忍ランクに　なったぞ！」$$=
