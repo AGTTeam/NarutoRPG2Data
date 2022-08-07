@@ -62,6 +62,7 @@ en1\VOICE_002_O=Take this!
 en1\VOICE_002_P=You're out of here!
 en1\VOICE_002_Q=Ouch...
 
+Shikamaru
 en1\VOICE_003_A=What a drag...
 en1\VOICE_003_B=Take that.
 en1\VOICE_003_C=This is all I can do...
@@ -178,6 +179,7 @@ en1\VOICE_009_L=Don't take me lightly!
 en1\VOICE_009_M=I'm going to... lose...!?
 en1\VOICE_009_N=Wind Scythe Jutsu
 
+Kankuro
 en1\VOICE_00a_A=This will decide it.
 en1\VOICE_00a_B=Hyah.
 en1\VOICE_00a_C=What the--!?
@@ -275,6 +277,7 @@ en1\VOICE_010_L=You can't hide.
 en1\VOICE_010_M=I have to give up...
 en1\VOICE_010_N=Parasitic Insects Jutsu
 
+Hinata
 en1\VOICE_011_A=I'm going!
 en1\VOICE_011_B=Heh!
 en1\VOICE_011_C=Uuuah.
@@ -307,6 +310,7 @@ en1\VOICE_012_L=I'm done.
 en1\VOICE_012_M=Next time... I'll win.
 en1\VOICE_012_N=Rising Twin Dragons
 
+Itachi
 en1\VOICE_013_A=You fool.
 en1\VOICE_013_B=Hmph.
 en1\VOICE_013_C=Ugh.

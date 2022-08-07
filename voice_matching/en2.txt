@@ -72,6 +72,7 @@ en2\VOICE_068=ShAAAAH!
 en2\VOICE_069=Sasuke!
 en2\VOICE_070-74=dummy
 
+Shikamaru
 en2\VOICE_075=What a drag...
 en2\VOICE_076=I guess I'll do it.
 en2\VOICE_077=I'm tired.
@@ -91,6 +92,7 @@ en2\VOICE_090=Shoot!
 en2\VOICE_091=Shadow Possession Jutsu
 en2\VOICE_092-99=dummy
 
+Choji
 en2\VOICE_100=I'm coming!
 en2\VOICE_101=Chubby's rule!
 en2\VOICE_102=Hey hey!
@@ -211,6 +213,7 @@ en2\VOICE_242=Rotation
 en2\VOICE_243=Eight Trigrams Spirit Sixty-Four Palms
 en2\VOICE_244-249=dummy
 
+Rock Lee
 en2\VOICE_250=I am going.
 en2\VOICE_251=I am the handsome devil of the leaf village.
 en2\VOICE_252=Yes!
@@ -291,6 +294,7 @@ en2\VOICE_340=Rookie.
 en2\VOICE_341=Wind Scythe Jutsu
 en2\VOICE_342-349=dummy
 
+Kankuro
 en2\VOICE_350=This will decide it.
 en2\VOICE_351=Heh. Come and get me.
 en2\VOICE_352=I'll finish in a second.
@@ -485,6 +489,7 @@ en2\VOICE_615=Are you okay?
 en2\VOICE_616=Lightning Bolt Attack
 en2\VOICE_617-624=dummy
 
+Itachi
 en2\VOICE_625=You fool.
 en2\VOICE_626=That's nonsense.
 en2\VOICE_627=I won't go easy on you.
