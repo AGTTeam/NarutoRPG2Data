@@ -19,7 +19,7 @@
 <sasuke>「これは　オレの　たたかいだ！！」=<sasuke>This is my fight!!
 <itachi>「いいだろう・・・」=<itachi>Very well...
 <sasuke><instant>「うらぁあああああ！」=<sasuke><instant>HNGRAAAAAAAAAAH!
-<sasuke>「フン・・・<w21>　まだまだ！」=Tch...<w21>This isn't over yet!
+<sasuke>「フン・・・<w21>　まだまだ！」=<sasuke>Tch...<w21>This isn't over yet!
 <sasuke><140005>（な<w5>・<w5>・<w5>・<w21>　なんで！？<w21>　“あのとき”から|すこしも　ちぢまらない　このさは　なんだ？）=<sasuke><140005>(Why<w5>.<w5>.<w5>.<w5>.why is it still the same!? Why is it still the same as "that day"!?)
 <sasuke>（いままで　オレは・・・　なにを|していたんだ！？　いったい　オレは<w5>・<w5>・<w5>・）=<sasuke>(Have I not done enough to be worthy of killing this man?)
 <itachi><140039>「おまえは　よわい・・・<w5>　なぜ　よわいか<w21>|・・・たりないからだ　・・・にくしみが！」=<itachi><140039>You are weak...<w32>This weakness stems from your lack of hatred
@@ -30,7 +30,7 @@
 <naruto>「サ・・・　スケ？<w21>　おい！　サスケ！！|へんじしろってばよ！！」=<naruto>Sasuke...<w21>?Hey Sasuke! Answer me, Sasuke!
 <itachi>「さぁ　ナルトくん・・・<w16>　いこうか」=<itachi>It's time for us to get going, <w16>Naruto
 <naruto><instant>「いいかげんに　しやがれェ！　てめーー！！」=<naruto><instant>To hell with you!! 
-<jiraiya>「おーおー・・・　さわがしいと　おもったら|こんなところで　ナルトと<itachi>いっしょとは」=<jiraiya>Oh my....I knew you'd be busy around the village, but I had no idea it'd be with Naruto
+<jiraiya>「おーおー・・・　さわがしいと　おもったら|こんなところで　ナルトといっしょとは」=<jiraiya>Oh my....I knew you'd be busy around the village, but I had no idea it'd be with Naruto
 <jiraiya>「なぁ・・・　イタチィ・・・」=<jiraiya>You got anything to say....Itachi?
 <itachi>「・<w5>・<w5>・<w5>・<w5>・<w5>・」=<itachi>.<w5>.<w5>.<w5>.<w5>.
 <jiraiya>「ナルトから　ワシをひきはなすために|おなごに　幻術を　かけるたァ・・・」=<jiraiya>You put us under a Genjutsu by using that girl to lure me away from Naruto
@@ -44,7 +44,7 @@
 <itachi>「ああ・・・　ふたりともやられるか|よくて　あいうちというところ・・・」=<itachi>Indeed. The result of us fighting would be unpredictable
 <itachi>「たとえ　にんずうを　ふやしたとしても|かわらないだろう」=<itachi>It doesn't matter how many of us are there, the result will remain the same
 <kisame>「“でんせつの三忍”あいてでは|“木ノ葉のうちはいちぞく”も」=<kisame>A fight between the one who massacred the Uchiha Clan and one of the Legendary Sannin, that's a doozy
-<kisame>「“霧の忍刀七人衆（きりのしのびがたな|ななにんしゅう）”も　かすんでしまう」<kisame>=With a member of the Legendary Swordsmen of the Mist thrown into the mix too, it still won't change
+<kisame>「“霧の忍刀七人衆（きりのしのびがたな|ななにんしゅう）”も　かすんでしまう」=<kisame>With a member of the Legendary Swordsmen of the Mist thrown into the mix too, it still won't change
 <jiraiya>「さぁて　そろそろ　おまえらふたりを|ワシが　ここで　しまつするかのォ！」=<jiraiya>Then I guess I'll have to take care of you two now!
 <itachi>「鬼鮫　こい！　いまの　ナルトなら|あせるひつようは　ない！」=<itachi>Come, Kisame! We have no need to risk our lives for this!
 <kisame>「チィ・・・　しかたありませんね」=<kisame>Tch...guess we got no choice
@@ -58,8 +58,8 @@
 <naruto>「えー！　なんで　いえなんかに|いなきゃなんねーんだよ！」=<naruto>Say what!? There's no way I'm sitting at home when all of this is going on!
 <jiraiya>「おまえは　よわい！|チョロチョロうごくと　死ぬだけだ」=<jiraiya>You're still weak! They could have snapped you in half if they really wanted to
 <naruto>「ぐっ<w5>・<w5>・<w5>・」=<naruto>Ugh<w5>.<w5>.<w5>.
-<naruto>（なんだ・・・　このきもち|したばらのあたりが　キュンとする）=(Just...what is this feeling within me?)
-<naruto>（それに・・・　ゾクゾクする）=(This...chilly feeling)
+<naruto>（なんだ・・・　このきもち|したばらのあたりが　キュンとする）=<naruto>(Just...what is this feeling within me?)
+<naruto>（それに・・・　ゾクゾクする）=<naruto>(This...chilly feeling)
 <symbol3B><small_sasuke>「なにが　おかしい？」=
 <naruto>「おかしんじゃ　ねーってばよ|うれしいんだよ」=
 「おまえに　ここでやっと|かてると　おもったらな！」=
