@@ -20,9 +20,9 @@
 <130D>しゅんしんのまきもの|全体マップに　いどうする=<130D>Escape Scroll|Moves to the world map.
 <130D>かわりみのまきもの|かわりみをつくり　てきのこうげきを　うけにくくする=<130D>Substitution Scroll|Higher rate of dodging attacks.
 <130D>かとんのまきもの|てき１体を中心に　火とんの　ダメージをあたえる=<130D>Fire Style Scroll|Fire damage [AREA].
-<130D>すいとんのまきもの|てき全体に　水とんの　ダメージをあたえる=<130D>Water Style Scroll|Water damage [AREA].
+<130D>すいとんのまきもの|てき全体に　水とんの　ダメージをあたえる=<130D>Water Style Scroll|Water damage [ALL].
 <130D>らいとんのまきもの|てき１体を中心に　雷とんの　ダメージをあたえる=<130D>Lightning Style Scroll|Lightning damage [AREA].
-<130D>ふうとんのまきもの|てき全体に　風とんの　ダメージをあたえる=<130D>Wind Style Scroll|Wind damage [AREA].
+<130D>ふうとんのまきもの|てき全体に　風とんの　ダメージをあたえる=<130D>Wind Style Scroll|Wind damage [ALL].
 <130B>いし|いしつぶてで　てき全体をこうげきする=<130B>Stone|Stone attack [ALL].
 <130E>きばくふだ|きばくふだを　しかける=<130E>Explosive Paper|Explosive paper attack [ALL].
 <130E>きょうりょくきばくふだ|強力きばくふだを　しかける=<130E>Super Explosive Paper|Explosive paper attack [ALL].
