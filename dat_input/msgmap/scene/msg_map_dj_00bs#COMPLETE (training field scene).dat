@@ -50,7 +50,7 @@
 <naruto>「あのさ！　あのさ！　カカシ先生ェ！」=<naruto>Hey! Hey! Kakashi Sensei!
 <kakashi>「ん？　なんだ　ナルト？」=<kakashi>Hm? What is it, Naruto?
 <naruto>「里にかえるまえに　ちーっとだけ|修業（しゅぎょう）つけて！　ね！　ね！」=<naruto>On our way back to the village...for juuust a little bit...|Can you train me for a little bit!? Just a little!
-<kakashi>「ダーメ！　任務がおわったら　さっさとかえる|これ　忍（しのび）のてっそく！！」=<kakashi>Absolutely not! When a mission is over, a ninja must return home and report immediately!
+<kakashi>「ダーメ！　任務がおわったら　さっさとかえる|これ　忍（しのび）のてっそく！！」$=<kakashi>Absolutely not! When a mission is over, a ninja must return home and report immediately!$
 <naruto>「えー　なんで！？　ちっとくらい　いーじゃん|カカシ先生の　ケチ！！」=<naruto>Say wha-!? I only want you training me a little bit!!|You're such a cheapskate, Kakashi Sensei!
 <sakura>「ナルト！　アンタねェ<w5>・<w5>・<w5>・<w5>　いま木ノ葉は|忍がたりなくて　たいへんな　じきなんだから」=<sakura>Naruto you little!<w5>.<w5>.<w5>.The Leaf Village needs every ninja it can get, and you have the nerve!?
 <sakura>「下忍（げにん）の　わたしたちでさえ|任務が　いーっぱいなんだからね！」=<sakura>Even we Genin are needed out there on the front!
@@ -58,7 +58,7 @@
 <sakura>「しつこい！！」=<sakura>Shut your yapper!
 <sasuke>「フン・・・　じぶんで　修業して|つよくなりゃあ　いいだろーが」=<sasuke>Hmph...just train by yourself!|If you wanna become that strong
 <naruto>（ぜってー　つよくなってやる！|こいつよか　ぜってー　つよくなってやる！！）=<naruto>(Oh you're so regretting crossing me, believe it!)
-<sakura>「ナルト？　アンタ　なにしてんの？|任務しゅうりょうの　ほうこくにいくわよ 」=<sakura>What are you doing, Naruto!?|We gotta go to the Mission Reception!
+<sakura>「ナルト？　アンタ　なにしてんの？|任務しゅうりょうの　ほうこくにいくわよ」=<sakura>What are you doing, Naruto!?|We gotta go to the Mission Reception!
 <naruto>「ほうこくぅ？？」=<naruto>Mission Reception??
 <sakura>「まさか　どこに　ほうこくしにいくか|わからない　っていうんじゃないでしょうね」=<sakura>Don't tell me you forgot why we have to go there!
 <narrator><instant>　そのとおり|　もちろん　しってる<0B>=<narrator><instant>　Of course I do!|　Nope, not a clue<0B>
