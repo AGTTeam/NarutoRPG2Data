@@ -50,12 +50,12 @@
 てきに　であいにくくなる=#Encounter less enemies
 ダメージちけいを　むこうか=#Ignore all terrain inflicted damage
 ゆくてをはばむ　いわをくだく=#Smash through rocks in your way
-<03>そうび=<03>Equip
-<0B>どうぐ=<0B>Item
-じゅつ=Jutsu
-じんけい=Formation
-メンバー=Member
-ステータス=Status
+<1303>そうび=<1303>Equip
+<130b>どうぐ=<130b>Item
+<130f>じゅつ=<130f>Jutsu
+<1311>じんけい=<1311>Formation
+<1312>メンバー=<1312>Member
+<1310>ステータス=<1310>Status
 コマンドを　えらんでください=Please select a command.
 <02>ぶき=<02>Weapon
 リスト=List
@@ -251,7 +251,8 @@
 ひのくにかいどう　ひがしがわ=
 ひのくにこっきょう　おとがくれがわ=
 ひのくにこっきょう　このはがくれがわ=
-<0902>セーブファイル・臨=<0902>Save File Rin
+ＶＳ　<u48>勝=
+セーブファイル・臨=Save File Rin
 をロードしました$$=has been loaded.
 データがありません=There is no data.
 セーブファイル・兵=Save File Hyo
@@ -280,7 +281,6 @@
 つづきから=Continue
 サウンドテスト=Sound Test
 ファイルさくじょ=Delete File
-<0902>データをよめませんでした。でんげんをきって|カードをさしこみなおしてください。=<0902>Cannot read data. Turn off the|power and reinsert the DS card.
 そうびじょうたい=Equip Status
 <katsuyu>「ブヒー！」$$=
 <katsuyu>「フッ・・・」$$=
