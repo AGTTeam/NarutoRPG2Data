@@ -5,5 +5,10 @@ out_*
 *_output*
 *.nds
 *.xdelta
+*.sdat
+*.wav
+*.exe
+sound/en1
+sound/en2
+sound/jp
 fontdata*.bin
-sound
