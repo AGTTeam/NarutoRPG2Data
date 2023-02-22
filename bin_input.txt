@@ -16,7 +16,11 @@
 にげる=Flee
 きけん=
 ぼうぎょ=Defend
+ぼうぎょ=DEF
+ぼうぎょ=DEF
 こうげき=Attack
+こうげき=ATK
+こうげき=ATK
 たたかいに　やぶれた・・・=You lost the battle...
 たたかいに　しょうりした！=You won the battle!
 ランダム=Random
