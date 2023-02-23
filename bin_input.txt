@@ -54,12 +54,12 @@
 てきに　であいにくくなる=#Encounter less enemies
 ダメージちけいを　むこうか=#Ignore all terrain inflicted damage
 ゆくてをはばむ　いわをくだく=#Smash through rocks in your way
-<1303>そうび=<1303>Equip
-<130b>どうぐ=<130b>Item
-<130f>じゅつ=<130f>Jutsu
-<1311>じんけい=<1311>Formation
-<1312>メンバー=<1312>Member
-<1310>ステータス=<1310>Status
+<1303>そうび=<1303> Equip
+<130b>どうぐ=<130b> Item
+<130f>じゅつ=<130f> Jutsu
+<1311>じんけい=<1311> Formation
+<1312>メンバー=<1312> Member
+<1310>ステータス=<1310> Status
 コマンドを　えらんでください=Please select a command.
 リスト=List
 きゃはん=Greaves
@@ -128,7 +128,7 @@
 つぎのレベルまで　あと=Until next level
 　おぼえたじゅつをひょうじ=Display jutsu acquired
 しゅうとくしている術はありません$$=No jutsu acquired$$
-せんぱつメンバーを　そうさして|じんけいを　くもう！$$=Set up a formation using your main party members.$$
+せんぱつメンバーを　そうさして|じんけいを　くもう！$$=Set up a formation using your main party|members.$$
 こうか=Effect
 ー=
 とくになし=Nothing
