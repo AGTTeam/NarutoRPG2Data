@@ -49,11 +49,11 @@
 もっているかず=Owned
 とのあいしょうがあがった！=
 とのあいしょうがさがった！=
-がけのうえに　のぼれる=#Climb up cliffs
-みずのうえを　あるける=#Walk on water
-てきに　であいにくくなる=#Encounter less enemies
-ダメージちけいを　むこうか=#Ignore all terrain inflicted damage
-ゆくてをはばむ　いわをくだく=#Smash through rocks in your way
+がけのうえに　のぼれる=Climb up cliffs
+みずのうえを　あるける=Walk on water
+てきに　であいにくくなる=Encounter less enemies
+ダメージちけいを　むこうか=Ignore all terrain inflicted damage
+ゆくてをはばむ　いわをくだく=Smash through rocks in your way
 <1303>そうび=<1303> Equip
 <130b>どうぐ=<130b> Item
 <130f>じゅつ=<130f> Jutsu
