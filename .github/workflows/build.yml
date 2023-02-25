@@ -58,7 +58,7 @@ jobs:
       - name: Install dependencies
         run: pipenv --python 3.10 sync
       - name: Extract
-        run: pipenv run python tool.py extract --rom
+        run: pipenv run python tool.py extract --rom --img
       - name: Repack
         run: pipenv run python tool.py repack
       - name: Upload patch
