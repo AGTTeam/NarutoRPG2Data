@@ -1,0 +1,83 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  check_date:
+    runs-on: ubuntu-latest
+    name: Check latest commit
+    outputs:
+      should_run: ${{ steps.should_run.outputs.should_run }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Print latest_commit
+        run: echo ${{ github.sha }}
+      - id: should_run
+        continue-on-error: true
+        name: Check latest commit is less than a day
+        if: ${{ github.event_name == 'schedule' }}
+        run: test -z $(git rev-list  --after="24 hours"  ${{ github.sha }}) && echo "::set-output name=should_run::false"
+  build:
+    runs-on: ubuntu-latest
+    name: Build
+    needs: check_date
+    if: ${{ needs.check_date.outputs.should_run != 'false' }}
+    steps:
+      - name: Checkout tool
+        uses: actions/checkout@v3
+        with:
+          repository: Illidanz/NarutoRPG2Translation
+          token: ${{ secrets.GH_PAT }}
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pipenv"
+      - name: Install pipenv
+        run: python -m pip install --upgrade pipenv wheel
+      - name: Checkout data
+        uses: actions/checkout@v3
+        with:
+          path: NarutoRPG2Data
+      - name: Download data
+        uses: suisei-cn/actions-download-file@v1.3.0
+        with:
+          url: ${{ secrets.URL_DATA }}
+          target: NarutoRPG2Data
+      - name: Extract data
+        run: |
+          mkdir NarutoRPG2en1
+          mkdir NarutoRPG2en2
+          cd NarutoRPG2Data
+          7z x naruto.7z
+          mv en1.sdat sound/en1.sdat
+          mv en2.sdat sound/en2.sdat
+      - name: Install dependencies
+        run: pipenv --python 3.10 sync
+      - name: Extract
+        run: pipenv run python tool.py extract --rom
+      - name: Repack
+        run: pipenv run python tool.py repack
+      - name: Upload patch
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch.xdelta
+          path: NarutoRPG2Data/patch.xdelta
+          retention-days: 7
+      - name: Check patch existence
+        id: check_patch
+        uses: andstor/file-existence-action@v2
+        with:
+          files: "NarutoRPG2Data/patch.xdelta"
+      - name: Webhook
+        if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          username: "AGTTBot"
+          avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
+          filename: "NarutoRPG2Data/patch.xdelta"
