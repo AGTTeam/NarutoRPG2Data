@@ -7,6 +7,7 @@ out_*
 *.xdelta
 *.sdat
 *.wav
+*.sav
 *.exe
 sound/en1
 sound/en2
