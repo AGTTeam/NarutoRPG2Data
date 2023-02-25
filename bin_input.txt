@@ -268,13 +268,13 @@
 さくじょするデータがありません$$=No data to delete.$$
 のさくじょに　しっぱいしました$$=failed to delete.$$
 データをチェックちゅうです・・・=Reading data...
-を　ロードしますか？|　はい　　　いいえ=Load file?|　Yes　　　No
-に　セーブしますか？|　はい　　　いいえ=Save file?|　Yes　　　No
+を　ロードしますか？|　はい　　　いいえ=!#This line is hardcoded in bin_patch.asm
+に　セーブしますか？|　はい　　　いいえ=!#This line is unused
 セーブするファイルを　えらんでください$$=Please choose which file to save.$$
 ロードするファイルを　えらんでください$$=Please choose which file to load.$$
-を　さくじょしますか？|　はい　　　いいえ=Delete this file?|　Yes　　　No
+を　さくじょしますか？|　はい　　　いいえ=!#This line is hardcoded in bin_patch.asm
 さくじょするファイルを　えらんでください$$=Please choose which file to delete.$$
-のデータに　うわがきしますか？|　はい　　　いいえ=Overwrite file?|　Yes　　　No
+のデータに　うわがきしますか？|　はい　　　いいえ=!#This line is hardcoded in bin_patch.asm
 データをよめませんでした。でんげんをきって|カードをさしこみなおしてください。=Cannot read data. Turn off the|power and reinsert the DS card.
 データをかけませんでした。でんげんをきって|カードをさしこみなおしてください。=Cannot write data. Turn off the|power and reinsert the DS card.
 はじめから=New Game
