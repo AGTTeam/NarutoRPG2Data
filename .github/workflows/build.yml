@@ -49,8 +49,6 @@ jobs:
           target: NarutoRPG2Data
       - name: Extract data
         run: |
-          mkdir NarutoRPG2en1
-          mkdir NarutoRPG2en2
           cd NarutoRPG2Data
           7z x naruto.7z
           mv en1.sdat sound/en1.sdat
