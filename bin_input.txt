@@ -129,6 +129,7 @@
 　おぼえたじゅつをひょうじ=Display jutsu acquired
 しゅうとくしている術はありません$$=No jutsu acquired$$
 せんぱつメンバーを　そうさして|じんけいを　くもう！$$=Set up a formation using your main party|members.$$
+じんけい=Formation
 こうか=Effect
 ー=
 とくになし=Nothing
