@@ -128,7 +128,7 @@
 つぎのレベルまで　あと=Until next level
 　おぼえたじゅつをひょうじ=Display jutsu acquired
 しゅうとくしている術はありません$$=No jutsu acquired$$
-せんぱつメンバーを　そうさして|じんけいを　くもう！$$=Set up a formation using your main party|members.$$
+せんぱつメンバーを　そうさして|じんけいを　くもう！$$=<instant>Set up a formation using your main party|members.$$
 じんけい=Formation
 こうか=Effect
 ー=
@@ -146,7 +146,7 @@
 　をそうびしますか？|　　はい　　いいえ=Equip it?|　　Yes　　No
 　を<u48>こ　うりますか？|　　はい　　いいえ=
 　を　<u48>こ　かいますか？|　　はい　　いいえ=
-どうぐがいっぱいです|かずをへらしてください$$=You have too many items.|Please decrease the amount.
+どうぐがいっぱいです|かずをへらしてください$$=You have too many items.|Please decrease the amount.$$
 なにをかいますか？|カーソルでえらんでください$$=What do you want to buy?|Use the cursor to select.$$
 どうぐがいっぱいで|そうびをへんこうできません$$=Too many items.|Could not change equipment.$$
 なにをうりますか？|カーソルでえらんでください$$=What do you want to sell?|Use the cursor to select.$$
