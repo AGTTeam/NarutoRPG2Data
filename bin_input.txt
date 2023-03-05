@@ -15,7 +15,7 @@
 じゅつ=Jutsu
 にげる=Flee
 きけん=
-ぼうぎょ=Defend
+ぼうぎょ=Def.
 ぼうぎょ=DEF
 ぼうぎょ=DEF
 こうげき=Attack
