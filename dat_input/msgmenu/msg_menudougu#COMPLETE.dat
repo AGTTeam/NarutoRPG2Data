@@ -3,6 +3,6 @@
 <instant>てにいれた　だいじなものを　みることができます=<instant>Examine important items.
 <instant>だれに　つかいますか？$$=<instant>Select item target.$$
 <instant>いくつ　すてますか？$$=<instant>Discard how many?$$
-<instant>ほんとうに　すてますか？|　　はい　　　いいえ=<instant>Are you sure?|  Yes  No
+<instant>ほんとうに　すてますか？|　　はい　　　いいえ=<instant>Are you sure?|　　Yes　　No
 <instant>ここでは　つかえません！=<instant>Cannot be used here!
 <instant>とくに　こうかが　ない！$$=<instant>No effect!$$
