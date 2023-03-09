@@ -13,3 +13,4 @@ sound/en1
 sound/en2
 sound/jp
 fontdata*.bin
+.DS_Store
