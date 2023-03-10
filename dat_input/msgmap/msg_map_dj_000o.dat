@@ -20,11 +20,11 @@
 <narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　Get your own!|　All yours!<0B>
 <narrator><130B>兵糧丸（ひょうろうがん）を|もっていなかった！=<narrator><130B>Food Pill count is zero!
 <narrator>「ク～ン　ク～ン・・・」=<narrator>(grooooan)
-よろこんでいるように　みえる・・・=
-<narrator><130B>ガマ印の兵糧丸を|ほしそうな　かおをしている・・・=<narrator>
-<130B>ガマ印の兵糧丸を　あげますか？= 
-<narrator><130B>ガマ印の兵糧丸を|もっていなかった！=<narrator>
-<narrator><130B>スーパーあまぐりを|ほしそうな　かおをしている・・・=<narrator>
+よろこんでいるように　みえる・・・=(They look pleased...)
+<narrator><130B>ガマ印の兵糧丸を|ほしそうな　かおをしている・・・=<narrator><130B>Can you spare me Toad Food Pill?
+<130B>ガマ印の兵糧丸を　あげますか？= <130B>Give Toad Food Pill?
+<narrator><130B>ガマ印の兵糧丸を|もっていなかった！=<narrator><130B>You don't have a Toad Food Pill
+<narrator><130B>スーパーあまぐりを|ほしそうな　かおをしている・・・=<narrator><130B>
 <130B>スーパーあまぐりを　あげますか？=
 <narrator><130B>スーパーあまぐりを|もっていなかった！=<narrator>
 <narrator><130B>暗部のきばく札を|ほしそうな　かおをしている・・・=<narrator>
