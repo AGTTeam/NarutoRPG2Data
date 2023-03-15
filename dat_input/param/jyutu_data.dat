@@ -107,9 +107,9 @@
 おおいなるサクラ=Almighty Sakura#jyutu_name_017
 サクラふぶきの術=Sakura Blizzard Jutsu#jyutu_name_018
 あんちゅうひやくの術=Deceptive Jutsu
-かっさつじざいの術=Playing Dead Jutsu#tc 活殺自在の術 jyutu_name_01a
+かっさつじざいの術=Playing Dead Jutsu
 かげまねの術=Shadow Possession Jutsu
-かげよみの術=#tc 影黄泉の術 jyutu_name_01c
+かげよみの術=#tc 影黄泉の術 jyutu_name_01c English names seem to avoid word "Hell". Maybe "Shadow Underworld Jutsu"?
 かげくびしばりの術=Shadow Strangle Jutsu
 かげならくの術=Shadow Drop Jutsu
 にくだんせんしゃ=Human Boulder
@@ -128,7 +128,7 @@
 はっけ百二十八しょう=8 Trigrams 128 Palms
 木ノ葉れっぷう=Leaf Whirlwind
 木ノ葉せんぷう=Leaf Hurricane
-木ノ葉だいせんぷう=Leaf's Severe Hurricane
+木ノ葉だいせんぷう=Leaf's Severe Hurricane#Severe Leaf Hurricane (木ノ葉ごうりきせんぷう) also exists. Both moves are called Severe Leaf Hurricane in the anime, this is how POTN2 distinguishes them. Maybe we can come up with something better?
 八門とんこう=The Eight Inner Gates
 おもてれんげ=Primary Lotus
 うられんげ=Hidden Lotus
