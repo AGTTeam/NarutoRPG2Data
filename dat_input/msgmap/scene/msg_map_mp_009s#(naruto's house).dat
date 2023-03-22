@@ -12,7 +12,7 @@
 <kisame>「じゃあ・・・」=<kisame>Well then...
 <itachi>「ひさしぶりだな・・・<w16>　サスケ」=<itachi>It's been some time....<w16>Sasuke
 <kisame>「ほぅ・・・　写輪眼！　しかも　あなたに|よくにて<w5>・<w5>・<w5>・<w5>　いったい　なにものです？」=<kisame>Oho...the Sharingan!? And he knows you by name? Care to introduce us, Itachi?
-<itachi>「オレの・・・　おとうとだ・・・」=<itachi>He is...my younger brother 
+<itachi>「オレの・・・　おとうとだ・・・」=<itachi>He is...my younger brother
 <kisame>「うちはいちぞくは　ほろんだのでは？<w16>|イタチさん・・・　アナタの　てによって」=<kisame>And here I thought the whole Uchiha Clan bit the dust...<w16>by your hand
 <symbol34><small_sasuke>「うちはイタチ・・・　アンタを|いまここで　たおす！！」=<symbol34><small_sasuke>Itachi Uchiha...you'll be defeated right here and now!!
 <itachi>「いま　おまえなどに　きょうみはない！」=<itachi>I have no interest in you at this moment!
@@ -27,15 +27,15 @@
 <sakura>「サスケくんね・・・　綱手さまの　ちりょうの|おかげで　めをさました　みたいなの」=<sakura>Lady Tsunade managed to treat Sasuke. He's regained consciousness
 <sakura>「ねぇ　ナルト・・・<w5>　いまから　いっしょに|サスケくんの　おみまいにいかない？」=<sakura>Say, Naruto...<w5>do you wanna go over to his room together?
 <narrator><instant>　いかない|　いく<0B>=<narrator><instant>　Not now|　Yeah of course<0B>
-<naruto>「もちろん　いくってばよ！！」=naruto>Yeah of course!!
-<sakura>「オッケー！　サスケくんは　|<blue>木ノ葉びょういん<black>の　<blue>びょうしつ<black>に　いるから」=<sakura>Okay! Let's go to the <blue>Hidden Leaf Hospital<black>! He should be at the <blue>second floor
+<naruto>「もちろん　いくってばよ！！」=<naruto>Yeah of course!!
+<sakura>「オッケー！　サスケくんは　|<blue>木ノ葉びょういん<black>の　<blue>びょうしつ<black>に　いるから」=<sakura>Okay! Let's go to the <blue>Hidden Leaf Hospital<black>! He should be at the <blue>second floor<black>
 <sakura>「さっそく　むかいましょ！」=<sakura>Let's get going!
 <naruto>「ご・・・　ごめん　サクラちゃん！<w5>　オレ|エロ仙人に　うごくなって　いわれてっから」=<naruto>I'm...really sorry Sakura! Pervy Sage said I should stay until he comes back
 <sakura>「それなら　だいじょうぶ！|自来也さまの　きょかは　とってあるわ」=<sakura>That's okay! He's already given me his okay!
 <sakura>「ね！　おみまいに　いこう！」=<sakura>Please! Let's go see Sasuke!
 <narrator><instant>　いく|　いかない<0B>=<narrator><instant>　Yeah of course|　Still no<0B>
 <naruto>「じゃあ　いくってばよ！」=<naruto>Alright! Let's go!
-<sakura>「サスケくんは　<blue>木ノ葉びょういん<black>の|<blue>びょうしつ<black>に　いるから・・・」=<sakura>Let's go to the <blue>Hidden Leaf Hospital<black>! He should be at the <blue>second floor
+<sakura>「サスケくんは　<blue>木ノ葉びょういん<black>の|<blue>びょうしつ<black>に　いるから・・・」=<sakura>Let's go to the <blue>Hidden Leaf Hospital<black>! He should be at the <blue>second floor<black>
 <sakura>「さっそく　むかいましょ！」=<sakura>Let's get going, then!
 <naruto>「いかないってばよ・・・」=<naruto>I really don't want to go...
 <sakura>「だから・・・　きょかはとってるから|だいじょうぶだって！」=<sakura>I already told you...I have his okay, we can go!
@@ -45,7 +45,7 @@
 <sakura>「きょかは　とってあるって|いってるじゃない！！」=<sakura>I TOLD you TWICE that I have his okay!!
 <sakura>「つべこべいわずに　いくわよ！！」=<sakura>So get dressed, and get going already!!
 <naruto>「お<w5>・<w5>・<w5>・<w16>　おう」=<naruto>F-Fine....
-<sakura>「サスケくんは　<blue>木ノ葉びょういん<black>の|<blue>びょうしつ<black>に　いるから・・・」=<sakura>Sasuke is in the<blue>Hidden Leaf Hospital<black>! He should be at the <blue>second floor
+<sakura>「サスケくんは　<blue>木ノ葉びょういん<black>の|<blue>びょうしつ<black>に　いるから・・・」=<sakura>Sasuke is in the<blue>Hidden Leaf Hospital<black>! He should be at the <blue>second floor<black>
 <sakura>「さぁ！　いくわよ！」=<sakura>Let's get going!
 <naruto>「シカマルじゃねーか！？　おまえが|オレのいえに　くるなんて　めずらしーな」=<naruto>Oh hey there Shikamaru! It feels weird to see you in my house, too be honest
 <shikamaru>「ああ・・・　ちょっと　ヤボようでな|・・　サスケが　里をぬけた」=<shikamaru>I'd rather skip the pleasantries....Sasuke just left the village
@@ -65,7 +65,7 @@
 <sakura>「ったく　もー！！　ナルト！　アンタって|ほんと　ひとさわがせなんだから！」=<sakura>For pete's sake, Naruto! You gave us a heart attack!
 <sasuke>「この　ウスラトンカチ・・・」=<sasuke>You idiot...
 <naruto>「へへへ・・・」=<naruto>hehehehehehe
-<sakura>「じゃ　きをとりなおして・・・|<blue>依頼受付所<black>にいくわよ！」=<sakura>Well...let's get on our way to <blue>Mission Reception
+<sakura>「じゃ　きをとりなおして・・・|<blue>依頼受付所<black>にいくわよ！」=<sakura>Well...let's get on our way to <blue>Mission Reception<black>
 <naruto>「おうっ！！」=<naruto>Yeah!!
 <sakura>「ちょっと　ナルト！　アンタ|わたしにちかよらないでよね！」=<sakura>Listen here Naruto! I want you five steps away from me!
 <naruto>「サクラちゃ～～ん・・・」=<naruto>But Sakuraaa!
