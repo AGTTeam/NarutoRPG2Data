@@ -217,7 +217,7 @@
 つうさん　せいせき=Total wins
 <black>を　えとくした！$$=gained <black>!$$#skill learn
 <katsuyu>「おつかれさん！」$$=<katsuyu>Good job!$$
-はレベルがあがった！$$=leveled up!$$
+はレベルがあがった！$$= leveled up!$$
 <u48>しょう　　　　<u49>はい=
 <katsuyu>「よくやったな！」$$=<katsuyu>Nice work!$$
 を　<u48>こ|てにいれた！$$=<u48>|obtained!$$

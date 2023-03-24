@@ -7,7 +7,7 @@
 <narrator>「火影さま・・・　いかがなさいますか？」=<narrator>Your orders, Lady Tsunade?
 <tsunade>「奈良（なら）シカマルを　よべ！|そうきゅうにだ！！」=<tsunade>Bring me Shikamaru Nara this instant!
 <narrator>「はっ！！」=<narrator>Yes ma'am!
-<tsunade>「うちはサスケが　里をぬけた・・・　で！|ほぼまちがいなく　<blue>音隠れの里<black>にむかってる」=<tsunade>I just received word of Sasuke Uchiha defecting from the Leaf Village. I have no doubts that he's on his way to <blue>The Land of Sound
+<tsunade>「うちはサスケが　里をぬけた・・・　で！|ほぼまちがいなく　<blue>音隠れの里<black>にむかってる」=<tsunade>I just received word of Sasuke Uchiha defecting from the Leaf Village. I have no doubts that he's on his way to <blue>The Land of Sound<black>
 <shikamaru>「ぬけた！？　<w21>・・・どうして！？」=<shikamaru>Defected!?...<w21>Why'd he do that!?
 <tsunade>「あの大蛇丸に　さそわれちゃってる|からだよ！」=<tsunade>He's been manipulated by Orochimaru, I'm fairly sure
 <shikamaru>「ちょ<w5>・<w5>・<w5>・<w5>　ちょ<w5>・<w5>・<w5>・<w5>|ちょい　まってくださいよ！」=<shikamaru>H-<w5>H-<w5>H-<w5>Hold on a second there!
@@ -37,8 +37,8 @@
 <tsunade>「じゃ！　たのんだぞ！！」=<tsunade>Alright, I'm counting on you!!
 <shikamaru>「・<w5>・<w5>・<w5>ハイ」=<shikamaru>.<w5>.<w5>.<w5>.yes ma'am
 <shikamaru>（・・・つーか　なんで　ナルトの|やつなんだ？）=<shikamaru>(But why does she want me to bring HIM with us of all people?)
-<shikamaru>「はやいとこ　下忍をあつめねーとな|・・・まずは　<blue>ナルト<black>か」=<shikamaru>Well, time to get to work I guess....first up is <blue>Naruto
-<shikamaru>「ナルトのヤツは　どーせ　<blue>ナルトのいえ<black>か|<blue>ラーメン一楽<black>にいるだろう」=<shikamaru>Naruto usually hangs around <blue>his place <black>or the <blue>Ichiraku Ramen Shop
+<shikamaru>「はやいとこ　下忍をあつめねーとな|・・・まずは　<blue>ナルト<black>か」=<shikamaru>Well, time to get to work I guess....first up is <blue>Naruto<black>
+<shikamaru>「ナルトのヤツは　どーせ　<blue>ナルトのいえ<black>か|<blue>ラーメン一楽<black>にいるだろう」=<shikamaru>Naruto usually hangs around <blue>his place <black>or the <blue>Ichiraku Ramen Shop<black>
 <sakura>「・・・おねがいがあって　きました」=<sakura>...I have a favor to ask
 <tsunade>「なんだ？？」=<tsunade>What is it?
 <sakura>「わたしを　でしにしてください」=<sakura>Please make me your student
@@ -53,7 +53,7 @@
 <tsunade>「ナルト！　おまえ　いままでに|いわがじゃまして　さきにすすめないとか」=<tsunade>Just listen to me! Haven't you been seeing debris obstructing your way?
 「つづらがとれない　・・・ってことが|あったんじゃないか？」=I'm sure you've seen some supply boxes or even an easier path blocked by them?
 <naruto>「あったってばよ！」=<naruto>Yeah that's right!
-<tsunade>「そんなときは　コイツを口寄せし|<blue>いわのまえで　Ａボタン<black>をおしてみな！」=<tsunade>When that happens, all you have to do is to summon him and <blue>press the A button near debris
+<tsunade>「そんなときは　コイツを口寄せし|<blue>いわのまえで　Ａボタン<black>をおしてみな！」=<tsunade>When that happens, all you have to do is to summon him and <blue>press the A button near debris<black>
 <tsunade>「コイツは　いわをくだくことができるから|さきにすすむことが　できるようになるよ」=<tsunade>Do that, and he'll break rocks no problem
 <naruto>「スゲーってばよ！　トントン！！」=<naruto>You're one cool pig, Tonton! Believe it!
 <tonton>「<sound93>ブヒー！！」=<tonton><sound93>Oink!
@@ -72,7 +72,7 @@
 <naruto>「よけてあるけるところは|よけて　あるいたり・・・」=<naruto>They really hurt whenever I get near them...
 「よけれねーとこは　ダメージうけながら|あるいてたってばよ！」=I lose so much of my stamina cuz of those!
 <tsunade>「そんなときは　コイツを口寄せしてから|どくのうえを　あるいてみな！」=<tsunade>When that happens, all what you have to do is summon Katsuyu and she'll carry you through!
-「コイツは　<blue>どくを　むこうか<black>できるから|<blue>ダメージをうけずに　あるける<black>のさ」=She'll make sure you <blue>go through damage floors unharmed!
+「コイツは　<blue>どくを　むこうか<black>できるから|<blue>ダメージをうけずに　あるける<black>のさ」=She'll make sure you <blue>go through damage floors unharmed<black>!
 <naruto>「カツユ！　おまえってば　スゲェんだな！！」=<naruto>You're so cool, Katsuyu!
 <katsuyu>「いえ・・・　そんな・・・|おやくにたてるように　がんばります」=<katsuyu>Oh my...I don't deserve this much praise...I'm only doing what I can do
 <tsunade>「カツユも　トントンとおなじで　いろんな|ところで　おまえを　たすけてくれるはずだ」=<tsunade>She can help you get through so many tight spots like Tonton, so make sure you check where she can help you!
