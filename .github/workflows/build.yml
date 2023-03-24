@@ -34,7 +34,7 @@ jobs:
       - name: Install Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.11"
           cache: "pipenv"
       - name: Install pipenv
         run: python -m pip install --upgrade pipenv wheel
@@ -46,15 +46,13 @@ jobs:
         uses: suisei-cn/actions-download-file@v1.3.0
         with:
           url: ${{ secrets.URL_DATA }}
-          target: NarutoRPG2Data
       - name: Extract data
         run: |
-          cd NarutoRPG2Data
           7z x naruto.7z
-          mv en1.sdat sound/en1.sdat
-          mv en2.sdat sound/en2.sdat
+          mv en1.sdat NarutoRPG2Data/sound/en1.sdat
+          mv en2.sdat NarutoRPG2Data/sound/en2.sdat
       - name: Install dependencies
-        run: pipenv --python 3.10 sync
+        run: pipenv --python 3.11 sync
       - name: Extract
         run: pipenv run python tool.py extract --rom --img
       - name: Repack
