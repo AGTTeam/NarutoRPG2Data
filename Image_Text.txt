@@ -1,0 +1,152 @@
+﻿map\dj_000
+	Shop signs
+		あほ茶=Aho Tea#edited (badly) in POTN1
+		花 やまなか＝Yamanaka Flowers#not translated in either game	
+		栗=Chestnut#not translated in either game
+		甘栗甘=Sweet Chestnuts#not translated in either game
+		武✧防=Arms & Guards#done - ported icons from POTN1
+		一楽=Ichiraku
+		ラーメン一楽=Ichiraku Ramen#not translated in either game
+		忍忍=Endurance (lit translation - 忍 comes from 忍び=Ninja)#not translated in either game – Could translate as “Items”?
+		
+	Gate – leave as-is?
+		忍忍
+		あん
+
+	Street signs
+		木ノ葉茶通り=Hidden Leaf Village Flower Street#not translated in either game
+		木ノ葉茶通り=Hidden Leaf Village Tea Street#not translated in either game
+	
+map\dj_00e
+	五両=5 Ryo#not translated in either game - could leave as-is or remove
+
+map\dj_001
+	近日公=Coming/Showing soon#not translated in either game
+	イチャパラ=Make-Out Paradise#not translated in either game
+	ゆ=Onsen#could substitute for more typical symbol of a bath with three lines of steam
+	
+map\dj_01b – POTN2 only
+Images not translated in POTN2
+	短冊街=Tanzaku Town
+	阿?#can’t read the second kanji, but I’m pretty sure this sign exists in other games
+
+	おでんや=Oden shop#oden is a type of hot pot dish
+	百楽●＝Hyaku Raku#100 raku - a play on ichi raku which is 1 raku
+	栗=Chestnut
+	甘栗甘=Sweet Chestnuts
+	2号店=Second Store#Tanzaku Branch?
+
+Images translated in POTN2
+	民宿=Inn#The two flags were split into three (one for each letter of Inn)
+	宝くじ=Lucky Draw
+	大当たり！=Win Big!
+	大入=Big Win
+	丁半=Dice Hall
+	ぱちんこ=Pachinko
+
+map\dj_002
+	木ノ葉病院=Hidden Leaf Village Hospital#side post & green sign. Neither translated in POTN1, green sign translated in POTN2
+	医=Healing#translated in POTN2. Maybe just leave as-is?
+	火=Fire#as above
+	忍=Shinobi#as above
+	忍者アカデミー=(Ninja) Academy#translated in both games
+	
+map\dj_003
+	Same as dj_000 with an inverted palette
+	
+map\dj_004
+	Same as dj_001 with an inverted palette
+
+map\mp_000#done - ported icons from POTN1
+	武✧防=Arms & Guards
+
+map\mp_00a - Naruto's house. Both games use the same translated graphics. They're done horizontally so don't look great, but we could keep them for consistency.
+	あるのみ 修業=TRAIN EFFORT
+	打倒サスケ！！=(Beat) Sasuke!!!
+	
+map\mp_00c Sasuke's House - POTN2 only. Not translated
+	超絶=Excellence
+	岸本弾力=Kishimoto's Resilience
+	伊達者=Gallant
+	
+map\mp_00d
+	医=Healing#just leave as-is?
+
+map\mp_00e
+	医=Healing#just leave as-is?
+
+map\mp_001
+	忍忍=Endurance#not translated in either game – Could translate as “Items”?
+	道具=Items#translated in both games
+	兵糧丸=Food Pills#not translated in either game
+	
+map\mp_01a
+	依頼受付所=Mission Reception#translated in both games by widening the sign
+	
+map\mp_01b
+	未巳=Ram and Snake#not translated in either game - jutsu hand signs?
+
+map\mp_01c#done - ported from POTN1
+	任務受付こちらまで=Mission Reception
+	皆さんガンバ=Good luck
+	
+map\mp_01f
+	忍=Shinobi#Leave as-is?
+	壱=No. 1
+	
+map\mp_02a
+	街宿=Inn#not translated in either game - change to "Welcome"?
+	
+map\mp_004
+	甘栗甘=Sweet Chestnuts#not translated in either game
+	
+map\mp_005
+	ラーメン一楽=Ichiraku Ramen#not translated in either game
+
+map\mp_006
+	あほ茶=Aho Tea#edited (badly) in POTN1
+	
+map\mp_018 Hokage's House - not translated in either game
+	火影=Hokage
+	人=Person
+	心=Heart
+	
+map\mp_019
+	封=Seal#not translated in either game
+	
+map\mp_021
+	忍=Shinobi#Leave as-is?
+
+map\mp_029
+	百楽食＝Hyaku Raku (Restaurant)#not translated in either game
+	
+sys\obj\sys_ob_b_000.png
+	Redo for consistency? 
+
+sys\obj\sys_ob_c_000.png
+	Formation - needs cropping to Form
+	Weapon - needs squishing
+	こうせい=Config#qc
+	おんせん=Onsen
+	あずかいりしょ=Storage#qc
+	かくとくアイテム=Items gained#where is this used?
+	つうしんたいせん=Wireless Battles
+	くみて=Kumite
+	ひかえ=Alt.
+	せんとうランク=Battle Rank
+	かくとくメンバー=Members gained#where is this used?
+
+sys\obj\sys_ob_f_000.png
+	やめる=Quit#where is this used?
+	
+title\botan.png
+	スタートボタンをおしてください=Press Start
+	
+title\t_cp.png
+	 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ=Masashi Kishimoto Scott/Shueisha, TV Tokyo, Pierrot
+	 ©２００５TOMY
+	 In both games, this is translated as "Naruto © 2002 Masashi Kishimoto" "Game and software © 2005 TOMY"
+
+title\tl_rpg.png
+	ナルトＲＰＧ=Path of the Ninja 2 International/European Version# or maybe 1.5?
+	千鳥VS螺旋丸#remove subtitle?
