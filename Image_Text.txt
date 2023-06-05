@@ -130,7 +130,7 @@ sys\obj\sys_ob_c_000.png
 	おんせん=Onsen
 	あずかいりしょ=Storage#qc
 	かくとくアイテム=Items gained#where is this used?
-	つうしんたいせん=Wireless Battles
+	つうしんたいせん=VS Battle
 	くみて=Kumite
 	ひかえ=Alt.
 	せんとうランク=Battle Rank
