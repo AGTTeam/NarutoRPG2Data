@@ -1,7 +1,7 @@
-<narrator>「ダミーメッセージ」=
-<narrator>「このさきは　<blue>“木ノ葉きんざん”<black>　だぞ！」=
-<narrator>「このひだりうえに　みえている　むらさきいろのぬまは|<blue>どくのぬま<black>なんだ！」=
-「このうえは　<blue>１ぽあるくたびに　ダメージをうける<black>から|きをつけろ！！」=
-<narrator>「<blue>どくのぬま<black>をあるいても　ダメージを|うけないほうほうが　あるらしい・・・」=
-「なにか　<blue>“とくしゅな術”<black>でも　おぼえないと|いけないのかな・・・」=
-「どくのことなら　綱手さまが|ごぞんじかもしれない・・・」=
+<narrator>「ダミーメッセージ」=<narrator>DUMMY MESSAGE
+<narrator>「このさきは　<blue>“木ノ葉きんざん”<black>　だぞ！」=<narrator>If you continue on this road, you'll find yourelf at the <blue>Hidden Leaf Mine<black>!
+<narrator>「このひだりうえに　みえている　むらさきいろのぬまは|<blue>どくのぬま<black>なんだ！」=<narrator>Be careful of the road stained purple, though, it's gonna <blue>poison you<black>!
+「このうえは　<blue>１ぽあるくたびに　ダメージをうける<black>から|きをつけろ！！」=Every step you make on that road will <blue>chip away your stamina<blue>!
+<narrator>「<blue>どくのぬま<black>をあるいても　ダメージを|うけないほうほうが　あるらしい・・・」=<narrator>I think there IS a way to not take damage from this poisoned road...
+「なにか　<blue>“とくしゅな術”<black>でも　おぼえないと|いけないのかな・・・」=Maybe a <blue>special type of jutsu <black>can help you against that
+「どくのことなら　綱手さまが|ごぞんじかもしれない・・・」=You'd probably want to ask Lady Tsunade to help you with that
