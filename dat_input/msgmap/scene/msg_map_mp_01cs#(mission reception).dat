@@ -16,8 +16,8 @@
 <narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I guess|　I don't think so<0B>
 <naruto>「もっちろん　きくってば！」=<naruto>Yeah of course I wanna know!
 <homura>「よかろう！　おまえたちのもっているどうぐには|ふつうのどうぐと　<blue>だいじなもの<black>がある」=<homura>There are two types of items <blue>expendables and keys<black>.
-<homura>「だいじなものは　きほんてきには　うれないし|かえない　・・・また　すてることもできない」=<homura>Key items stay in your inventory, but are not usable nor they are discardable
-<homura>「だいじなものは　任務をすすめるうえで|じゅうようなどうぐだったり」=<homura>Some key items are essential for your missions' completion.
+<homura>「だいじなものは　きほんてきには　うれないし|かえない　・・・また　すてることもできない」=<homura>Key items stay in your inventory, but are not usable nor are they discardable
+<homura>「だいじなものは　任務をすすめるうえで|じゅうようなどうぐだったり」=<homura>Some key items are essential for your mission's completion.
 <homura>「なにかをえるために　ひつようとなる|どうぐだったりするんじゃ」=<homura>I wonder what would happen if you were to gather all parts...
 <naruto>「ヘェ～・・・　なるほど・・・」=<naruto>Oh! I see it now...
 <naruto>「そんなこと　きかなくったって|ほんとは　しってるってばよ！」=<naruto>There's no need to tell me, because I already know all about it!
@@ -60,7 +60,7 @@
 <kakashi>「そのまえに　ひとつ・・・」=<kakashi>I just have one thing to say before I go...
 <kakashi>「おまえたちに　おしえておかなきゃ|いけないことが　ある・・・」=<kakashi>If you ever forget anything I taught you...
 <kakashi>「任務のことや　たたかいかたについて|わからないことが　あれば」=<kakashi>If it's about missions, fighting, or just anything you want to ask
-<kakashi>「忍者学校の　<blue>２０１きょうしつ<black>に|いくといい」=<kakashi>Just come to <blue>Room 201 <black>in tyhe Ninja Academy
+<kakashi>「忍者学校の　<blue>２０１きょうしつ<black>に|いくといい」=<kakashi>Just come to <blue>Room 201 <black>in the Ninja Academy
 <naruto>「いくと　なにがあんの？」=<naruto>What's in that room?
 <kakashi>「わからないことを　いろいろと|せつめいしてくれるから　こまったら　いけ」=<kakashi>You'll find all the information you need in case you forget something I taught you
 <naruto>「わかったってばよ！」=<naruto>Gotcha, believe it!
@@ -90,4 +90,4 @@
 <naruto>（こーなったら　エロ仙人　みつけだして|あたらしい術　おせーてもらって）=<naruto>(I'll make him cower in fear when I learn that killer new Jutsu from Pervy Sage!)
 <naruto>（ぜってェ　サスケより|つよくなってやる！！）=<naruto>(I'll become so strong even Sasuke won't ignore me much longer!!)
 <sakura>「ナルト！　アンタ　なにやってんの？|エビス先生を　さがしにいくわよ」=<sakura>Naruto! How about you help us search for Ebisu Sensei instead of standing around looking dumb?
-<naruto>「よっしゃー！　いくってばよ！！」=<naruto>We'll make him cough up, believe it!
+<naruto>「よっしゃー！　いくってばよ！！」=<naruto>We'll make him cough it up, believe it!

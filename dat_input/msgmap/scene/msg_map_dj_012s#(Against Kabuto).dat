@@ -9,7 +9,7 @@
 <tsunade><instant>「どけ！　そいつは　わたしがやる」=<tsunade><instant>Step aside! He's mine!
 <kabuto>「アンタ　“あのひ”いらい　血（ち）が|こわいんだろ！　いまから　みせてやるよ！」=<kabuto>I seem to remember your hatred for blood ever since that day...how about I show you some?
 <jiraiya>（マズイ！　綱手は　血をみると|ふるえて　うごけなくなる！　まにあえ！！）=<jiraiya>(Crap! Tsunade will just freeze at the sight of blood! I gotta do something!)
-<tsunade>「血・・・<w21>　血がっ！！」=<tsunade>Blood....<w21>I'm Bleeding!!
+<tsunade>「血・・・<w21>　血がっ！！」=<tsunade>Blood....<w21>I'm bleeding!!
 <jiraiya>（チィ・・・　まにあわなかったか）=<jiraiya>(Damn it, I couldn't make it!)
 <kabuto>（三忍ふたりを　あいてにするのは|さすがに　ヤバイですからね・・・）=<kabuto>(I cannot fathom to take on two of the Legendary Sannin on my own...)
 <kabuto>（ひとりだけでも　とめておく！！）=<kabuto>(But now at least I got one down!)
@@ -35,7 +35,7 @@
 <jiraiya>「綱手・・・　おまえは　かいふく忍術で|カラダをやすめとけ」=<jiraiya>Tsunade, you focus on healing yourself with your Medical Ninjutsu
 <naruto>「じゃあ！　オレは！　オレは！」=<naruto>Hey what about me!?
 <jiraiya>「おまえら下忍は　そのブタといっしょに|綱手のごえいだ」=<jiraiya>You Genin focus on ensuring Tsunade's safe
-<naruto>「えっ？　オレも　たたかうってばよ！|オレだって・・・」=<naruto>Say what!? But I wana fight too, Pervy Sage!
+<naruto>「えっ？　オレも　たたかうってばよ！|オレだって・・・」=<naruto>Say what!? But I wanna fight too, Pervy Sage!
 <jiraiya>「ダメだ！」=<jiraiya>Never, and that's final!
 <jiraiya>「おまえらも　たたかってわかっただろ<w21>|・・・レベルが　ちがう！」=<jiraiya>This fight's miles out of your league!
 <naruto>「じゃあ　影分身で　かせいするってばよ」=<naruto>Then I'll let my Shadow Clones do the job, no sweat
@@ -68,8 +68,8 @@
 <jiraiya>「ワシは　うちはのガキ　なんて|いらねーよ」=<jiraiya>I did choose to not train the Uchiha kid.
 「はじめから　できのいい　てんさいを|そだてても　おもしろくねーからのォ」=If I chose a genius who could do literally everything I'd throw at him, I'd be a bored man
 <orochimaru>「クク・・・<w21>　かつての　じぶんを　みている|ようで　ほうっておけない　ってワケ？」=<orochimaru>Oh my...<w21>so you have chosen this brat only because he reminds you of your younger self?
-<orochimaru>「ナルトくんは　うちはには　かてない」=<orochimaru>I hope you find it in your heart to accept that what you'll train can neverr surpass the Uchiha Bloodline
-<orochimaru>「なぜなら　写輪眼（しゃりんがん）という|うまれもった　忍のさいのうをもっていない」=<orochimaru>The Uchihas are a superior line of Shinobi for being born with the Sharingan and effectively weilding it
+<orochimaru>「ナルトくんは　うちはには　かてない」=<orochimaru>I hope you find it in your heart to accept that what you'll train can never surpass the Uchiha bloodline
+<orochimaru>「なぜなら　写輪眼（しゃりんがん）という|うまれもった　忍のさいのうをもっていない」=<orochimaru>The Uchihas are a superior line of Shinobi for being born with the Sharingan and effectively wield it
 <orochimaru>「・・・忍のさいのうとは」=<orochimaru>...For you see a Shinobi
 <orochimaru>「よにある　すべての術を　もちい|きわめることが　できるかどうかにある」=<orochimaru>Is one who can <blue>master Ninjutsu <black>and use it in battle
 <orochimaru>「忍者とは　その名のとおり|<blue>“忍術をあつかう者（もの）をさす”<black>」=<orochimaru>One should do their best to learn all what they can in their lifetime
@@ -93,7 +93,7 @@
 <kabuto>「いや　いや　いや・・・|なに　その目（め）！」=<kabuto>Oh my my my...still up with this glare?
 <kabuto>「死ぬんだよ！|死んだら　ゆめもなにも　ないんだから」=<kabuto>You'll no longer have any dreams to protect when you die, you know!
 <kabuto>「ガキは　すべてが|カンタンだと　おもってる・・・」=<kabuto>You think everything in this world can happen if you just believe it's easy enough
-<kabuto>「だから　バカげたゆめを　へいきでくちにする|だから　あきらめない　<w16>・・・そして死ぬんだ」=<kabuto>So wipe off that delusion off your face, and die!!
+<kabuto>「だから　バカげたゆめを　へいきでくちにする|だから　あきらめない　<w16>・・・そして死ぬんだ」=<kabuto>So wipe that delusion off your face, and die!!
 <naruto>「まっすぐ　じぶんのことばは|まげねェ<w16>・<w16>・<w16>・」=<naruto>I will not go back on my word<w16>.<w16>.<w16>.
 <naruto><140069>「<blue>それが　オレの　忍道だ・・・<black>」=<naruto><blue>Because that is my Ninja Way!!!<black>
 <naruto>「みんな！　いくってばよ！！」=<naruto>Let's get him, everybody!
@@ -103,7 +103,7 @@
 <kabuto>（まだ　たつか・・・）=<kabuto>(He still hasn't had enough)
 <naruto>「あの“かけ”のやくそくどおり　その|えんぎのわりィ　くびかざり　もらうからな」=<naruto>Are you ready to give up that cursed necklace of yours?
 <naruto>「影分身の術！！」=<naruto>Shadow Clone Jutsu!!
-<tsunade>「もういい・・・　わたしを　かばうな|ナルト・・・　<w32>もうやめろ！！」=<tsunade>Naruto you don't have to protect me! Please<w32>stop!
+<tsunade>「もういい・・・　わたしを　かばうな|ナルト・・・　<w32>もうやめろ！！」=<tsunade>Naruto you don't have to protect me! Please<w32> stop!
 <kabuto>「そういう　いじはってると|死ぬって　いっただろ！！」=<kabuto>Oh you have thrown your life away now for real!
 <kabuto>「死んだら　なにもかも・・・|ゆめも　なにも　ないんだよ！！」=<kabuto>Say goodbye to your dreams!
 <tsunade>「もういいから　どけ！！　にげろ！」=<tsunade>Just step aside Naruto!
@@ -119,7 +119,7 @@
 <narrator><130F>らせん丸をおぼえた！=<narrator><130F>Learned the Fourth Hokage's Rasengan!!
 <naruto>「ぐはっ！！」=<naruto>Nngh!
 <tsunade>「ナルトのやつ・・・　あのガキに|なにか　やられたようだな」=<tsunade>This kid...he drove himself to exhaustion
-<kabuto>「クク・・・　ナルトくんは　もうだめだよ|九尾のチカラをつかえないように　したからね」=<kabuto>Oh well...it looks like the Nine Tails's Chakra didn't save him from this one
+<kabuto>「クク・・・　ナルトくんは　もうだめだよ|九尾のチカラをつかえないように　したからね」=<kabuto>Oh well...it looks like the Nine Tails' Chakra didn't save him from this one
 <tsunade>「うるせー・・・|てめーは　あとで　しまつする」=<tsunade>Shut it you! You'll be dead soon I'll see to that
 <narrator><small_sasuke3>「<red>くらいィ<w16>・<w16>・<w16>・|くらいィ・・・　ぞォオ・・・<black>」=<narrator><small_sasuke3><red>Darkness<w16>.<w16>.<w16>.all around me
 <narrator><small_sasuke3>「<red>なぜ　くらくなるゥウ<w16>・<w16>・<w16>・|ワシの・・・　チカラが　<w32>なぜ・・・<black>」=<narrator><small_sasuke3><red>Why is it getting dark<w16>.<w16>.<w16>.why is my power...
@@ -163,7 +163,7 @@
 <bunta>「マンダに　大蛇丸　カツユに　綱手<w16>・<w16>・<w16>・|こりゃあ　なつかしい　めんめんじゃのォ」=<bunta>Oh my, Orochimaru's Manda<w16>.<w16>.<w16>.and Tsunade's Katsuyu. That brings back a lotta memories I'll say
 <bunta>「いまから　どうそうかいでも|するゆーんか・・・<w16>　自来也？」=<bunta>Didn't know y'all are having a reunion today, Jiraiya
 <jiraiya>「バーカ！　ひさしぶりに　よんでやったのに|じょうだん　いってんじゃねーよ！」=<jiraiya>You idiot! Now's absolutely not the time to be messing around!
-<jiraiya>「そろそろ　ながねんの　いんねんに|ケリつけようと　おもってのォ・・・」=<jiraiya>I have a score I need to settle, one that's been longering on for years
+<jiraiya>「そろそろ　ながねんの　いんねんに|ケリつけようと　おもってのォ・・・」=<jiraiya>I have a score I need to settle, one that's been lingering on for years
 <jiraiya>「大蛇丸を　きょう　ここで　いま・・・|たおすんだよ」=<jiraiya>I will put an end to Orochimaru's antics!
 <manda>「オイ　大蛇丸・・・」=<manda>Hey Orochimaru
 <manda>「オレさまを　こんな　くそめんどくさそーな|とこに　よびだしてくれてんじゃねーよォ！」=<manda>It was your sorry self that called for my greatness, was it not?
@@ -193,7 +193,7 @@
 <jiraiya>「フッ・・・<w16>　綱手　おまえは|あいかわらず　“かけ”によわいのォ」=<jiraiya>Well Tsunade...<w16>how does it feel to lose yet another bet?
 <tsunade>「フッ<w16>・<w16>・<w16>・」=<tsunade>Hmph<w16>.<w16>.<w16>.
 <tsunade>（火影は　オレのゆめだから　<w32>・・・かぁ）=<tsunade>(To become the Hokage is your dream...<w32>huh)
-<tsunade>「すこし　短冊街でやすんで　ナルトの|めが　さめたら　木ノ葉にかえるわよ」=<tsunade>Let's carry him back to the inn, we'll go back to the village when he open his eyes again
+<tsunade>「すこし　短冊街でやすんで　ナルトの|めが　さめたら　木ノ葉にかえるわよ」=<tsunade>Let's carry him back to the inn, we'll go back to the village when he opens his eyes again
 <jiraiya>「綱手・・・」=<jiraiya>Tsunade...
 <tsunade>「フン・・・<w16>　これからは|“綱手”じゃなくて　こうよびな」=<tsunade>Hmph...<w16>I better not catch you calling me a plain "Tsunade", old man
 <naruto>「五代目火影さまぁ！？」=<naruto>SHE'S THE WHAT NOW!?
