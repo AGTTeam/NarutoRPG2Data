@@ -11,7 +11,7 @@
 <sasuke>「サクラ！　ネコならここにいる・・・」=<sasuke>The cat's right here, Sakura...
 <sakura>「さっすが　サスケくんね！|ナルトとは　おおちがい！」=<sakura>That's my Sasuke! Always doing so well in his missions, unlike that idiot Naruto!
 <sasuke>「ま・・・　どだい　ドベには|むりな　はなしだな」=<sasuke>Oh well...a knucklehead like him needs a lot of time to catch up, don't you think?
-<naruto>「な・・・<w21>　なんだとォ！！」=<naruto>Wha...<w21> What did you just say!!!
+<naruto>「な・・・<w21>　なんだとォ！！」=<naruto>Wha...<w21> What did you just say!?
 <sasuke>「ドベには　むりだ　<w16>・・・といったんだ」=<sasuke>I said, a knucklehead..can't...catch..up
 <naruto>「こォら　サスケェ！　しょうぶだ　コラ！！」=<naruto>You asked for it then! Let's fight! Right here, right now!
 <sasuke>「フン・・・　やる気か？」=<sasuke>Hmph...you really up for this?
@@ -59,11 +59,11 @@
 <sasuke>「フン・・・　じぶんで　修業して|つよくなりゃあ　いいだろーが」=<sasuke>Hmph...just train by yourself!|If you wanna become that strong
 <naruto>（ぜってー　つよくなってやる！|こいつよか　ぜってー　つよくなってやる！！）=<naruto>(Oh you're so regretting crossing me, believe it!)
 <sakura>「ナルト？　アンタ　なにしてんの？|任務しゅうりょうの　ほうこくにいくわよ」=<sakura>What are you doing, Naruto!? We gotta go to the Mission Reception!
-<naruto>「ほうこくぅ？？」=<naruto>Mission Reception??
+<naruto>「ほうこくぅ？？」=<naruto>Mission Reception?
 <sakura>「まさか　どこに　ほうこくしにいくか|わからない　っていうんじゃないでしょうね」=<sakura>Don't tell me you forgot why we have to go there!
 <narrator><instant>　そのとおり|　もちろん　しってる<0B>=<narrator><instant>　Of course I do!|　Nope, not a clue<0B>
 <naruto>「や<w5>・<w5>・<w5>・<w21>　やだなぁ　サクラちゃん|そのくらい　しってるってばよォ？」=<naruto>I<w5>.<w5>.<w5>.really have no idea, Sakura|Could you tell me more?
-<sakura>「ナルト・・・<w21>　こえが　うわずってるわよ！|しょうがない　おしえてあげるわ」=<sakura>Naruto your...<w21>voice is actually craking|Fine I'll tell you
+<sakura>「ナルト・・・<w21>　こえが　うわずってるわよ！|しょうがない　おしえてあげるわ」=<sakura>Naruto your...<w21>voice is actually cracking|Fine I'll tell you
 <sakura>「任務がおわったら　かならず　忍者学校にある|<blue>依頼受付所（いらいうけつけじょ）<black>にいくの」=<sakura>When you finish your mission, you have to go the <blue>Mission Reception <black>at the Ninja Academy!
 <sakura>「そこで　任務しゅうりょうのほうこくと|ほうしゅうを　うけとるのよ」=<sakura>There you will report to your mission's assigner or sometimes the client directly
 <sasuke>「いうまでもないが　ほうしゅうは|おかねのことだからな・・・」=<sasuke>Needless to say, we do these requests for our funding
