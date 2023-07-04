@@ -61,9 +61,9 @@
 <sakura>「ナルト？　アンタ　なにしてんの？|任務しゅうりょうの　ほうこくにいくわよ」=<sakura>What are you doing, Naruto!? We gotta go to the Mission Reception!
 <naruto>「ほうこくぅ？？」=<naruto>Mission Reception?
 <sakura>「まさか　どこに　ほうこくしにいくか|わからない　っていうんじゃないでしょうね」=<sakura>Don't tell me you forgot why we have to go there!
-<narrator><instant>　そのとおり|　もちろん　しってる<0B>=<narrator><instant>　Of course I do!|　Nope, not a clue<0B>
-<naruto>「や<w5>・<w5>・<w5>・<w21>　やだなぁ　サクラちゃん|そのくらい　しってるってばよォ？」=<naruto>I<w5>.<w5>.<w5>.really have no idea, Sakura|Could you tell me more?
-<sakura>「ナルト・・・<w21>　こえが　うわずってるわよ！|しょうがない　おしえてあげるわ」=<sakura>Naruto your...<w21>voice is actually cracking|Fine I'll tell you
+<narrator><instant>　そのとおり|　もちろん　しってる<0B>=<narrator><instant>　Y-yes!|　Of course I do!<0B>
+<naruto>「や<w5>・<w5>・<w5>・<w21>　やだなぁ　サクラちゃん|そのくらい　しってるってばよォ？」=<naruto>I<w5>.<w5>.<w5>.of course I know, Sakura|You think I wouldn't know?
+<sakura>「ナルト・・・<w21>　こえが　うわずってるわよ！|しょうがない　おしえてあげるわ」=<sakura>Naruto...<w21>your voice is trembling|Fine, I'll just tell you
 <sakura>「任務がおわったら　かならず　忍者学校にある|<blue>依頼受付所（いらいうけつけじょ）<black>にいくの」=<sakura>When you finish your mission, you have to go the <blue>Mission Reception <black>at the Ninja Academy!
 <sakura>「そこで　任務しゅうりょうのほうこくと|ほうしゅうを　うけとるのよ」=<sakura>There you will report to your mission's assigner or sometimes the client directly
 <sasuke>「いうまでもないが　ほうしゅうは|おかねのことだからな・・・」=<sasuke>Needless to say, we do these requests for our funding
