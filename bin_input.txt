@@ -5,7 +5,7 @@
 やめる=Quit
 かいふく=Heal
 くみて=Kumite
-サバイバルくみて=Survival Kumite
+サバイバルくみて=Survival
 せつめい=Explanation
 つうしんたいせん=VS Battle
 アイテムこうかん=Trade Items
