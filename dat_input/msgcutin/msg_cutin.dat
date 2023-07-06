@@ -1,4 +1,4 @@
-タッチパネルをこすって　チャクラをねりこめ！！=Slide stylus up and down to build chakra!
+﻿タッチパネルをこすって　チャクラをねりこめ！！=Slide stylus up and down to build chakra!
 タッチパネルをこすって|チャクラをコントロールしろ！！=Slide stylus up and down to control the chakra!
 <small_naruto>「あ！」=<small_naruto>Hey!
 <small_naruto>「うっふ～ん」=<small_naruto>Hee hee.
@@ -28,7 +28,7 @@
 <small_sasuke>「風魔手裏剣　影風車（ふうましゅりけん|かげふうしゃ）！！！」=<small_sasuke>Demon Wind Shuriken, Windmill of Shadows!!!
 <small_sasuke>「影手裏剣（かげしゅりけん）！！」=<small_sasuke>Shadow Shuriken Jutsu!!!
 <small_sasuke>「ハァァァァ！！|千鳥（ちどり）！！！」=
-<14012B><small_sasuke>「千鳥（ちどり）！！！！！」=<14012B><small_sasuke>CHIDORI!!!!
+<small_sasuke>「千鳥（ちどり）！！！！！」=<small_sasuke>CHIDORI!!!!
 <small_sakura>「うかつに　うごくと　あぶないわよー！」=
 <small_sakura>「しゃーんなろー！」=<small_sakura>Cha!
 <small_sakura>「しゃーんなろ！　しゃーんなろ！　しゃーんなろ！|しゃーんなろー！！」=<small_sakura>Cha! Cha! Cha! Cha!!!
@@ -212,9 +212,9 @@
 <140072><small_kiba>「牙通牙（がつうが）！！」=<140072><small_kiba>Fang Over Fang!!!
 <small_jiraiya>「のぞきが　バレるだろーが！」=
 <14009F><small_choji>「ポッチャリけい　バンザーイ！！」=<14009F><small_choji>CHUBBIES RULE!!!
-<symbolFF><small_naruto>「くらえ！！」=<symbolFF><small_naruto>TAKE THAT!!
-<symbolFF><tsunade>「なっ！　この術は！？」=<symbolFF><tsunade>What!? What is that Jutsu!?
-<140125><symbolFF><small_tsunade>「うぉおおりゃぁあ！！」=<140125><symbolFF><small_tsunade>HAIYAAAA!!
+<symbolff><small_naruto>「くらえ！！」=<symbolff><small_naruto>TAKE THAT!!
+<symbolff><tsunade>「なっ！　この術は！？」=<symbolff><tsunade>What!? What is that Jutsu!?
+<140125><symbolff><small_tsunade>「うぉおおりゃぁあ！！」=<140125><symbolff><small_tsunade>HAIYAAAA!!
 <tsunade>「縄樹・・・<w21>　ダン・・・」=<tsunade>Nawaki...<w21>Dan...
 <orochimaru>「さぁ・・・」=<orochimaru>I'm waiting...
 <small_naruto>「<blue>火影は　オレの　ゆめだから・・・<black>」=<small_naruto><blue>"Because being a Hokage is my dream..."<black>
@@ -254,10 +254,10 @@
 <sasuke>「うわあぁあああああああ！！！！」=<sasuke>AAAAAAAAAAAAH!!!
 <small_sasuke>「<blue>いいから　たたかえ！<black>」=<small_sasuke><blue>I can still fight!<black>
 <naruto>「！！」=<naruto>!!!
-<14012B><small_narrator><symbolFF><small_sasuke>「千鳥（ちどり）！！」=<14012B><small_narrator><symbolFF><small_sasuke>Chidori!!
-<small_narrator><symbolFF><small_naruto>「ぜってェ　かつ！」=<small_narrator><symbolFF><small_naruto>OH YEAH I DO!
-<small_narrator><symbolFF><sasuke6>「いいきになってんじゃねェ！！」=<small_narrator><symbolFF><sasuke6>Quit screwing around!!
-<140063><symbolFF><small_naruto><15>「螺旋丸（らせんがん）！！」=<140063><symbolFF><small_naruto><15>Rasengan!!
+<14012b><small_narrator><symbolff><small_sasuke>「千鳥（ちどり）！！」=<14012b><small_narrator><symbolff><small_sasuke>Chidori!!
+<small_narrator><symbolff><small_naruto>「ぜってェ　かつ！」=<small_narrator><symbolff><small_naruto>OH YEAH I DO!
+<small_narrator><symbolff><sasuke6>「いいきになってんじゃねェ！！」=<small_narrator><symbolff><sasuke6>Quit screwing around!!
+<140063><symbolff><small_naruto><15>「螺旋丸（らせんがん）！！」=<140063><symbolff><small_naruto><15>Rasengan!!
 <small_sakura>「やめて・・・　ふたりとも|やめてよーー！！」=<small_sakura>Stop it, you two! Just quit it!
 <small_sasuke>「くそっ！」=<small_sasuke>Dammit!
 <small_naruto>「とめきれねェ！」=<small_naruto>I can't stop it!
@@ -319,11 +319,11 @@
 <small_tenten><instant>「キメてっ！！」=
 <small_itachi><instant>「チカラがたりないのだ・・・」=
 <small_shikamaru><instant>「へっ！　かかったな！！」=
-<symbolFF><small_sasuke>「<blue>よォ・・・|ケガはねーかよ　ビビリくん<black>」=
+<symbolff><small_sasuke>「<blue>よォ・・・|ケガはねーかよ　ビビリくん<black>」=
 <naruto><instant>「！！！！」=<naruto><instant>!!!!
 <symbol01><small_sasuke>「ナ・・・　ナルト」=
 <small_naruto>「ハァ　ハァ　ハァ・・・|よォ　ケガはねーかよ・・・」=
-<symbolFF><small_naruto>「<blue>ビビリくん<black>」=
+<symbolff><small_naruto>「<blue>ビビリくん<black>」=
 <sasuke><instant>「！！！！」=<sasuke><instant>!!!!
 <small_sasuke>「ナルト・・・」=<small_sasuke>Naruto...
 <small_sasuke>「<blue>オレは　おまえとも　たたかいたい・・・<black>」=
