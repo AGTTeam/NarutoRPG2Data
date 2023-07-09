@@ -116,7 +116,7 @@
 <naruto>「ウオオオオオオオオオオ！！！！」=<naruto>WHOAAAAAAA!!!!
 <kabuto>「こっ・・・<w16>　これは！！」=<kabuto>Th-<w16>That was--!
 <tsunade>「まさか　こんな　みじかいあいだに|あの螺旋丸を・・・」=<tsunade>So he summoned his Shadow Clone to help him with his Chakra...
-<narrator><130F>らせん丸をおぼえた！=<narrator><130F>Learned the Fourth Hokage's Rasengan!!
+<narrator><130f>らせん丸をおぼえた！=<narrator>Learned the <130f>Fourth Hokage's Rasengan!!
 <naruto>「ぐはっ！！」=<naruto>Nngh!
 <tsunade>「ナルトのやつ・・・　あのガキに|なにか　やられたようだな」=<tsunade>This kid...he drove himself to exhaustion.
 <kabuto>「クク・・・　ナルトくんは　もうだめだよ|九尾のチカラをつかえないように　したからね」=<kabuto>Oh well...it looks like the Nine Tails' Chakra didn't save him from this one.
@@ -133,7 +133,7 @@
 <naruto>「スー<w16>　スー<w16>　スー・・・」=<naruto>ZZZZZ...
 <tsunade>「フフッ・・・|火影は　オレの　ゆめだから　<w32>・・・かぁ」=<tsunade>To be Hokage...is your dream,<w32> isn't it?
 <tsunade>「さいごに・・・<w32>さいごに　もういちどだけ|アンタに　かけてみたくなった・・・」=<tsunade>I'll believe in you...<w32> I want to be right this time...
-<narrator><130c>綱手のくびかざり　をてにいれた=<narrator><130c>Obtained Tsunade's Necklace.
+<narrator><130c>綱手のくびかざり　をてにいれた=<narrator>Obtained <130c>Tsunade's Necklace.
 <orochimaru>（まさか　ここまでやるとはね・・・　あの子|（こ）が　暁にわたると　めんどうね　つまり）=<orochimaru>(To think he's mastered such a complex Jutsu... He will become a pain later on.)
 <orochimaru>（やるなら・・・<w16>　いま！！）=<orochimaru>(Time to get rid of this pain...now!)
 <jiraiya>「チィ！　くすりのせいで|うまく　うごけねぇ！！」=<jiraiya>Dammit! The drug’s effects still haven't worn off!!
@@ -203,6 +203,6 @@
 <symbolff><small_kabuto>「クク・・・　まだ　わからないみたいだね」=<symbolff><small_kabuto>Hehe... You still don't understand.
 「このままじゃ　死ぬよ」=I'LL GIVE YOU THE SWEET RUSH OF DEATH!
 <narrator>綱手と自来也を　そうさして　大蛇丸をたおせ！=<narrator>Use Tsunade and Jiraiya to defeat Orochimaru!
-<narrator><130F>口よせ・ガマ竜（たつ）をおぼえた！=<narrator><130F>You can now summon Gamatatsu!
+<narrator><130f>口よせ・ガマ竜（たつ）をおぼえた！=<narrator><130f>You can now summon Gamatatsu!
 <1312>ガマ竜（たつ）が　なかまになった！=<1312>Gamatatsu has joined your party!
 <gamatatsu>「ぼくは　みずのうえを|あるくことができる　です！」=<gamatatsu>I can help you walk on water!
