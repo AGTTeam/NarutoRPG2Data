@@ -40,7 +40,7 @@
 <shizune>「<w5>・<w5>・<w5>・<w5>ハイ」=<shizune>Of course.
 <shizune>（おねがいします　自来也さま・・・）=<shizune>(Please don't make a mess when I'm not around, Lady Tsunade...)
 <shizune>「じゃあ　<blue>短冊街<black>にもどって|<blue>やどや<black>を　さがしましょう・・・」=<shizune>Let's head back to <blue>Tanzaku Town <black>and search for a <blue>hotel<black>!
-<symbolFF><small_naruto>「くっそー！」=<symbolFF><small_naruto>Darn it!
+<symbolFF><small_naruto>「くっそー！」=<symbolFF><small_naruto>Darn it!#these two lines dupe in btl_msg_001
 <symbolFF><small_tsunade>「てかげんしてやって　このていどとはね」=<symbolFF><small_tsunade>Give me a break, this battle is a joke!
 <symbolFF><small_tsunade>「これでも　くらいな！！」=<symbolFF><small_tsunade>Take that!!
 <tsunade>「かくごは　できてるか？　<w32>ガキ！」=<tsunade>You ready for me, <w32>Brat!?

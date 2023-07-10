@@ -97,7 +97,7 @@
 <kakashi>「ナルトを　たおすきだったのか？|なんで　こんな　こどもじみたマネを」=<kakashi>Were you really going to kill him just now? When are you gonna grow up, Sasuke?
 <kakashi>（やはり　イタチとのさいかいか？）=<kakashi>(Was it because of his mix-up with Itachi?)
 <symbol3a><small_sasuke>「フン・・・」=<symbol3a><small_sasuke>Tch...
-<sakura>「うっ・・・　うっうっ|カカシ先生ェ・・・」=<sakura>Sob... Kakashi Sensei...
+<sakura>「うっ・・・　うっうっ|カカシ先生ェ・・・」=<sakura>Sob... Kakashi-sensei...
 <kakashi>（ハァ～～・・・|チームワークは　どこへやら・・・）=<kakashi>Sigh... Just where did your teamwork up and vanish to...?
 <kakashi>「アナタですか　あの術を　おしえたのは？|ヘタしたら　サスケを・・・」=<kakashi>I take it you're the one who taught him this Jutsu? He could have very much killed Sasuke just now...
 <jiraiya>「おたがいさまだのォ・・・　あの千鳥も|そうとう　やばかったのォ　・・・でもまぁ」=<jiraiya>Aren't you a fine one to talk... Teaching this Chidori to a hothead like Sasuke?
@@ -123,7 +123,7 @@
 <kakashi>「では　ナルトは　おまかせします|ま！　わたしも　千鳥のことがあるので」=<kakashi>Then I'll leave Naruto to you. I gotta talk to Sasuke about the Chidori.
 <kakashi>「だいじょーぶ！|また　むかしみたいに　なれるさ！」=<kakashi>Everything wil be just fine! Things will be back the way they were, just you watch!
 <sakura>「・・・う・・・ん」=<sakura>...Right.
-<sakura>（ありがと・・・　カカシ先生）=<sakura>(Thanks, Kakashi Sensei.)
+<sakura>（ありがと・・・　カカシ先生）=<sakura>(Thanks, Kakashi-sensei.)
 <naruto>「サクラちゃん・・・　じゃましないで|くれってばよ！」=<naruto>Listen Sakura...stay out of it for good.
 <sakura>「ナルト！　アンタにすこし|はなしがあるの！」=<sakura>Naruto, I really need to talk to you about something!
 <sakura>「デートしてあげるから　ちょっと|つきあいなさいよ！」=<sakura>So I need to see you in while.
@@ -132,8 +132,8 @@
 <sakura>「かならず　くるのよ！」=<sakura>I'll see you there!
 <naruto>「サ・・・　サクラちゃん！？」=<naruto>S-Sakura!?
 <naruto>「・・・・・・」=<naruto>......
-<symbolff><small_itachi>「おろかなる　おとうとよ・・・」=<symbolff><small_itachi>Foolish little brother.
-<symbolff><small_itachi>「オレを　たおしたくば　うらめ！　にくめ！」=<symbolff><small_itachi>If you wish to kill me, then you must hate me.
+<symbolff><small_itachi>「おろかなる　おとうとよ・・・」=<symbolff><small_itachi>Foolish little brother...#these 3 lines dupe in btl_msg_006
+<symbolff><small_itachi>「オレを　たおしたくば　うらめ！　にくめ！」=<symbolff><small_itachi>To defeat me you must embrace your hatred of me! Your jealousy!
 <symbolff><small_itachi>「そして　みにくく　いきのびるがいい・・・」=<symbolff><small_itachi>Let that hatred fuel you into living...
 <symbolff><small_itachi>「にげて　にげて　生（せい）にしがみつくがいい」=<symbolff><small_itachi>Flee...Flee into safety and live your pathetic life.
 <symbolff><small_sasuke>「うわぁああああ！！」=<symbolff><small_sasuke>UNGAAAAAAH!!

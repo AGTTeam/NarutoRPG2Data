@@ -59,6 +59,6 @@
 <narrator>「これを　<blue>セーブ<black>というんだけど　きけんな|任務のまえには　セーブしておくほうがいいわ」=
 <narrator>「・・・また　任務は　なにがおこるか|わからないから」=
 <narrator>「ねんのために　任務のまえの　<blue>あんぜんな|セーブデータ<black>を　つくっておいたほうが　いいわよ！」=
-<narrator>「そこにみえている　<blue>“木ノ葉マーク”<black>のうえにのると|スタミナとチャクラが　ぜんかいふくするぞ！」=
+<narrator>「そこにみえている　<blue>“木ノ葉マーク”<black>のうえにのると|スタミナとチャクラが　ぜんかいふくするぞ！」=<narrator>If you stand above the <blue>Leaf Symbol<black>, you'll regenerate your Stamina and Chakra!#dupes
 <narrator>「任務（にんむ）で　きずついたときは|ゆうこうに　かつようするように！」=
 <narrator><instant>はるのサクラ　　１００てん|うずまきナルト　　　０てん=
