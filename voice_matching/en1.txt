@@ -21,6 +21,7 @@ en1\VOICE_000_S=I'll crush you.
 en1\VOICE_000_T=Naruto: Path of the Ninja
 en1\VOICE_000_U=I'll surpass every Hokage of past generations!
 
+Sasuke
 en1\VOICE_001_A=Let's go.
 en1\VOICE_001_B=Yah.
 en1\VOICE_001_C=Darn it... Ngh...
@@ -44,6 +45,7 @@ en1\VOICE_001_T=Chidori
 en1\VOICE_001_U=RrrrraAAAGH! Chidori!
 en1\VOICE_001_V=Fire Style: Phoenix Flower Jutsu
 
+Sakura
 en1\VOICE_002_A=Here I go!
 en1\VOICE_002_B=Yah!
 en1\VOICE_002_C=Uaaghhh...
@@ -148,6 +150,7 @@ en1\VOICE_007_O=Yaaghhh
 en1\VOICE_007_P=Leaf Hurricane
 en1\VOICE_007_Q=Leaf Whirlwind
 
+Gaara
 en1\VOICE_008_A=That's my cue.
 en1\VOICE_008_B=Huuh.
 en1\VOICE_008_C=Uaagh.
@@ -164,6 +167,7 @@ en1\VOICE_008_M=This is the end!
 en1\VOICE_008_N=There's no way... I'm finished...
 en1\VOICE_008_O=Sand Shuriken
 
+Temari
 en1\VOICE_009_A=Did you call me?
 en1\VOICE_009_B=Yah!
 en1\VOICE_009_C=Aagh!
@@ -216,6 +220,7 @@ en1\VOICE_00b_Q=Summoning Jutsu
 
 en1\VOICE_00c=dummy
 
+Orochimaru
 en1\VOICE_00d_A=Here I come.
 en1\VOICE_00d_B=Hah!
 en1\VOICE_00d_C=You're pretty good.
@@ -230,6 +235,7 @@ en1\VOICE_00d_K=Take that!
 en1\VOICE_00d_L=This is the end!
 en1\VOICE_00d_M=I let my guard down...
 
+Kakashi
 en1\VOICE_00e_A=Okay, let's do it.
 en1\VOICE_00e_B=Take that.
 en1\VOICE_00e_C=Agh!
@@ -247,6 +253,7 @@ en1\VOICE_00e_N=Hyaah.
 en1\VOICE_00e_O=Ngh... I'm out.
 en1\VOICE_00e_P=Sharingan!
 
+Ino
 en1\VOICE_00f_A=I won't lose!
 en1\VOICE_00f_B=Yah!
 en1\VOICE_00f_C=That sucks...
@@ -262,6 +269,7 @@ en1\VOICE_00f_L=Charge!
 en1\VOICE_00f_M=It wasn't supposed to be this way...
 en1\VOICE_00f_N=Mind Transfer Jutsu
 
+Shino
 en1\VOICE_010_A=Leave it to me.
 en1\VOICE_010_B=Hmph.
 en1\VOICE_010_C=No way...
@@ -295,6 +303,7 @@ en1\VOICE_011_N=I'm sorry...
 en1\VOICE_011_O=Byakugan
 en1\VOICE_011_Q=Use this.
 
+Tenten
 en1\VOICE_012_A=That's my cue!
 en1\VOICE_012_B=Hah!
 en1\VOICE_012_C=Ugghh.
