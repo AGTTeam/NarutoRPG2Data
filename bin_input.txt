@@ -206,8 +206,8 @@
 は　おちこんでしまった・・・= is depressed...
 なにももっていなかった=
 　を盗まれた！= was stolen!
-両=ryo#the UI was adjusted in POTN1 to move the numbers so this + the next line could fit
-回=X#time(s)
+両=ryo
+回=times
 は<blue>= gained <blue>#gained might need to be removed
 <u48>　<u49>=<u48> <u49>
 それぞれ=Each
