@@ -29,7 +29,7 @@
 <kabuto>「いまのきみは　ちっぽけな　ムシケラみたいな|もんだから・・・　<w32>でしゃばるなら」=<kabuto>You're just a child sitting at the grown-up's table. So don't interfere...
 <kabuto><instant>「やるよ」=<kabuto><instant>Or die trying.
 <jiraiya>「よせ！　ナルト！！」=<jiraiya>Don't listen to him, Naruto!!
-<naruto>「いくってばよ！！」=<naruto>Oh that's it!!
+<naruto>「いくってばよ！！」=<naruto>Oh, that's it!!
 <naruto><instant>「ぐあっ！！」=<naruto><instant>Ungh!!
 <jiraiya>「メガネは　シズネ　おまえがやれ|大蛇丸は　ワシがやる」=<jiraiya>I'll leave Four Eyes to you, Shizune. Orochimaru's all mine.
 <jiraiya>「綱手・・・　おまえは　かいふく忍術で|カラダをやすめとけ」=<jiraiya>Tsunade, you focus on healing yourself with your Medical Ninjutsu.
@@ -76,7 +76,7 @@
 <jiraiya>「忍のさいのうは　そんなところに|ありゃしねぇ・・・　まだ　わからねーのか」=<jiraiya>You're wrong, very wrong. You never did get it.
 <jiraiya>「忍者とは　<blue>“忍び　たえる者（もの）”<black>の|ことなんだよ」=<jiraiya>A real Shinobi is one who <blue>endures whatever is thrown at them<black>!
 <orochimaru>「かんがえかたの　ちがいね」=<orochimaru>A mere difference of opinion.
-<jiraiya>「ひとつ　てめーに　おしえといてやる|忍のさいのうで　いちばんたいせつなのは」=<jiraiya>Fine let me explain it to you. There is one thing that matters when you call someone a Shinobi.
+<jiraiya>「ひとつ　てめーに　おしえといてやる|忍のさいのうで　いちばんたいせつなのは」=<jiraiya>Fine, let me explain it to you. There is one thing that matters when you call someone a Shinobi.
 <jiraiya>「もってる術の　かずなんかじゃねェ・・・|たいせつなのは・・・」=<jiraiya>It is not the number of Jutsus mastered by the Shinobi, it is...
 <jiraiya><instant>「<blue>あきらめねェ　どこんじょうだ！！<black>」=<jiraiya><instant><blue>The guts to never give up!!!<black>
 <naruto><instant>「いいかげんにしやがれ！！」=<naruto><instant>Back off, that's enough!
@@ -106,11 +106,11 @@
 <tsunade>「もういい・・・　わたしを　かばうな|ナルト・・・　<w32>もうやめろ！！」=<tsunade>Naruto you don't have to protect me! <w32>Please stop!
 <kabuto>「そういう　いじはってると|死ぬって　いっただろ！！」=<kabuto>Oh you have thrown your life away now for real!
 <kabuto>「死んだら　なにもかも・・・|ゆめも　なにも　ないんだよ！！」=<kabuto>Say goodbye to your dreams!
-<tsunade>「もういいから　どけ！！　にげろ！」=<tsunade>Just step aside Naruto!
+<tsunade>「もういいから　どけ！！　にげろ！」=<tsunade>Just step aside, Naruto!
 <naruto>「フン・・・　だいじょうぶだってばよ」=<naruto>I'll be fine!
 <naruto>「オレは　火影になるまで|ぜってェ　死なねーからよ！！」=<naruto>Until I become a Hokage, I won't die!!
 <tsunade>「！」=<tsunade>!!!
-<naruto>「へっ・・・　これで　にがさねーですむ|いくぜっ！！」=<naruto>Oh try to avoid this one now!
+<naruto>「へっ・・・　これで　にがさねーですむ|いくぜっ！！」=<naruto>Oh, try to avoid this one now!
 <kabuto>「くっ・・・　うでを　つかまれたか！|にげられない！！」=<kabuto>He's got my arm trapped! I can't move!
 <naruto>「<blue>螺旋丸（らせんがん）！！！！<black>」=<naruto><blue>Rasengan!!!!!<black>
 <naruto>「ウオオオオオオオオオオ！！！！」=<naruto>WHOAAAAAAA!!!!
@@ -195,7 +195,7 @@
 <tsunade>（火影は　オレのゆめだから　<w32>・・・かぁ）=<tsunade>(To become the Hokage is your dream...<w32>huh...?)
 <tsunade>「すこし　短冊街でやすんで　ナルトの|めが　さめたら　木ノ葉にかえるわよ」=<tsunade>Let's carry him back to the inn, we'll go back to the village when he opens his eyes again.
 <jiraiya>「綱手・・・」=<jiraiya>Tsunade...
-<tsunade>「フン・・・<w16>　これからは|“綱手”じゃなくて　こうよびな」=<tsunade>Hmph...<w16> I better not catch you calling me a plai “Tsunade”, old man.
+<tsunade>「フン・・・<w16>　これからは|“綱手”じゃなくて　こうよびな」=<tsunade>Hmph...<w16> From now on, I'm not called "Tsunade", I'm the Fifth Hokage.
 <naruto>「五代目火影さまぁ！？」=<naruto>SHE'S THE WHAT NOW!?
 <symbolff><small_kabuto>「クク・・・」=<symbolff><small_kabuto>Hehehehe.#these three lines dupe in btl_msg_002
 「このていどで　ボクに　かったつもりかい？」=You really think you can best me?
