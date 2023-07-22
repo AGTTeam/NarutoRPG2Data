@@ -1,9 +1,9 @@
 <narrator>「ダミーメッセージ」=
-<narrator>「ふ～・・・　ここは　いちめん　どくだらけで|あるくのが　たいへんだなァ・・・」=
-<narrator>「じつは　マンダっていうやつの　入よくけんを|みつけたんだ・・・」=
-<narrator>「１５００００両で　かわないかい？」=
-<narrator><instant>　かわない|　かう<0B>=
-<narrator>「そうか・・・　わかったよ！　オレは　いつでも|ここにいるから　ほしくなったらはなしかけてくれ！」=
-<narrator>「う～ん・・・　おかねが　たらないみたいだ|おかねがたまったら　はなしかけてくれ！」=
-<narrator><130e>マンダの入よくけんを　てにいれた！<sound04>=
-<narrator>「たいせつに　つかってくれ！」=
+<narrator>「ふ～・・・　ここは　いちめん　どくだらけで|あるくのが　たいへんだなァ・・・」=<narrator>Sigh....I can't walk back cuz of the poison...
+<narrator>「じつは　マンダっていうやつの　入よくけんを|みつけたんだ・・・」=<narrator>But I DID come across this summoning manual for Manda...
+<narrator>「１５００００両で　かわないかい？」=<narrator>Wanna have it for 150000 ryo?
+<narrator><instant>　かわない|　かう<0B>=<narrator>Maybe later| That's cheap enough<0B>
+<narrator>「そうか・・・　わかったよ！　オレは　いつでも|ここにいるから　ほしくなったらはなしかけてくれ！」=<narrator>Oh I see...I'll be here for a while, so don't worry about missing out on it
+<narrator>「う～ん・・・　おかねが　たらないみたいだ|おかねがたまったら　はなしかけてくれ！」=<narrator>Whoa there, buddy, you wouldn't wanna cheat little old me now, do you?
+<narrator><130e>マンダの入よくけんを　てにいれた！<sound04>=<narrator><130e>Obtained the Manda Summoning Manual!<sound04>
+<narrator>「たいせつに　つかってくれ！」=<narrator>Don't go destroying villages now!
