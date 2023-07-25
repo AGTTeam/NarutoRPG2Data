@@ -1,7 +1,7 @@
 <narrator>「ダミーメッセージ」=
 <narrator>「いらっしゃいませ|ここは　どうぐやです」=<narrator>Welcome! This is the item shop.
 <narrator>ひきだしのなかに|<130b>兵糧丸（ひょうろうがん）を　みつけた！=
-<narrator><130b>兵糧丸（ひょうろうがん）を　てにいれた！<sound04>=
+<narrator><130b>兵糧丸（ひょうろうがん）を　てにいれた！<sound04>=<narrator>Obtained <130b>Food Pills!<sound04>
 <narrator>いろいろな　くすりが　はいっているみたいだ=
 <narrator>「かいふくアイテムは　きらさないように|もちあるいて　おいたほうがいいぞ」=<narrator>You should try to carry as many healing items as you can.
 <narrator>「とくに！　<blue>兵糧丸（ひょうろうがん）<black>シリーズは|<blue>スタミナを　かいふく<black>してくれ・・・」=

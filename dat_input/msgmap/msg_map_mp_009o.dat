@@ -23,6 +23,6 @@
 <narrator><instant>　はい|　いいえ<0B>=
 <narrator>れいぞうこの中（なか）の　ぎゅうにゅう・・・|きげんきれてる・・・=
 <narrator><130b>カップラーメンを　みつけた！=
-<narrator><130b>カップラーメンを　てにいれた！<sound04>=
+<narrator><130b>カップラーメンを　てにいれた！<sound04>=<narrator>Obtained <130b>Cup Ramen!<sound04>
 <blue>ラーメンＢＯＸ（ボックス）<black>|カップラーメンが　いっぱい　はいっている=
 <narrator>せのたかい　かんようしょくぶつ|キチンと　ていれされている・・・=

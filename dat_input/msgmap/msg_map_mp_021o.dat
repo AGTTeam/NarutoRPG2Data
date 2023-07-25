@@ -6,7 +6,7 @@
 <narrator><instant>　いらない|　ゆずってもらう<0B>=
 <narrator>「そうなんだ・・・　わたしは　いつでも　ここに|いるから　ゆずってほしくなったらはなしかけてね！」=
 <narrator>「う～ん・・・　おかねが　たらないみたいだよ|おかねがたまったら　はなしかけてね！」=
-<narrator><130e>このはまるの入よくけんを　てにいれた！<sound04>=
+<narrator><130e>このはまるの入よくけんを　てにいれた！<sound04>=<narrator>Obtained <130e>Konohamaru's Bath Ticket!<sound04>
 <narrator>「たいせつに　つかってね！」=
 <ebisu>「忍者学校は　いま　おおいそがしですぞ！」=
 <ebisu>「もうすぐ　忍者学校がさいかいしますぞ！|ああ　いそがしい・・・」=

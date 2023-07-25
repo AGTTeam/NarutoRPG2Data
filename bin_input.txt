@@ -260,11 +260,11 @@
 ひのくにこっきょう　このはがくれがわ=Land of Fire - Konoha Border
 ＶＳ　<u48>勝=<u48> Wins
 セーブファイル・臨=Save File Rin
-をロードしました$$=has been loaded.
+をロードしました$$=has been loaded.$$
 データがありません=There is no data.
 セーブファイル・兵=Save File Hyo
-に　セーブしました$$=has been saved.
-を　さくじょしました$$=has been deleted.
+に　セーブしました$$=has been saved.$$
+を　さくじょしました$$=has been deleted.$$
 データをロードちゅう・・・=Loading...
 データをセーブちゅう・・・=Saving...
 データをさくじょちゅう・・・=Deleting...
@@ -327,5 +327,5 @@
 ボイス=Voice
 ＢＧＭ=
 ＳＥ　=
-Ａボタンで　さいせい、Ｘボタンで　ていし|Ｂボタンで　もどります=Play with the A Button, stop with the X button, back with the B Button
+Ａボタンで　さいせい、Ｘボタンで　ていし|Ｂボタンで　もどります=Play with the A Button, stop with the X button, back with the B Button.
 くちよせシートを　おいてください=
