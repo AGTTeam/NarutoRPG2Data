@@ -1,12 +1,12 @@
 <narrator>「ダミーメッセージ」=
-<konohamaru>「ここでは　<blue>くちよせシート<black>が|できるんだな　コレ！」=
+<konohamaru>「ここでは　<blue>くちよせシート<black>が|できるんだな　コレ！」=<konohamaru>You can use your Summoning Sheets here, okay!
 <konohamaru>「まず！　このくちよせシートは　いちど|ゲームをクリアしないと　つかえないんだ」=
 <konohamaru>「・・・つぎに　くちよせシートを|よういするんだな　コレ！」=
-<konohamaru>「くちよせシートを　下（した）がめんに|セットして・・・」=
-<konohamaru>「ばんごうじゅんに　あなのところを|タッチするんだ！」=
+<konohamaru>「くちよせシートを　下（した）がめんに|セットして・・・」=<konohamaru>Get the Summoning Sheet you found and place it over the Touch Screen.
+<konohamaru>「ばんごうじゅんに　あなのところを|タッチするんだ！」=<konohamaru>Then touch the screen in the order written on it. That's it!
 <konohamaru>「すると！　レアなそうびひんや|どうぐ・だいじなものがてにはいるんだ！」=
 <konohamaru>「どうぐによっては　“つかう”をしてみると|すごいことがおこるものも　あるんだ！」=
-<konohamaru>「こんなかんじなんだな　コレ！|・・・わかったか？」=
+<konohamaru>「こんなかんじなんだな　コレ！|・・・わかったか？」=<konohamaru>You got that?
 <narrator><instant>　まだ　よくわからない・・・|　りかいできた<0B>=
 <konohamaru>「そーか・・・　じゃ！|もういちど　せつめいするんだな　コレ！」=
 <konohamaru>「わかったんだな　コレ！|ンじゃあ・・・」=
