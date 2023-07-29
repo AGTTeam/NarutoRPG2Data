@@ -13,4 +13,5 @@ sound/en1
 sound/en2
 sound/jp
 fontdata*.bin
+dictionary.asm
 .DS_Store
