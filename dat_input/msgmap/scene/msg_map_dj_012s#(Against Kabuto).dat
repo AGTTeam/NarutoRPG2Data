@@ -116,7 +116,7 @@
 <naruto>「ウオオオオオオオオオオ！！！！」=<naruto>WHOAAAAAAA!!!!
 <kabuto>「こっ・・・<w16>　これは！！」=<kabuto>Th-<w16>That was--!#dupe in msg_cutin
 <tsunade>「まさか　こんな　みじかいあいだに|あの螺旋丸を・・・」=<tsunade>So he summoned his Shadow Clone to help him with his Chakra...
-<narrator><130f>らせん丸をおぼえた！=<narrator>Learned the <130f>Fourth Hokage's Rasengan!!
+<narrator><130f>らせん丸をおぼえた！=<narrator>Learned <130f>Rasengan!!
 <naruto>「ぐはっ！！」=<naruto>Nngh!
 <tsunade>「ナルトのやつ・・・　あのガキに|なにか　やられたようだな」=<tsunade>This kid...he drove himself to exhaustion.
 <kabuto>「クク・・・　ナルトくんは　もうだめだよ|九尾のチカラをつかえないように　したからね」=<kabuto>Oh well...it looks like the Nine Tails' Chakra didn't save him from this one.
@@ -203,6 +203,6 @@
 <symbolff><small_kabuto>「クク・・・　まだ　わからないみたいだね」=<symbolff><small_kabuto>Hehe... You still don't understand.#btl_msg_003
 「このままじゃ　死ぬよ」=I'LL GIVE YOU THE SWEET RUSH OF DEATH!
 <narrator>綱手と自来也を　そうさして　大蛇丸をたおせ！=<narrator>Take down Orochimaru using Tsunade and Jiraiya!#btl_msg_004
-<narrator><130f>口よせ・ガマ竜（たつ）をおぼえた！=<narrator><130f>You can now summon Gamatatsu!
+<narrator><130f>口よせ・ガマ竜（たつ）をおぼえた！=<narrator>You can now summon <1312>Gamatatsu!
 <1312>ガマ竜（たつ）が　なかまになった！=<1312>Gamatatsu has joined your party!
 <gamatatsu>「ぼくは　みずのうえを|あるくことができる　です！」=<gamatatsu>I can help you walk on water!

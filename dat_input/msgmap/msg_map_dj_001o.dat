@@ -20,7 +20,7 @@
 「ぜひ　いちど　みてみたい！！」=
 <narrator>「イチャイチャパラダイス・・・　よかった・・・|なみだが　とまらないよ・・・」=
 「なくしてしまった　なにかが　もどってきたよ|えーっと　・・・つぎの　じょうえいさくひんは・・・」=
-<blue>“げきじょうばん　ＮＡＲＵＴＯ一ナルト一|だいげきとつ！　まぼろしのちていいせきだってばよ”<black>=
+<blue>“げきじょうばん　ＮＡＲＵＴＯ一ナルト一|だいげきとつ！　まぼろしのちていいせきだってばよ”<black>=<blue>“Naruto the Movie: Legend of the Stone of Gelel”<black>
 「うーん・・・　これも　おもしろそうだな！|ぜひ　みにいきたいよ！！」=
 <narrator>「<blue>“木ノ葉くずし”<black>があってから　里もいろいろと|かわったよ　・・・とくに」=
 「火影さまが　いまいないってのが|やっぱ　キツイよな・・・　なんか　ふあんだ」=
@@ -80,9 +80,9 @@
 <narrator>うっ・・・<w48>|あせくささと　おとこくささが　いりまじって・・・=
 <narrator>うっ・・・<w48>|くさったみかんが　はいっていた・・・=
 <narrator>ハンモックだ！|ガイは　ここで　ねているのだろうか・・・=
-<narrator><instant><blue>“げきじょうばん　ＮＡＲＵＴＯ一ナルト一|だいげきとつ！　まぼろしのちていいせきだってばよ”<black>=
-<narrator><instant>２００５ねん　８がつ　６にち　こうかいよてい！！！！=
-<narrator><instant>“イチャイチャパラダイス・ムービー”|大（だい）ヒット　上映中（じょうえいちゅう）！！=
+<narrator><instant><blue>“げきじょうばん　ＮＡＲＵＴＯ一ナルト一|だいげきとつ！　まぼろしのちていいせきだってばよ”<black>=<narrator><instant><blue>“Naruto the Movie: Legend of the Stone of Gelel”<black>
+<narrator><instant>２００５ねん　８がつ　６にち　こうかいよてい！！！！=<narrator><instant>Coming to theaters July 26th, 2008!#English air date
+<narrator><instant>“イチャイチャパラダイス・ムービー”|大（だい）ヒット　上映中（じょうえいちゅう）！！=<narrator><instant>“Make-Out Paradise the Movie” now showing!!!
 <guy>「ネジ！|任務（にんむ）がんばっているか？」=
 <neji>「ああ・・・・・・」=
 <guy>「リーよ！|任務（にんむ）がんばっているか？」=

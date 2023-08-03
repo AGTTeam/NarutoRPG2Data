@@ -46,7 +46,7 @@
 <tsunade>「春野サクラ<w5>・<w5>・<w5>・<w5>　カカシから　ずのう|めいせき　こんじょうもあると　きいている」=<tsunade>I've heard great praise from Kakashi about you, Sakura Haruno.
 <tsunade>「いいだろう・・・<w21>　そのかわり|わたしは　あまくないよ！」=<tsunade>Very well...<w21>but don't expect me to go lightly on you!
 <sakura>「は・・・<w21>　はい！！」=<sakura>Y-<w21>Yes ma'am!!
-<tsunade>「ナルトじゃないか！　ちょうどよかった|おまえに　ようがあったんだよ」=<tsunade>Oh, Naruto! Good thing you stopped by.
+<tsunade>「ナルトじゃないか！　ちょうどよかった|おまえに　ようがあったんだよ」=<tsunade>Oh, Naruto! Good thing you stopped by.#This section dupes in mp_018o
 <tsunade>「コイツを　かしてやろうとおもってね」=<tsunade>I want you to take him with you.
 <tonton>「ブヒ！　ブヒ！」=<tonton>Oink Oink!
 <naruto>「トントン・・・？」=<naruto>You want me to take Tonton?
@@ -59,7 +59,7 @@
 <tonton>「<sound93>ブヒー！！」=<tonton><sound93>Oink!
 <tsunade>「おまえがつれてる　ガマたちとおなじで|いろんなところで　たすけてくれるはずさ」=<tsunade>Not to mention that he can also follow you around the way Gamakichi always does.
 <tsunade>「・・・じゃあ　たしかに|おまえに　あずけたからね！！」=<tsunade>Well, take care and good luck on your mission!!
-<narrator><130f>口よせ・トントンをおぼえた！=<narrator><130f>You can now summon Tonton!
+<narrator><130f>口よせ・トントンをおぼえた！=<narrator>You can now summon <1312>Tonton!
 <1312>トントンが　なかまになった！=<1312>Tonton has joined your party!
 <naruto>「さんきゅー！　綱手のバアちゃん！！」=<naruto>Thanks a million, Gramma Tsunade!!
 <tsunade>「また　なにか　こまったことがあれば|たずねてきな！」=<tsunade>Don't forget, you can always come to me if there's anything troubling you!
@@ -77,7 +77,7 @@
 <katsuyu>「いえ・・・　そんな・・・|おやくにたてるように　がんばります」=<katsuyu>Oh my...I don't deserve this much praise...I'm only doing what I can do.
 <tsunade>「カツユも　トントンとおなじで　いろんな|ところで　おまえを　たすけてくれるはずだ」=<tsunade>She can help you get through so many tight spots like Tonton, so make sure you check where she can help you!
 「・・・じゃあ　たしかに|おまえに　あずけたからね！！」=...Well then, good luck on your mission!
-<narrator><130f>口よせ・カツユをおぼえた！=<narrator><130f>You can now summon Katsuyu!
+<narrator><130f>口よせ・カツユをおぼえた！=<narrator>You can now summon <1312>Katsuyu!
 <narrator><1312>カツユが　なかまになった！=<narrator><1312>Katsuyu has joined your party!
 <naruto>「さんきゅー！　綱手のバアちゃん！！」=<naruto>Thanks a million, Gramma Tsunade!
 <tsunade>「また　なにか　こまったことがあれば|たずねてきな！」=<tsunade>You can come back anytime you want if you need my help!
