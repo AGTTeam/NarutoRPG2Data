@@ -40,7 +40,7 @@
 印入力　なし=Hand Sign: None
 じゅつが　ふうじられている！=Jutsu is sealed!
 チャクラが　たりない！=Not enough chakra!
-こうどうふのうの　みかたが　いません=
+こうどうふのうの　みかたが　いません=No KO’d allies.
 しあいを　ちゅうし　します=Quit the battle.
 せんとうから　だっしゅつ　します=Escape from battle.
 つかう=Use
@@ -129,7 +129,7 @@
 げんざいのけいけんち=Experience points
 つぎのレベルまで　あと=Until next level
 　おぼえたじゅつをひょうじ=Display jutsu acquired
-しゅうとくしている術はありません$$=No jutsu acquired$$
+しゅうとくしている術はありません$$=No jutsu acquired.$$
 せんぱつメンバーを　そうさして|じんけいを　くもう！$$=<instant>Set up a formation using your main party|members.$$
 じんけい=Formation
 こうか=Effect
