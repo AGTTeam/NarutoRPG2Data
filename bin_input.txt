@@ -226,7 +226,7 @@
 はレベルがあがった！$$= leveled up!$$
 <u48>しょう　　　　<u49>はい=<u48>Wins　<u49>Losses
 <katsuyu>「よくやったな！」$$=<katsuyu>Nice work!$$
-を　<u48>こ|てにいれた！$$=<u48>|obtained!$$
+を　<u48>こ|てにいれた！$$=  x<u48>|obtained!$$
 しんきろく　たっせい！！=New record achieved!!!
 <u49>のけいけんちをかくとく！$$=<u49> experience points!$$
 <katsuyu>「上忍ランクに　なったぞ！」$$=<katsuyu>You've become Jonin rank!$$
