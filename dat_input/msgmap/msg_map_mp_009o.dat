@@ -22,7 +22,7 @@
 <pakkun>「ようがあったら|いつでもはなしかけてくれ！」=<pakkun>Hit me up next time you wana go out, aight?
 <narrator><instant>　はい|　いいえ<0B>=<narrator><instant>　Yes|　No<0B>
 <narrator>れいぞうこの中（なか）の　ぎゅうにゅう・・・|きげんきれてる・・・=<narrator>The milk in the fridge... It's expired...
-<narrator><130b>カップラーメンを　みつけた！=<narrator> Found <130b>Cup Ramen!
+<narrator><130b>カップラーメンを　みつけた！=<narrator>Found <130b>Cup Ramen!
 <narrator><130b>カップラーメンを　てにいれた！<sound04>=<narrator>Obtained <130b>Cup Ramen!<sound04>
 <blue>ラーメンＢＯＸ（ボックス）<black>|カップラーメンが　いっぱい　はいっている=<blue>Ramen Box<black>|There are many cup ramen in there.
 <narrator>せのたかい　かんようしょくぶつ|キチンと　ていれされている・・・=<narrator>A tall plant... It's well taken care of...
