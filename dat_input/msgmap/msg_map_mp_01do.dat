@@ -21,9 +21,9 @@
 <narrator><instant>　まだ　よくわからない・・・|　りかいできた<0B>=<narrator><instant>　Not really...|　Consider me an expert!
 <ibiki>「・・・そうか|では　もういちどせつめいしよう」=<ibiki>Alright... I’ll go over it one more time for you.
 <ibiki>「りかいできたようだな！|では・・・」=<ibiki>I guess you were listening!|Well then...
-<asuma>「シカマル！|任務（にんむ）がんばってるか？」=
-<shikamaru>「めんどくせーけど|ま！　なるよーになってるか・・・」=
-<asuma>「チョウジ！|任務（にんむ）がんばってるか？」=
-<choji>「モグ　モグ　モグ・・・　うん・・・」=
-<asuma>「いの！|任務（にんむ）がんばってるか？」=
-<ino>「もっちろん！」=
+<asuma>「シカマル！|任務（にんむ）がんばってるか？」=<asuma>You doing on your missions, Shikamaru?
+<shikamaru>「めんどくせーけど|ま！　なるよーになってるか・・・」=<shikamaru>They're a drag, but I guess I'm cool with that
+<asuma>「チョウジ！|任務（にんむ）がんばってるか？」=<asuma>You better not be slacking off and just stuffing your face, Choji!
+<choji>「モグ　モグ　モグ・・・　うん・・・」=<choji> *munch* *munch* *munch* All's good here!
+<asuma>「いの！|任務（にんむ）がんばってるか？」=<asuma>Hey Ino! How's your performace looking?
+<ino>「もっちろん！」=<ino>I 16 hit combo'ed all the requirments!
