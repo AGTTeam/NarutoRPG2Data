@@ -3,10 +3,10 @@
 「<blue>Ｘボタン<black>か　<blue>スタートボタン<black>をおすと|<blue>フィールドコマンド<black>がめんを　ひらくことができるぞ！」=Press the <blue>X button<black> or <blue>Start button<black> to display the <blue>field command menu<black>!
 「フィールドコマンドがめんでは　<blue>どうぐ<black>や<blue>じゅつ<black>を|つかったり　<blue>そうび<black>や<blue>じんけい<black>のへんこう・・・」=On the field menu screen, you can use <blue>items<black>, <blue>jutsu<black> and also change <blue>equipment<black> and <blue>characters<black>...
 「なかまの<blue>ステータス<black>をみることができるぞ！|いちどひらいて　いろいろためしてみよう！」=You can check the <blue>status<black> of your teammates as well!|So why don't you give it a try?
-<narrator>「このまえ　そうじをしていたら　くれないというひとの|入よくけんを　みつけだんだ・・・」=
-<narrator>「８００００両で　かわないかい？」=
-<narrator><instant>　かわない|　かう<0B>=
-<narrator>「そうか・・・　ぼくは　いつでも　ここにいるから|かいたくなったら　はなしかけてくれ！」=
-<narrator>「う～ん・・・　おかねが　たらないみたいだね|おかねがたまったら　はなしかけてくれ！」=
+<narrator>「このまえ　そうじをしていたら　くれないというひとの|入よくけんを　みつけだんだ・・・」=<narrator>While I was cleaning around I found this bath ticket that belongs to someone called <blue>Kurenai Yuhi<black>.
+<narrator>「８００００両で　かわないかい？」=<narrator>Would it interest you for 80000 Ryo?
+<narrator><instant>　かわない|　かう<0B>=<narrator>I don't know her| I need it!<0B>
+<narrator>「そうか・・・　ぼくは　いつでも　ここにいるから|かいたくなったら　はなしかけてくれ！」=<narrator>Alrighty then...if you change your mind or know somebody who's interested let me know!
+<narrator>「う～ん・・・　おかねが　たらないみたいだね|おかねがたまったら　はなしかけてくれ！」=<narrator>I found it for free, but you'll have to fork over money for it! No money, no ticket!
 <narrator><130e>くれないの入よくけんを　てにいれた！<sound04>=<narrator>Obtained <130e>Kurenai's Bath Ticket!<sound04>
-<narrator>「たいせつに　つかってくれよな！」=
+<narrator>「たいせつに　つかってくれよな！」=<narrator>Pleasure doing business with you sir!
