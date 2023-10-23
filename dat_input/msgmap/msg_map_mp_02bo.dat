@@ -1,5 +1,5 @@
 <narrator>「ダミーメッセージ」=
-<shizune>「おかえりなさい　ナルトくん！|そろそろ　ねますか？」=
-<narrator><instant>　もうねる|　まだねない<0B>=
-<naruto>「オレってば　まだねないってばよ・・・」=
-<shizune>「そうですか・・・　<w48>わかりました|ねたくなったら　はなしかけてくださいね」=
+<shizune>「おかえりなさい　ナルトくん！|そろそろ　ねますか？」=<shizune>Welcome back, Naruto. WOuld you like to turn in for the night?
+<narrator><instant>　もうねる|　まだねない<0B>=<narrator><instant> I'm beat| Not yet<0B>
+<naruto>「オレってば　まだねないってばよ・・・」=<naruto>I think I'm gonna stay up for a while longer...
+<shizune>「そうですか・・・　<w48>わかりました|ねたくなったら　はなしかけてくださいね」=<shizune>Very well then...<w48>Please come back here when you're done.
