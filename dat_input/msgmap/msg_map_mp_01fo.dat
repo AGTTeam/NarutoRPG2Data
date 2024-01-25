@@ -1,6 +1,6 @@
 <narrator>「ダミーメッセージ」=
-おわりなき　<w21>闇のたびじを　<w21>歩むのは<w21>|全てをすてた　<w21>ふくしゅう者=An avenger walks the path of darkness alone, throwing away all what he had before.
-<narrator>しずおかけん|てづか　よしえ=<narrator>--Yoshie Tezuka|Shizuoka Prefecture
+おわりなき　<w21>闇のたびじを　<w21>歩むのは<w21>|全てをすてた　<w21>ふくしゅう者=“Maybe start making that Rasengan in your Left Hand more often.”
+<narrator>しずおかけん|てづか　よしえ=<narrator>XTrior|A Concerned Shinobi
 <narrator>「せんとうにかんしての　せつめいだが|・・・ちょっとながいが　きくかい？」=<narrator>It'll take a while to explain the battle mechanics, do you have enough time to listen?
 <narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I got my notepad ready!|　All's good...<0B>
 <narrator>「・・・そうか！　ききたくなったら|いつでも　はなしかけてくれ！」=<narrator>Oh I see...well I'll be here at all times, so come again if you want me to explain!
@@ -12,7 +12,7 @@
 「<blue>あいているばしょを　タッチ<black>するか　<blue>Ｙボタン<black>をおして|ばしょをせんたくすると　いどうすることができるぞ」=If you wanna move around your field, all you have to do is just press the <blue>Y Button <black>and select where you wanna go to.
 「そうびしているぶきによって　前にいるときや　後ろに|いるときで　てきにあたえるダメージがかわるからな！」=Where you're positioned on the field also affects your weapon of choice's damage output, so be careful of that when equipping your weapon!
 「ただし！　<blue>前にでるほど　うけるダメージはでかくなる<black>|から・・・　きをつけて　たたかうことだな！」=Do note that your position also affects how much damage you receive as well, so be extra careful if you're on the front row. It could get ugly if your defense isn't good enough.
-<narrator>「<blue>ぼうぎょ<black>をえらんでいるときに<blue>じぶんをタッチ<black>するか|<blue>Ｘボタン<black>をおすと　ぼうぎょじょうたいになるぞ」=<narrator>SPEAKING of defense, you can defend yourself by selecting the “DEF" option and then tapping on yourself, or do that quickly by just pressing the <blue>X button<black>!
+<narrator>「<blue>ぼうぎょ<black>をえらんでいるときに<blue>じぶんをタッチ<black>するか|<blue>Ｘボタン<black>をおすと　ぼうぎょじょうたいになるぞ」=<narrator>SPEAKING of defense, you can defend yourself by selecting the “DEF” option and then tapping on yourself, or do that quickly by just pressing the <blue>X button<black>!
 「つぎに　こうどうするまで　うけるダメージがへるから|ゆうこうに　つかうんだぞ！」=That way, the damage you take will be reduced until your next turn!
 <narrator>「<blue>術（じゅつ）<black>についてだが|<blue>じゅつ<black>をえらんでいるときに」=<narrator>Which makes me want to talk about <blue>Jutsus<black>! To select the option you just navigate to it in the top screen.
 「<blue>じぶんをタッチ<black>すると|いま　おぼえている術が　せんたくできる」=From there you tap on yourself or press the <blue>A button <black>to wreak havoc.
