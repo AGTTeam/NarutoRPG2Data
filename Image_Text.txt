@@ -1,6 +1,6 @@
 ﻿map\dj_000
 	Shop signs
-		あほ茶=Aho Tea#edited (badly) in POTN1
+		あほ茶=Aho Tea#done - ported from POTN1
 		花 やまなか＝Yamanaka Flowers#not translated in either game	
 		栗=Chestnut#not translated in either game
 		甘栗甘=Sweet Chestnuts#not translated in either game
