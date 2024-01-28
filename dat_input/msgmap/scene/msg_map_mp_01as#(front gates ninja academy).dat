@@ -29,7 +29,7 @@
 <sasuke>「どうかんだな・・・」=<sasuke>I can't say much...
 <kiba>「へっ！　きまったようだな！！」=<kiba>So I guess it's settled then!
 <kiba>「ところで　ナルト！　おまえ　戦闘ンときの|キャラクターのいれかえとか　しってんのか？」=<kiba>By the way Naruto, do you know how to switch between fighting members?
-<narrator><instant>　しらない|　しってる<0B>=<narrator><instant>　Why would I?|　Yeah I do<0B>
+<narrator><instant>　しらない|　しってる<0B>=<narrator><instant>　Why would I?|　Yeah, I do.<0B>
 <kiba>「つねに　戦闘（せんとう）にさんかできるのは|<blue>“せんぱつ”メンバー<black>の　３にんだけだ」=<kiba>So...as you already know, battles can only be carried out with your <blue>main party <black>which consists of three members.
 <kiba>「だが　なかまが３にんいじょういるときは|<blue>“ひかえ”メンバー<black>に３にん　おくことができ」=<kiba>These three can sometimes get tired and will need backup members for sure. <blue>Backup Members <black> are also limited to three people.
 <kiba>「せんとうちゅうに　<blue>“いれかえ”<black>ることが|できるんだぜ！」=<kiba>To sweeten the deal, though, you can <blue>change your party members on the fly<black>!

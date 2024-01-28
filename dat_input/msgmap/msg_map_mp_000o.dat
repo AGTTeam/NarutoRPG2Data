@@ -7,7 +7,7 @@
 「ぶきによっては　そうびできない　人もいるから|ちゅういがひつようだぞ！　つぎに・・・」=Oh yeah, some weapon types can only be equipped by certain people, by the way.
 「ぶきのしゅるいごとに　<blue>とくちょう<black>があるんだが|しりたいかい？」=Did you know that weapon types have certain specialties as well?
 <narrator>「・・・では　ぶきのしゅるいごとに|<blue>とくちょう<black>があるんだが　しりたいかい？」=<narrator>Do you wanna know about each weapon type's <blue>specialty<black>?
-<narrator><instant>　しりたい！|　しりたくない・・・<0B>=<narrator><instant>　Tell me!|　I’ll work it out myself<0B>
+<narrator><instant>　しりたい！|　しりたくない・・・<0B>=<narrator><instant>　Tell me!|　I’ll work it out myself.<0B>
 <narrator>「・・・まず　<blue>刀（かたな）<black>は|前えいにでるほど　こうげき力がたかい」=<narrator>...Lemme start it off easy. <blue>Katana <black>deal more damage the closer you are to the front.
 「<blue>せんす<black>は　後えいにいると|ぜんたいこうげきができる」=<blue>Fans <black>can damage all of the enemies when you're in the back row.
 「<blue>手裏剣（しゅりけん<black>）は　後えいにいるほど|こうげき力がたかく　あつかいやすい」=<blue>Shuriken <black>deal more damage the further back you are.
@@ -17,14 +17,14 @@
 「<blue>くさりがま<black>は　中えいにいるときに|１ばんいりょくを　はっきする」=<blue>Chains <black>are special for being best in the middle.
 「<blue>こんぼう<black>は　てきが　人やどうぶつでないときに|ゆうこう」=<blue>Clubs <black>are the old reliable against non-human opponents.
 「ま！　こんなかんじなんだが・・・　わかったかな？」=So...do you want me to repeat that?
-<narrator><instant>　わからない|　わかった<0B>=<narrator><instant>　I didn't take out my notepad|　I got it already<0B>
+<narrator><instant>　わからない|　わかった<0B>=<narrator><instant>　I didn't take out my notepad.|　I got it already.<0B>
 <narrator>「そうか・・・　では　もう１どせつめいするぞ！」=<narrator>Then allow me to repeat!
 <narrator>「そうか・・・|しりたくなったら　いつでもこいよ！」=<narrator>Okay then...well you can come and ask me again at any time!
 <narrator>「わかったみたいだな・・・|またききたくなったら　いつでもこいよ！」=<narrator>I see...don't be stranger if you wanna talk.
 <tenten>「いっぱい　ぶきがあるわ！|めうつりしそう！！」=<tenten>This shop's filled to the brim with Ninja Tools! I can't choose what to get!!
 <tenten>「<130c>木ノ葉ひでん忍術ずかんを　さがしてるの|・・・もっていない？」=<tenten>I'm looking for a copy of the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia...do you have it?
 <narrator><130c>木ノ葉ひでん忍術ずかんを|テンテンに　あげますか？=<narrator>Will you give Tenten the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia?
-<narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　What if she makes a gun!?|　I guess it's fate..<0B>
+<narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　What if she makes a gun!?|　I guess it's fate...<0B>
 <tenten>「もし　みつけたら　おしえてね！」=<tenten>Please let me know if you happen to find it!
 <tenten>「・・・ずっと　さがしてたのよ！|かわりといってはなんだけど　これをあげるわ」=<tenten>...Oh thank you, I've been searching for it for a long time! I know it isn't much, but you can have this.
 <narrator><130e>テンテンの忍しきふだを　てにいれた！<sound04>=<narrator>Obtained <130e>Tenten's Ninja Tag!<sound04>

@@ -9,7 +9,7 @@
 「おともだちとの　レベルのさがあっても|おなじじょうけんで　たたかえるようになるわ！」=So that you and your friend can fight on equal grounds!
 「・・・まちがいなく　アツくなるわね！」=...There's no mistaking it...|THESE FIGHTS ARE GONNA ROCK!
 <narrator>へいの　うえのほうを　みますか？=<narrator>Do you see that thing over there?
-<narrator><instant>　はい|　いいえ<0B>=<narrator><instant>　For sure|　See what?<0B>
+<narrator><instant>　はい|　いいえ<0B>=<narrator><instant>　For sure.|　See what?<0B>
 <narrator>うえのほうに　かんらんせきのようなものが|あるみたいだ・・・=<narrator>I think that's real olivine right over here...!
 <anko>「つうしんでは　<blue>“つうしんたいせん”<black>と|<blue>“アイテムこうかん”<black>の　２つができるわ！」=<anko>You can do <blue>battles <black>as well as <blue>trade items<black>.
 <anko>「まずは　つうしんたいせんね！　これは|<blue>スリーマンセルの　チームせん<black>のことよ」=<anko>Battles consist of <blue>two three-man squads duking it out <black>.
@@ -24,13 +24,13 @@
 <anko>「こうかんしないと　てにいれられない|ものもあるから・・・」=<anko>But there are also some items you can only get by trading...
 <anko>「クリアをめざして　がんばってねー<red>♪<black>」=<anko>Well then, come back to trade when you beat the game<red>♪<black>
 <anko>「・・・せつめいは　こんなところだけど|りかいできた？」=<anko>...Do you want me to repeat that or what?
-<narrator><instant>　まだ　よくわからない・・・|　りかいできた<0B>=<narrator><instant>　Yes please...|　You made perfect sense<0B>
+<narrator><instant>　まだ　よくわからない・・・|　りかいできた<0B>=<narrator><instant>　Yes please...|　You made perfect sense.<0B>
 <anko>「・・・そう|じゃ　もういちど　せつめいするわ！」=<anko>...Well, listen up real good then!
 <anko>「りかいできたようね・・・|じゃあ・・・」=<anko>Well, good for you.|So...
 <narrator>「ここは　<blue>“とうぎじょう”<black>だ！|<blue>つうしんであそぶ<black>ことが　できるぞ！！」=<narrator>This place is the <blue>Main Arena<black>! You can engage in <blue>wireless communications <black>here!
 <narrator>「ボク・・・　じつは　アンコさんの入よくけんを|もってるんだ・・・」=<narrator>I actually happen to have Anko's Bath Ticket with me...
 <narrator>「８００００両で　かわないかい？」=<narrator>I think 80000 Ryo could convince me to part with it...
-<narrator><instant>　かわない|　かう<0B>=<narrator><instant>　Keep it|　Fork it over, buddy!<0B>
+<narrator><instant>　かわない|　かう<0B>=<narrator><instant>　Keep it.|　Fork it over, buddy!<0B>
 <narrator>「そうか・・・　わかったよ！　ボクは　いつでも|ここにいるから　ほしくなったらはなしかけてくれ！」=<narrator>Well...I guess it still needs me to take care of it... |I'll be around if you change your mind!
 <narrator>「う～ん・・・　おかねが　たらないみたいだよ|おかねがたまったら　はなしかけてくれ！」=<narrator>Hmm, it looks like you're a little short- changed there.|Come back when you've got the right money.
 <narrator><130e>アンコの入よくけんを　てにいれた！<sound04>=<narrator>Obtained <130e>Anko's Bath Ticket!<sound04>

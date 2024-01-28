@@ -1,6 +1,6 @@
 <narrator>「ダミーメッセージ」=
 <narrator>「いらっしゃいませ！　短冊街の　やどやです|チェックインなさいますか？」=<narrator>Welcome to the Tanzaku Town Inn! Would you like to check in?
-<narrator><instant>　チェックインする|　チェックインしない<0B>=<narrator><instant>　Of course|　I'll tour around a little more<0B>
+<narrator><instant>　チェックインする|　チェックインしない<0B>=<narrator><instant>　I sure would.|　I'll tour around a little more.<0B>
 <narrator>「ありがとうございます・・・|では！　いちばんてまえの　おへやへどうぞ！」=<narrator>Thank you, sir. Your room is the first one in the hallway!
 <naruto>「へやに　いってみるってばよ！」=<naruto>I'll check it out, believe it!
 <narrator>「そうですか・・・　ざんねんです|またごいりようでしたら　おこえをかけてくださいね！」=<narrator>I see... Well, if you need anything, please don't hesitate to ask!

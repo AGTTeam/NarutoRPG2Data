@@ -13,8 +13,8 @@
 <naruto>「ねェねェ！　ホムラのじいちゃん！|この<blue>ちぎれた巻物１<black>って　なんだってばよ？」=<naruto>Hey, Gramps! What in the Ichiraku is this <blue>torn up scroll<black>?
 <homura>「これは　<blue>だいじなもの<black>に　わけられる|うちのひとつじゃ・・・」=<homura>This is a key item that is <blue>divided <black>into several parts...
 <homura>「“だいじなもの”　についての|せつめいを　きくか？」=<homura>Do you want me to explain what key items are?
-<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I guess|　I don't think so<0B>
-<naruto>「もっちろん　きくってば！」=<naruto>Yeah of course I wanna know!
+<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I guess.|　I don't think so.<0B>
+<naruto>「もっちろん　きくってば！」=<naruto>Yeah, of course I wanna know!
 <homura>「よかろう！　おまえたちのもっているどうぐには|ふつうのどうぐと　<blue>だいじなもの<black>がある」=<homura>There are two types of items; <blue>expendables and keys<black>.
 <homura>「だいじなものは　きほんてきには　うれないし|かえない　・・・また　すてることもできない」=<homura>Key items stay in your inventory, but are not usable nor are they discardable.
 <homura>「だいじなものは　任務をすすめるうえで|じゅうようなどうぐだったり」=<homura>Some key items are essential for your mission's completion.
@@ -27,7 +27,7 @@
 <sakura>「けっきょく　ちぎれた巻物１　・・・って|いつ　つかうものなのですか？」=<sakura>How are we supposed to use this Ripped Scroll?
 <homura>「そーか・・・　おまえたちは|まだ　しらなかったのか・・・」=<homura>I see... You still do not know of its use.
 <koharu>「火影のいえの　ヒミツについて|せつめいを　きくか？」=<koharu>Would you like me to explain about the basement of the Hokage Mansion?
-<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　Yes please|　No need<0B>
+<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　Yes please.|　No need.<0B>
 <sakura>「きかせてください　コハルさま」=<sakura>Please tell me more, Lady Koharu.
 <koharu>「よかろう・・・|つかいみちの　とくになさそうなものは」=<koharu>At first glance, this scroll is of no immediate use to you all.
 「<blue>火影のいえ<black>の　ちかしつに|もっていくと　なにかおこるばあいもある」=If you were to go to the <blue>basement of the Hokage's Mansion <black>you may find use for it, though.
