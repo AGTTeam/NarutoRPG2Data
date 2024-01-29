@@ -1,7 +1,7 @@
 <narrator>「ダミーメッセージ」=
 おわりなき　<w21>闇のたびじを　<w21>歩むのは<w21>|全てをすてた　<w21>ふくしゅう者=“Maybe start making that Rasengan in your Left Hand more often.”
 <narrator>しずおかけん|てづか　よしえ=<narrator>XTrior|A Concerned Shinobi
-<narrator>「せんとうにかんしての　せつめいだが|・・・ちょっとながいが　きくかい？」=<narrator>It'll take a while to explain the battle mechanics, do you have enough time to listen?
+<narrator>「せんとうにかんしての　せつめいだが|・・・ちょっとながいが　きくかい？」=<narrator>It'll take a while to explain the battle mechanics, do you have enough time?
 <narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I got my notepad ready!|　All's good...<0B>
 <narrator>「・・・そうか！　ききたくなったら|いつでも　はなしかけてくれ！」=<narrator>Oh I see...well I'll be here at all times, so come again if you want me to explain!
 <narrator>「せんとうがめんでないと　わかりにくいかもしれんが|ひととおり　せんとうについて　せつめいするぞ！」=<narrator>Alrighty then, let's start!
@@ -41,7 +41,7 @@
 <narrator>「これは　なかまとの<blue>“あいしょう”<black>|・・・つまり　なかよしどが　たかければ」=<narrator>Do you know about <blue>chemistry <black>by any chance?
 <narrator>「いっしょに　こうげきしてくれることもあるんだ！|なかまとなかよくしておけば　ゆうりってことだな！」=<narrator>When your chemistry with a fellow party member is high enough, you might trigger a combination attack that'll deal a ton of damage!
 <narrator>「術には　おおきくわけて　<blue>忍術（にんじゅつ）<black>・|<blue>幻術（げんじゅつ）<black>・<blue>体術（たいじゅつ）<black>の３つあるわ」=<narrator>There are three kinds of Jutsu in this world: <blue>Ninjutsu<black>, <blue>Genjutsu<black>, and <blue>Taijutsu<black>.
-<narrator>「忍術のおおくは　いちどに|ひろいはんいに　こうげきがかのうよ！」=<narrator>Ninjutsu in general allow you to attack a large area at once. 
+<narrator>「忍術のおおくは　いちどに|ひろいはんいに　こうげきがかのうよ！」=<narrator>Ninjutsu in general allow you to attack a large area at once.
 <narrator>「幻術は　てきを　じょうたいいじょうに|させたりすることが　できるわ！」=<narrator>Genjutsu's inflict status effects on the enemy.
 <narrator>「忍術と幻術は　“じゅつふうじ”になったら|つかえないから　ようちゅういだけど・・・」=<narrator>When you're inflicted with seal you won't be able to use any of them, so be careful!
 <narrator>「ナルトの“オナラ”などの　体術（たいじゅつ）は|“じゅつふうじ”じょうたいに　なっていても」=<narrator>But Taijutsu techniques, like Naruto's fart, won't be affected.
