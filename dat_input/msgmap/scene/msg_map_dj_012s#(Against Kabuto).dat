@@ -160,10 +160,10 @@
 <tsunade><140055>「口寄せの術！！」<w32>=<tsunade><140055>SUMMONING JUTSU!!<w32>
 <jiraiya><140022>「口寄せの術！！」=<jiraiya><140022>SUMMONING JUTSU!!
 <orochimaru><140028>「口寄せの術！！」=<orochimaru><140028>SUMMONING JUTSU!!
-<bunta>「マンダに　大蛇丸　カツユに　綱手<w16>・<w16>・<w16>・|こりゃあ　なつかしい　めんめんじゃのォ」=<bunta>Oh my, Orochimaru's Manda<w16>.<w16>.<w16>.and Tsunade's Katsuyu. That brings back a lotta memories I'll say.#this section dupes in msg_cutin
+<bunta>「マンダに　大蛇丸　カツユに　綱手<w16>・<w16>・<w16>・|こりゃあ　なつかしい　めんめんじゃのォ」=<bunta>Oh my, Orochimaru's Manda<w16>.<w16>.<w16>.and Tsunade's Katsuyu.|That brings back a lotta memories I'll say.#this section dupes in msg_cutin
 <bunta>「いまから　どうそうかいでも|するゆーんか・・・<w16>　自来也？」=<bunta>Didn't know y'all are having a reunion today, Jiraiya.
 <jiraiya>「バーカ！　ひさしぶりに　よんでやったのに|じょうだん　いってんじゃねーよ！」=<jiraiya>You idiot! Now's absolutely not the time to be messing around!
-<jiraiya>「そろそろ　ながねんの　いんねんに|ケリつけようと　おもってのォ・・・」=<jiraiya>I have a score I need to settle, one that's been lingering on for years.
+<jiraiya>「そろそろ　ながねんの　いんねんに|ケリつけようと　おもってのォ・・・」=<jiraiya>I have a score I need to settle, one that's been lingering for years.
 <jiraiya>「大蛇丸を　きょう　ここで　いま・・・|たおすんだよ」=<jiraiya>I will put an end to Orochimaru's antics!
 <manda>「オイ　大蛇丸・・・」=<manda>Hey Orochimaru.
 <manda>「オレさまを　こんな　くそめんどくさそーな|とこに　よびだしてくれてんじゃねーよォ！」=<manda>It was your sorry self that called for my greatness, was it not?
@@ -175,8 +175,8 @@
 <katsuyu>「この子と　わたしのぶんしんと　いっしょに|とおくへはなれ　みを　ひそめていてください」=<katsuyu>I'm afraid I have no choice but to lead you and this boy to safety.
 <katsuyu>「綱手さまは　それを　のぞまれています」=<katsuyu>These are the wishes of Lady Tsunade.
 <shizune>「綱手さま・・・」=<shizune>Lady Tsunade...
-<jiraiya>「大蛇丸　おめーは　あくにそまりすぎた|もう　“どうし”じゃ　ねェのォ」=<jiraiya>Orochimaru...you've strayed far too long into the dark, our bond ends today!
-<orochimaru>「“どうし”？　クク・・・|さむいこというわね・・・」=<orochimaru>How cruel of you to say that...
+<jiraiya>「大蛇丸　おめーは　あくにそまりすぎた|もう　“どうし”じゃ　ねェのォ」=<jiraiya>Orochimaru...you've strayed far too long into the dark,|our bond ends today!
+<orochimaru>「“どうし”？　クク・・・|さむいこというわね・・・」=<orochimaru>Kukuku... That's cold of you...
 <tsunade>「三忍と　よばれるのも　きょうかぎりだ！」=<tsunade>Today will be the last day you call yourself one of us!
 <tsunade>（なんだ　この　きみょうな　いわかんは？|むかしの　やつのかんじがしない・・・）=<tsunade>(This is weird...I don't sense the same vibes I get from him.)
 <orochimaru>「わたしには　ひとつだけ　このうでを|ふっかつさせる　ほうほうがあるのよ」=<orochimaru>There's only one way to make my arms move again, it seems.

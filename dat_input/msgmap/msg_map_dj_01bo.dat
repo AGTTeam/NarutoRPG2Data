@@ -1,8 +1,8 @@
 <narrator>「ダミーメッセージ」=
-<narrator>「短冊街（たんざいくがい）の　かくれためいてん・・・|<blue>“よろずや”<black>だ！　なにがほしいんだ？」=
-<narrator>「ここは　短冊街（たんざくがい）よ<red>♪<black>」=
-<narrator><130c>綱手のしゃしんを　みせますか？=
-<narrator><instant>　はい|　いいえ<0B>=
+<narrator>「短冊街（たんざいくがい）の　かくれためいてん・・・|<blue>“よろずや”<black>だ！　なにがほしいんだ？」=<narrator>This is Tanzaku's Town hidden gem...<black>“Yorozuya”<black>! What can I do for ya?
+<narrator>「ここは　短冊街（たんざくがい）よ<red>♪<black>」=<narrator>This is Tanzaku Town<red>♪<black>
+<narrator><130c>綱手のしゃしんを　みせますか？=<narrator> Show <130c>Tsunade's Photo?
+<narrator><instant>　はい|　いいえ<0B>=<narrator><instant>　Yes|　No<0B>
 <narrator>「綱手さまの　そうさく任務・・・？|わるいな　オレはみかけてないぜ！」=
 <narrator>「オレは任務でここにきたんだが　おなじチームのやつが|いなくなっちまったんだ・・・　どこへいったんだろう」=
 <narrator>「五代目火影に　綱手さまが|しゅうにんされたらしいな・・・」=
