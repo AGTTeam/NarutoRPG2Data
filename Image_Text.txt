@@ -36,8 +36,8 @@ Images not translated in POTN2
 	甘栗甘=Sweet Chestnuts
 	2号店=Second Store#Tanzaku Branch?
 
-Images translated in POTN2
-	民宿=Inn#The two flags were split into three (one for each letter of Inn)
+Images translated in POTN2#done
+	民宿=Inn
 	宝くじ=Lucky Draw
 	大当たり！=Win Big!
 	大入=Big Win
@@ -49,9 +49,9 @@ map\dj_002
 	医=Healing#translated in POTN2. Maybe just leave as-is?
 	火=Fire#as above
 	忍=Shinobi#as above
-	忍者アカデミー=(Ninja) Academy#translated in both games
+	忍者アカデミー=(Ninja) Academy#done – ported from POTN1
 	
-map\dj_003
+map\dj_003#done
 	Same as dj_000 with an inverted palette
 	
 map\dj_004
@@ -61,8 +61,8 @@ map\mp_000#done - ported icons from POTN1
 	武✧防=Arms & Guards
 
 map\mp_00a - Naruto's house. Both games use the same translated graphics. They're done horizontally so don't look great, but we could keep them for consistency.
-	あるのみ 修業=TRAIN EFFORT
-	打倒サスケ！！=(Beat) Sasuke!!!
+	あるのみ 修業=TRAIN EFFORT#done – Ported from POT1
+	打倒サスケ！！=(Beat) Sasuke!!!#done – Ported from POT1
 	
 map\mp_00c Sasuke's House - POTN2 only. Not translated
 	超絶=Excellence
@@ -77,7 +77,7 @@ map\mp_00e
 
 map\mp_001
 	忍忍=Endurance#not translated in either game – Could translate as “Items”?
-	道具=Items#translated in both games
+	道具=Items#done – Ported from POT1
 	兵糧丸=Food Pills#not translated in either game
 	
 map\mp_01a
