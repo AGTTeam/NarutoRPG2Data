@@ -104,7 +104,7 @@ map\mp_005
 	ラーメン一楽=Ichiraku Ramen#not translated in either game
 
 map\mp_006
-	あほ茶=Aho Tea#edited (badly) in POTN1
+	あほ茶=Aho Tea#done
 	
 map\mp_018 Hokage's House - not translated in either game
 	火影=Hokage
