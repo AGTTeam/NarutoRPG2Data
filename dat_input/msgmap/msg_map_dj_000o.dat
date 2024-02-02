@@ -219,7 +219,7 @@
 <narrator>「せいげんじかんないに|ナルトのいえまで　たどりつけっ！！」=<narrator>Get to Naruto's house within the time limit!
 <narrator>「いちど　木ノ葉隠れの里にもどれっ！」=<narrator>Head back to Hidden Leaf Village!
 <narrator>「木ノ葉のもりを　ぬけると　ぜんたいマップで|木ノ葉隠れの里を　せんたくできるぞっ！」=<narrator>Once you leave the forest, you can select Hidden Leaf Village from the map!
-<narrator><instant>　ヒントを　きかない|　ヒントを　きく<0B>=<narrator><instant>　You betcha!|　Nah, I’m good.<0B>
+<narrator><instant>　ヒントを　きかない|　ヒントを　きく<0B>=<narrator><instant>　Nah, I’m good.|Give it to me straight!　<0B>
 <narrator>「そうか・・・　こまったら|いつでも　はなしかけてくれっ！」=<narrator>Oh, right... Well, if you get stuck, you know where to find me!
 <narrator>「じんけいをととのえたら　多由也（タユヤ）に|はなしかけろっ！」=<narrator>When you’re ready, talk to Tayuya!
 <narrator>「ききこみできいた　綱手（ツナデ）さまがいるらしい|たんざくじょうを　めざせっ！」=<narrator>Head to Tanzaku Town, where Tsunade is supposed to be!

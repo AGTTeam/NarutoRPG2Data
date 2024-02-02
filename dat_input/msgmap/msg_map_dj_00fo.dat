@@ -1,6 +1,6 @@
-<narrator>「ダミーメッセージ」=<narrator>DUMMY MESSAGE.
-<narrator>「このうえに　みえている　むらさきいろのぬまは|<blue>どくのぬま<black>じゃ！」=<narrator>Be careful of that purple path over there, it's <blue>poisonous<black>!
-「このうえは　<blue>１ぽあるくたびに　ダメージをうける<black>から|きをつけるんじゃぞ！！」=If you walk on it, you'll take damage for <blue>every step you take<black>.
+﻿<narrator>「ダミーメッセージ」=<narrator>DUMMY MESSAGE.
+<narrator>「このうえに　みえている　むらさきいろのぬまは|<blue>どくのぬま<black>じゃ！」=<narrator>Be careful of that purple stuff over there, it's <blue>poisonous<black>!
+「このうえは　<blue>１ぽあるくたびに　ダメージをうける<black>から|きをつけるんじゃぞ！！」=If you walk on it, you'll <blue>take damage for every step you take<black>.
 <narrator>「じめんにある　<blue>“まきもの”<black>のうえにのると|ちがうまきものに　<blue>瞬身（しゅんしん）いどう<black>するぞ！」=<narrator>If you step on a <blue>scroll<black>, you'll be teleported to another scroll nearby!
 <narrator>「たんざくがいは　たのしいまちだぜ！」=<narrator>Tanzaku Town is where the fun's at!
 <narrator>「たんざくがいは　めのまえよ<red>♪<black>」=<narrator>Tanzaku Town is just up ahead<red>♪<black>

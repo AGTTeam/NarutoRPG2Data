@@ -1,7 +1,7 @@
-<narrator>「ダミーメッセージ」=<narrator>DUMMY MESSAGE
-<narrator>「このさきは　<blue>“木ノ葉きんざん”<black>　だぞ！」=<narrator>If you continue on this road, you'll find yourself at the <blue>Hidden Leaf Mine<black>!
-<narrator>「このひだりうえに　みえている　むらさきいろのぬまは|<blue>どくのぬま<black>なんだ！」=<narrator>Be careful of the purple swamps, though, they're gonna <blue>poison you<black>!
-「このうえは　<blue>１ぽあるくたびに　ダメージをうける<black>から|きをつけろ！！」=Every step you make in a swamp will <blue>chip away your stamina<blue>!
-<narrator>「<blue>どくのぬま<black>をあるいても　ダメージを|うけないほうほうが　あるらしい・・・」=<narrator>I think there IS a way to not take damage from them, though...
-「なにか　<blue>“とくしゅな術”<black>でも　おぼえないと|いけないのかな・・・」=You might be able to learn a <blue>special type of Jutsu<black> or something.
+<narrator>「ダミーメッセージ」=<narrator>DUMMY MESSAGE#dupe of dj_01do
+<narrator>「このさきは　<blue>“木ノ葉きんざん”<black>　だぞ！」=<narrator>Just up ahead is the <blue>Hidden Leaf Mine<black>!
+<narrator>「このひだりうえに　みえている　むらさきいろのぬまは|<blue>どくのぬま<black>なんだ！」=<narrator>You see those purple swamps northeast of here? Be careful, they're <blue>poisonous<black>!
+「このうえは　<blue>１ぽあるくたびに　ダメージをうける<black>から|きをつけろ！！」=Every step you take in a swamp will <blue>chip away at your health<black>.
+<narrator>「<blue>どくのぬま<black>をあるいても　ダメージを|うけないほうほうが　あるらしい・・・」=<narrator>I think there is a way to not take damage from them, though...
+「なにか　<blue>“とくしゅな術”<black>でも　おぼえないと|いけないのかな・・・」=But you need a <blue>special kind of Jutsu<black> first.
 「どくのことなら　綱手さまが|ごぞんじかもしれない・・・」=You should try asking Lady Tsunade about it.

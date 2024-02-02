@@ -39,12 +39,12 @@
 <jiraiya>「ダメだ！」=<jiraiya>Never, and that's final!
 <jiraiya>「おまえらも　たたかってわかっただろ<w21>|・・・レベルが　ちがう！」=<jiraiya>This fight's miles out of your league!
 <naruto>「じゃあ　影分身で　かせいするってばよ」=<naruto>Then I'll let my Shadow Clones do the job, no sweat.
-<jiraiya>「あいつら　あいてじゃ　影分身は　まるで|イミがない！　チャクラの　ムダづかいだ」=<jiraiya>Don't waste your Chakra, they can beat them up with one hit.
+<jiraiya>「あいつら　あいてじゃ　影分身は　まるで|イミがない！　チャクラの　ムダづかいだ」=<jiraiya>Don't waste your chakra, they can beat them up with one hit.
 <naruto>「くっ！！」=<naruto>Ugh!!
 <jiraiya>「さぁて　そろそろ　おっぱじめるかのォ|・・・口寄せの術！！」=<jiraiya>Now it's my turn to shake things up.|Summoning Jutsu!!
 <gamakichi>「よオ！　ひさしぶり！」=<gamakichi>Eyyyy! Long time no see!
 <jiraiya>「なんだこりゃ！<w16>　どーなっとる！？」=<jiraiya>What in the goddamn!?<w16> Why're you here!?
-<shizune>（自来也さまは　綱手さまにもられた　くすり|のせいで　チャクラが　うまくねれてない）=<shizune>(Lady Tsunade's concoction is still in effect, his Chakra is still not working properly.)
+<shizune>（自来也さまは　綱手さまにもられた　くすり|のせいで　チャクラが　うまくねれてない）=<shizune>(Lady Tsunade's concoction is still in effect, his chakra is still not working properly.)
 <orochimaru>「フフ・・・<w21>　バカは　まだ|なおってないようね・・・　自来也」=<orochimaru>Hehehehe...<w21> Still haven't found a cure for your foolishness, eh, Jiraiya?
 <orochimaru>「いくら　さいのうのない　アンタでも|それは　ないでしょ・・・」=<orochimaru>Try all you want right now, but your precious chief toad won't make an appearance.
 <orochimaru>「おおかた　綱手に　なんか　やられたんでしょ|あいかわらず　みっともない　やつね」=<orochimaru>And it's all because of Tsunade's little trick, how pathetic.
@@ -83,7 +83,7 @@
 <naruto>「うオオオッ！！！！」=<naruto>HAAAAAAAAAA!!!!!
 <jiraiya>「ぜってェ　あきらめない　どこんじょう|あいつは　それを　もっている」=<jiraiya>The guts to never give up, and he has a lot of those.#dupe in msg_cutin
 <kabuto>「フッ・・・　まだまだ　あまいよ」=<kabuto>Hmph... You still haven't gotten it.#dupe in msg_cutin
-<naruto>（くっそ！　くっそ！　いったい|なにがどーなってんだ？　このままじゃ・・・）=<naruto>(It's no use! I can't hit him nor hold my Chakra!!)
+<naruto>（くっそ！　くっそ！　いったい|なにがどーなってんだ？　このままじゃ・・・）=<naruto>(It's no use! I can't hit him nor hold my chakra!!)
 <kabuto>「・・・クク　こわいかい？　このボクが<w32>|ここから　にげだしたいかい？」=<kabuto>You're gonna have to be a tad more subtle if you expect to land a hit on me.
 <naruto>「ぐっ・・・」=<naruto>Hnngh...
 <kabuto>「ナルトくん　きみのゆめは|“火影になる”　ことだったっけ？」=<kabuto>Your dream is to become Hokage, isn't it?
@@ -115,7 +115,7 @@
 <naruto>「<blue>螺旋丸（らせんがん）！！！！<black>」=<naruto><blue>Rasengan!!!!!<black>
 <naruto>「ウオオオオオオオオオオ！！！！」=<naruto>WHOAAAAAAA!!!!
 <kabuto>「こっ・・・<w16>　これは！！」=<kabuto>Th-<w16>That was--!#dupe in msg_cutin
-<tsunade>「まさか　こんな　みじかいあいだに|あの螺旋丸を・・・」=<tsunade>So he summoned his Shadow Clone to help him with his Chakra...
+<tsunade>「まさか　こんな　みじかいあいだに|あの螺旋丸を・・・」=<tsunade>So he summoned his Shadow Clone to help him with his chakra...
 <narrator><130f>らせん丸をおぼえた！=<narrator>Learned <130f>Rasengan!!
 <naruto>「ぐはっ！！」=<naruto>Nngh!
 <tsunade>「ナルトのやつ・・・　あのガキに|なにか　やられたようだな」=<tsunade>This kid...he drove himself to exhaustion.
