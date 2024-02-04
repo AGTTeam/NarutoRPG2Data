@@ -11,9 +11,9 @@
 「<blue>綱手（ツナデ）<black>さまが　なられたのね！|しゅうにんしきでは　かんどうしたわ！」=I'm so glad <blue>Lady Tsunade <black>got inaugurated as Hokage!
 <narrator>「里は　だいぶもとどおりになったけど|ひとの　ココロのいたみは　なかなかきえないものね」=<narrator>Even though the village is being rebuilt... some people's hearts cannot be mended.
 「いまでも　たまに　こわくなるわ・・・」=<narrator>Fear still lingers...
-「でも　いまは　綱手さまもいるし　ゆうしゅうな|忍者さんたちがいてくれるから　しんぱいいらないわね」=<narrator>But things are looking up with Lady Tsunade and our Shinobi protecting us.
+「でも　いまは　綱手さまもいるし　ゆうしゅうな|忍者さんたちがいてくれるから　しんぱいいらないわね」=<narrator>But things are looking up with Lady Tsunade and our shinobi protecting us.
 <narrator>「いつまでも　“木ノ葉くずし”のことを　なげいては|いられないわね・・・」=<narrator>The memories of the Destruction still weigh on my mind...
-「がんばってくれる　忍者さんたちのためにも|わたしたちも　がんばらなくちゃ」=<narrator>But I'll do my best to support our Shinobi!
+「がんばってくれる　忍者さんたちのためにも|わたしたちも　がんばらなくちゃ」=<narrator>But I'll do my best to support our shinobi!
 <narrator>「ク～ン・・・」=<narrator>*Whine...*
 <narrator><130b>兵糧丸（ひょうろうがん）を|ほしそうな　かおをしている・・・=<narrator>It looks like it's sniffing around for a <130b>Food Pill...
 <130b>兵糧丸（ひょうろうがん）を　あげますか？=Give <130b>Food Pill?
@@ -64,13 +64,13 @@
 <narrator>「ぼくたち　忍者ゴッコしてるんだ！」=<narrator>We’re playing ninja!
 <narrator>「忍者ゴッコで　ぼくは　かつて　“里のきょうき”|とよばれた　自来也さまを　してるんだ！」=<narrator>I like to pretend that I am “the Village's Madness” Jiraiya!
 <narrator>「ぼく・・・　いつか　火影に　なりたいな・・・」=<narrator>One day... I wanna become Hokage...!
-<narrator>「ねェ　<blue>木ノ葉茶（このはちゃ）<black>と　<blue>あほ茶（ちゃ）<black>|どっちにする～？」=<narrator>Hey, which tea shop should we go to, <blue>Konoha<black> or <blue>Aho<black>?
+<narrator>「ねェ　<blue>木ノ葉茶（このはちゃ）<black>と　<blue>あほ茶（ちゃ）<black>|どっちにする～？」=<narrator>Hey, which tea shop should we go to, <blue>Leaf<black> or <blue>Aho<black>?
 「キミが　きめていいよ！」=You decide!
 「え～！？　そんなこと　いわれると|よけい　まよっちゃうじゃない・・・」=Ehh~? Now I’m even more stuck...
-<narrator>「う～ん　<blue>木ノ葉茶（このはちゃ）<black>と　<blue>あほ茶（ちゃ）<black>|どっちにするか　まようわ～？」=<narrator>Hmmm, I just can’t decide whether to go to <blue>Konoha<black> or <blue>Aho<black> tea shop...
+<narrator>「う～ん　<blue>木ノ葉茶（このはちゃ）<black>と　<blue>あほ茶（ちゃ）<black>|どっちにするか　まようわ～？」=<narrator>Hmmm, I just can’t decide whether to go to <blue>Leaf<black> or <blue>Aho<black> tea shop...
 「キミが　えらんだところなら|ボクは　どこだって　だいじょうぶサ！」=I’m happy going wherever you want to go!
 「え～・・・　ほんとにィ！？|う・れ・し・い～」=Really!? Yay~!
-<narrator>「そろそろ　<blue>木ノ葉茶（このはちゃ）<black>と　<blue>あほ茶（ちゃ）<black>|どっちにするか　しんけんに　きめないとね～」=<narrator>I think I know where I want to go out of <blue>Konoha<black> and <blue>Aho<black> tea shop!
+<narrator>「そろそろ　<blue>木ノ葉茶（このはちゃ）<black>と　<blue>あほ茶（ちゃ）<black>|どっちにするか　しんけんに　きめないとね～」=<narrator>I think I know where I want to go out of <blue>Leaf<black> and <blue>Aho<black> tea shop!
 「どっちも　おだんごがおいしい　ってうわさだよ」=I’ve heard that the dango are great at both.
 「え～　よけいに　まよう～」=Huh? Now I’m stuck again...
 <narrator>「ほんとに　どっちにはいるか　きめないか？|ずっと　たちつくしたままだよ・・・」=<narrator>Can you really not pick where to go? We’ve been stood here for ages...
@@ -219,7 +219,7 @@
 <narrator>「せいげんじかんないに|ナルトのいえまで　たどりつけっ！！」=<narrator>Get to Naruto's house within the time limit!
 <narrator>「いちど　木ノ葉隠れの里にもどれっ！」=<narrator>Head back to Hidden Leaf Village!
 <narrator>「木ノ葉のもりを　ぬけると　ぜんたいマップで|木ノ葉隠れの里を　せんたくできるぞっ！」=<narrator>Once you leave the forest, you can select Hidden Leaf Village from the map!
-<narrator><instant>　ヒントを　きかない|　ヒントを　きく<0B>=<narrator><instant>　Nah, I’m good.|Give it to me straight!　<0B>
+<narrator><instant>　ヒントを　きかない|　ヒントを　きく<0B>=<narrator><instant>　Nah, I’m good.|　Give it to me straight!　<0B>
 <narrator>「そうか・・・　こまったら|いつでも　はなしかけてくれっ！」=<narrator>Oh, right... Well, if you get stuck, you know where to find me!
 <narrator>「じんけいをととのえたら　多由也（タユヤ）に|はなしかけろっ！」=<narrator>When you’re ready, talk to Tayuya!
 <narrator>「ききこみできいた　綱手（ツナデ）さまがいるらしい|たんざくじょうを　めざせっ！」=<narrator>Head to Tanzaku Town, where Tsunade is supposed to be!

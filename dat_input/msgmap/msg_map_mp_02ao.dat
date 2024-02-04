@@ -1,6 +1,6 @@
 <narrator>「ダミーメッセージ」=
-<narrator>「いらっしゃいませ！　短冊街の　やどやです|チェックインなさいますか？」=<narrator>Welcome to the Tanzaku Town Inn! Would you like to check in?
-<narrator><instant>　チェックインする|　チェックインしない<0B>=<narrator><instant>　I sure would.|　I'll tour around a little more.<0B>
+<narrator>「いらっしゃいませ！　短冊街の　やどやです|チェックインなさいますか？」=<narrator>Welcome to the Tanzaku Town Inn|Would you like to check in?
+<narrator><instant>　チェックインする|　チェックインしない<0B>=<narrator><instant>　I sure would!|　I'll tour around a little more.<0B>
 <narrator>「ありがとうございます・・・|では！　いちばんてまえの　おへやへどうぞ！」=<narrator>Thank you, sir. Your room is the first one in the hallway!
 <naruto>「へやに　いってみるってばよ！」=<naruto>I'll check it out, believe it!
 <narrator>「そうですか・・・　ざんねんです|またごいりようでしたら　おこえをかけてくださいね！」=<narrator>I see... Well, if you need anything, please don't hesitate to ask!
@@ -8,7 +8,7 @@
 <naruto>「へやに　いってみるってばよ！」=<naruto>I'll check it out, believe it!
 <narrator>「いらっしゃいませ！|ここは　短冊街の　やどやです」=<narrator>Welcome! This is the Tanzaku Town Inn.
 <narrator>「ボクたち　グループで|短冊街（たんざくがい）に　あそびにきたんだ！」=<narrator>We're here visiting Tanzaku Town as a group!
-<narrator>「せっかく　短冊じょうをみにきたのに|くずれていて　ざんねんだわ・・・」=<narrator>We finally made it to Tanzaku, but I'm so tired...
+<narrator>「せっかく　短冊じょうをみにきたのに|くずれていて　ざんねんだわ・・・」=<narrator>I was so excited to visit the castle, but it's just a pile of rubble...
 <narrator>「短冊じょうの　てんしゅかくに|のぼりたかったんだけどなぁ・・・」=<narrator>I wanna see the view from the top of the castle!
 <narrator>「みんなで　ワイワイさわぐのって|たのしいわね~<red>♪<black>」=<narrator>I'm looking forward to hitting the town with everyone<red>♪<black>
 <narrator>「短冊街でとまれるとこ　・・・っていえば|ここしかないわよ」=<narrator>There's nowhere to stay the night in this town but here.
