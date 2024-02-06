@@ -263,7 +263,7 @@
 ＶＳ　<u48>勝=<u48> Wins
 セーブファイル・臨=Save File Rin
 をロードしました$$= has been loaded.$$
-データがありません=There is no data.
+データがありません=No data
 セーブファイル・兵=Save File Hyo
 に　セーブしました$$= has been saved.$$
 を　さくじょしました$$= has been deleted.$$
