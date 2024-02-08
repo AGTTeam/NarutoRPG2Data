@@ -6,7 +6,7 @@
 <narrator>「うちはサスケが　里をぬけたらしい・・・|オレたちが　いながら　きづかなかったとは・・・」=<narrator>I heard Sasuke Uchiha left the village... and no one noticed...
 <narrator>「自来也さまと　修業のたびに　でるんだってな！|がんばれよ！」=<narrator>Good luck on your training with Master Jiraiya!
 <narrator>「<blue>“木ノ葉くずし”<black>があってから　こわくて|よるねむれないことが　おおいのよ・・・」=<narrator>Things haven't been the same since the <blue>Destruction of the Leaf<black>.
-「あの日のことを　おもいだすと・・・<w64>ううん・・・　<w32>だめだわ」=Just thinking back is...<w64>|No...<w32>I shouldn't....
+「あの日のことを　おもいだすと・・・<w64>|ううん・・・　<w32>だめだわ」=Just thinking back is...<w64>|No...<w32>I shouldn't....
 <narrator>「<blue>五代目火影（ごだいめほかげ）<black>さまには|でんせつの三忍（さんにん）の　こういってん・・・」=<narrator>I heard the <blue>Fifth Hokage <black>is one of the Legendary Sannin.
 「<blue>綱手（ツナデ）<black>さまが　なられたのね！|しゅうにんしきでは　かんどうしたわ！」=I'm so glad <blue>Lady Tsunade <black>got inaugurated as Hokage!
 <narrator>「里は　だいぶもとどおりになったけど|ひとの　ココロのいたみは　なかなかきえないものね」=<narrator>Even though the village is being rebuilt... some people's hearts cannot be mended.
@@ -19,7 +19,7 @@
 <130b>兵糧丸（ひょうろうがん）を　あげますか？=Give <130b>Food Pill?
 <narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　No way!|　Here!<0B>
 <narrator><130b>兵糧丸（ひょうろうがん）を|もっていなかった！=<narrator>You don't have a <130b>Food Pill.
-<narrator>「ク～ン　ク～ン・・・」=<narrator>*Whiiine...*
+<narrator>「ク～ン　ク～ン・・・」=<narrator>*Nom...*
 よろこんでいるように　みえる・・・=It looks pleased.
 <narrator><130b>ガマ印の兵糧丸を|ほしそうな　かおをしている・・・=<narrator>It looks like it's sniffing around for a <130b>Toad Brand Food Pill...
 <130b>ガマ印の兵糧丸を　あげますか？=Give <130b>Toad Brand Food Pill?
@@ -50,7 +50,7 @@
 <narrator>「このまえ　あのいぬに　ごはんを　あげたんだけど|ぜんぜん　たべてくれないんだよ・・・」=<narrator>I tried giving that dog some food the other day but it wouldn’t eat...
 「やっぱり　ごしゅじんさまが　いないのは|さみしいのかもねェ・・・」=I guess it is really missing its owner...
 「忍者さんたち・・・　あのいぬが　こまっていたら|たすけてあげて　ちょうだいね・・・」=Hey, ninjas... If that dog is in trouble, please help it...
-<narrator>「あのいぬの　ごしゅじんさまが　かえってきて|よかった・・・　ほんとうに　よかったよ」=<narrator>That dog’s owner finally came back... I’m so glad.
+<narrator>「あのいぬの　ごしゅじんさまが　かえってきて|よかった・・・　ほんとうに　よかったよ」=<narrator>That dog’s owner finally came back... |I’m so glad.
 <narrator>「ああやって　かえりをまちつづけるすがたをみると|なんだか　かなしくなるねェ・・・」=<narrator>Aaah... It pains me to see those still waiting for their loved ones to return...
 <narrator>「むかし　木ノ葉隠れの里には　<blue>“でんせつの三忍|（さんにん）”<black>っていう　すっごい忍がいたらしいけど」=<narrator>This village used to have three incredible ninjas called the <blue>Legendary Sannin<black>...
 「そのひとたちがいたらー　<blue>“木ノ葉くずし”<black>は|おこらずに　すんだんじゃない？」=If they were still here, could they have stopped the Destruction...?
@@ -83,8 +83,8 @@
 「“だれにつかうか”きめれば　そのあいてに|プレゼントすることが　できるんじゃよ」=and then you can choose the person you’d like to give it to.
 <narrator>「なかまに　なにかプレゼントするときは|あいてのことを　かんがえるのが　じゅうようじゃ！」=<narrator>When you give a gift, it's important to think about what the recipient might like.
 <narrator>「ちょっと　こみみに　はさんだんじゃが　おんなのこは|きほんてきに　あまいものが　すきみたいじゃ！」=<narrator>I heard that most girls like sweet food!
-<inari>「へへ！　おじいちゃんといっしょに|<blue>波の国（なみのくに）<black>から　木ノ葉隠れの里に」=<inari>Heh heh! I came here from the <blue>Land of Waves<black> with Gramps
-<inari>「ふっこうの　おてつだいに　きてるんだ！」=<inari>to help with reconstructing Leaf Village!
+<inari>「へへ！　おじいちゃんといっしょに|<blue>波の国（なみのくに）<black>から　木ノ葉隠れの里に」=<inari>Heh heh! I came here from the <blue>Land of Waves<black> with Gramps to help with
+<inari>「ふっこうの　おてつだいに　きてるんだ！」=<inari>reconstructing Leaf Village!
 <inari>「おじいちゃんに　だいぶうまくなってきたって|ほめられたんだ！」=<inari>Gramps told me that I’ve really improved lately!
 <inari>「もっと　がんばるよ！！」=<inari>I’m going to keep working hard!
 <inari>「おかあさんが　おべんとうを|つくってきてくれたんだ！」=<inari>My mum brought me a homemade lunch!
@@ -161,7 +161,7 @@
 <choji>「あじわって　たべてね・・・|モグモグモグ・・・」=<choji>Make sure to savor every bite!|*Munch, munch, munch...*
 <lee>「ナルトくんじゃないですか！　こんな|とこで　おあいできるなんて！」=<lee>Well, if it isn’t Naruto!|It’s great to see you.
 <lee>「そうだ！　ナルトくんに|いいものをあげます！！」=<lee>I know! Why don’t you take these?
-<narrator><130b>ひょうろうがんを　２個てにいれた！<sound04>=<narrator>Obtained 2 <130b>Food Pills!<sound04>
+<narrator><130b>ひょうろうがんを　２個てにいれた！<sound04>=<narrator>Obtained 2<130b>Food Pills!<sound04>
 <lee>「たいせつに　つかってください！」=<lee>Use them well!
 <tenten>「ったく！　リーもネジも　ガイ先生も|いったい　どこにいったのかしら？」=<tenten>Ugh! Where have Lee, Neji and Guy-sensei all disappeared off to?
 <anko>「<blue>“とうぎじょう”<black>では　<blue>つうしんたいせん<black>や|<blue>アイテムこうかん<black>を　することが　できるわよ」=<anko>At the <blue>Main Arena<black> you can take part in <blue>Communication Battles<black> and <blue>Item Trading<black>.

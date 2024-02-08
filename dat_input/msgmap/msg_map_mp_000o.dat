@@ -2,13 +2,13 @@
 <narrator>「忍なら　たたかいかたに　あった　ぶきを|そうびするんだぞ！」=<narrator>A ninja can't go into battle without being equipped!
 「キミたちは　<blue>ぶきのしゅるい<black>について|しってるかい？」=Do you know about the different <blue>weapon types<black>?
 <narrator><instant>　しらない|　しってる<0B>=<narrator><instant>　Never heard of 'em!|　I know that much.<0B>
-<narrator>「・・・ぶきには　<blue>刀（かたな）<black>・<blue>せんす|手裏剣（しゅりけん）<black>・<blue>クナイ<black>・<blue>千本（せんぼん）<black>」=<narrator>Weapons comprise of <blue>swords, fans, shuriken, kunai, senbon, claws<black>....
-「<blue>つめ<black>・<blue>くさりがま<black>・<blue>こんぼう<black>・<blue>すな　<black>・・・と|<blue>９しゅるい<black>あるんだ！」=<blue>Sickles, staffs, and sand<black>.|...BOY that was a long list!
+<narrator>「・・・ぶきには　<blue>刀（かたな）<black>・<blue>せんす|手裏剣（しゅりけん）<black>・<blue>クナイ<black>・<blue>千本（せんぼん）<black>」=<narrator>Weapons comprise of <blue>swords<black>, <blue>fans<black>, <blue>shuriken<black>, <blue>kunai<black>, <blue>senbon<black>, <blue>claws<black>....
+「<blue>つめ<black>・<blue>くさりがま<black>・<blue>こんぼう<black>・<blue>すな　<black>・・・と|<blue>９しゅるい<black>あるんだ！」=<blue>sickles<black>, <blue>staffs<black>, and <blue>sand<black>.|...BOY that was a long list!
 「ぶきによっては　そうびできない　人もいるから|ちゅういがひつようだぞ！　つぎに・・・」=Some weapon types can only be equipped by certain people, by the way.
 「ぶきのしゅるいごとに　<blue>とくちょう<black>があるんだが|しりたいかい？」=Did you know that weapon types have certain specialties as well?
 <narrator>「・・・では　ぶきのしゅるいごとに|<blue>とくちょう<black>があるんだが　しりたいかい？」=<narrator>Do you wanna know about each weapon type's <blue>specialty<black>?
 <narrator><instant>　しりたい！|　しりたくない・・・<0B>=<narrator><instant>　Tell me!|　I’ll work it out myself.<0B>
-<narrator>「・・・まず　<blue>刀（かたな）<black>は|前えいにでるほど　こうげき力がたかい」=<narrator>So you see, <blue>Swords<black> deal more damage the closer you are to the front.
+<narrator>「・・・まず　<blue>刀（かたな）<black>は|前えいにでるほど　こうげき力がたかい」=<narrator>So you see, <blue>swords<black> deal more damage the closer you are to the front.
 「<blue>せんす<black>は　後えいにいると|ぜんたいこうげきができる」=<blue>Fans<black> can deal damage to all enemies when you're in the back row.
 「<blue>手裏剣（しゅりけん<black>）は　後えいにいるほど|こうげき力がたかく　あつかいやすい」=<blue>Shuriken <black>deal more damage the further back you are. They're easy to handle.
 「<blue>クナイ<black>は　前えいでも　後えいでも|こうげき力は　それほど　かわらない」=With <blue>Kunai<black>, the position you're in doesn't matter so much.
@@ -21,7 +21,7 @@
 <narrator>「そうか・・・　では　もう１どせつめいするぞ！」=<narrator>Then allow me to repeat!
 <narrator>「そうか・・・|しりたくなったら　いつでもこいよ！」=<narrator>Okay then... If you change your mind, feel free to speak to me again!
 <narrator>「わかったみたいだな・・・|またききたくなったら　いつでもこいよ！」=<narrator>That's good. Feel free to come back any time if you want me to go over it again!
-<tenten>「いっぱい　ぶきがあるわ！|めうつりしそう！！」=<tenten>This shop's filled with Ninja Tools!|I can't choose what to get!!
+<tenten>「いっぱい　ぶきがあるわ！|めうつりしそう！！」=<tenten>This shop's packed with Ninja Tools! I can't choose what to get!
 <tenten>「<130c>木ノ葉ひでん忍術ずかんを　さがしてるの|・・・もっていない？」=<tenten>I'm looking for the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia...|Do you have it?
 <narrator><130c>木ノ葉ひでん忍術ずかんを|テンテンに　あげますか？=<narrator>Give Tenten the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia?
 <narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　What if she makes a gun!?|　I guess it's fate...<0B>

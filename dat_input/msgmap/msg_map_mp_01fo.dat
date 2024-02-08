@@ -7,7 +7,7 @@
 <narrator>「せんとうがめんでないと　わかりにくいかもしれんが|ひととおり　せんとうについて　せつめいするぞ！」=<narrator>This'd be easier to understand if I could show you the battle screen, but alas...
 「せんとうは　ボタンそうさのほかに|<blue>がめんをタッチするそうさ<black>にも　たいおうしているぞ」=You can fight your battles using either the <blue>face buttons <black>or the <blue>touch screen<black>.
 「<blue>こうげき<black>をえらんでいるときに<blue>じぶんをタッチ<black>すると|<blue>ボタンでけっていしたのとおなじ<black>ことになるから」=So if you choose to <blue>attack<black>, you can either tap on yourself with the stylus, or simply press the <blue>A Button<black>.
-「そのまま　<blue>こうげきしたいてきをえらんで<black>|こうげきするんだぞ！」=Your target can easily be selected using the + Pad or the touch screen!
+「そのまま　<blue>こうげきしたいてきをえらんで<black>|こうげきするんだぞ！」=Your target can be easily selected using the + Pad or the touch screen!
 <narrator>「つぎに　<blue>いどう<black>についてだ！|下がめんの右はんぶんが　みかたのじんちだ」=<narrator>Let's move on to <blue>positioning<black>.||The bottom screen is divided into two fields. Your field, and your opponent's!
 「<blue>あいているばしょを　タッチ<black>するか　<blue>Ｙボタン<black>をおして|ばしょをせんたくすると　いどうすることができるぞ」=If you want to move around your field, you can either <blue>tap on an empty space<black>,|or press the <blue>Y Button<black> and then select where you want to go.
 「そうびしているぶきによって　前にいるときや　後ろに|いるときで　てきにあたえるダメージがかわるからな！」=Where you're positioned in the field affects your weapon's damage output,
@@ -23,7 +23,7 @@
 <narrator>「あと！　あぶなくなったら　<blue>にげる<black>のも　たいせつだ|ムリしてせんとうを　つづけるよりも」=<narrator>But if things start to get dangerous, you can always choose to <blue>flee<black>!
 「いちどひきかえして　たいせいをととのえるほうが|ぶじ　にんむをこなすための　コツだったりするぞ！」=Sometimes you have to retreat in order to preserve your strength.|There's absolutely no shame in that!
 「ただし　せんとうによっては|にげられないときもあるから　きをつけろ！！」=Some battles are unavoidable however, so remember to save often!
-「せつめいは　こんなところかな？|せんとうは　じっせんあるのみ！　がんばれよ！」=And that's the basics all covered! Good luck!
+「せつめいは　こんなところかな？|せんとうは　じっせんあるのみ！　がんばれよ！」=And that's the basics all covered!|Good luck!
 <narrator>「つねに　戦闘（せんとう）にさんかできるのは|<blue>“せんぱつ”メンバー<black>の　３にんだけだ」=<narrator>Up to 3 <blue>active party members<black> can participate in battle.
 <narrator>「だが　なかまが３にんいじょういるときは|<blue>“ひかえ”メンバー<black>に３にん　おくことができ」=<narrator>And if you have friends to spare, you can choose 3 others as your <blue>reserve party<black>.
 <narrator>「せんとうちゅうに　<blue>“いれかえ”<black>ることが|できるんだ！」=<narrator>You can swap them in at any time you want during battle!
@@ -31,9 +31,9 @@
 <narrator>「<blue>“フィールドコマンド”<black>で　<blue>“メンバー”<black>を|せんたくすると　いれかえできる」=<narrator>You can also change your party members at any time from the field menu.
 <narrator>「また　せんとうちゅうに　せんぱつメンバーが|こうどうふのうに　なったときは・・・」=<narrator>If by any chance an active party member gets knocked out...
 <narrator>「“ひかえ”のメンバーが|じどうてきに　とうじょうするぞ！」=<narrator>Fear not! Your reserve members will jump to the rescue and keep the battle going!
-<narrator>「とくていのなかまが　とくていの|たちいちにいたり・・・」=<narrator>Oh yeah, and listen to this. If you have two people in your active party...
-<narrator>「とくていのなかまが　とくしゅなこうかの|じょうたいにあるとき・・・」=<narrator>who are compatible and stood in a particular formation...
-<narrator>「きょうりょくな　<blue>“がったい忍術”<black>を|つかうことが　できるばあいがある・・・」=<narrator>You may be able to choose to perform a <blue>Combined Jutsu<black>!#as opposed to combined attacks, which happen automatically at random
+<narrator>「とくていのなかまが　とくていの|たちいちにいたり・・・」=<narrator>If you have two people in your active party who are compatible,
+<narrator>「とくていのなかまが　とくしゅなこうかの|じょうたいにあるとき・・・」=<narrator>and stood in a particular formation, or in a certain state...
+<narrator>「きょうりょくな　<blue>“がったい忍術”<black>を|つかうことが　できるばあいがある・・・」=<narrator>you may be able to choose to perform a <blue>Combined Jutsu<black>!#as opposed to combined attacks, which happen automatically at random
 <narrator>「しかし！　がったい忍術は　術をつかうふたりとも|チャクラをしょうひするから　きをつけないといけない」=<narrator>But be warned, using a Combined Jutsu will take chakra from both members.
 <narrator>「それに　どちらかのチャクラが　たりなかったり|どちらかが　術をふうじられていると」=<narrator>So if one of them can't use their chakra, the jutsu won't go through.
 <narrator>「がったい忍術を　つかうことが|できないから　ちゅういがひつようだな！」=<narrator>Make sure to keep your chakra in check, alright?
