@@ -3,6 +3,7 @@
 てき１体を中心に　雷とんの　ダメージを　あたえる=Lightning damage [AREA].
 てき全体に　風とんの　ダメージを　あたえる=Wind damage [ALL].
 １人の　スタミナを　すこし　かいふくする=Heals stamina (Lv 1).
+の　スタミナが　かいふくした！=
 じぶんの　スタミナを　すこし　かいふくする=Heals own stamina (Lv 1).
 １人の　スタミナを　あるていど　かいふくする=Heals stamina (Lv 2).
 じぶんの　スタミナを　あるていど　かいふくする=Heals own stamina (Lv 2).
@@ -40,6 +41,7 @@
 写輪眼で　てきのこうげきを　コピーする=Copies the enemy's attack.
 ふうましゅりけんで　てきに　ダメージを　あたえる=Attacks with Demon Wind Shuriken.
 全体の　スタミナを　すこし　かいふくする=Heals stamina (Lv 1) [ALL].
+全体の　スタミナが　かいふくした！=
 全体の　スタミナを　あるていど　かいふくする=Heals stamina (Lv 2) [ALL].
 全体の　スタミナを　かなり　かいふくする=Heals stamina (Lv 3) [ALL].
 全体の　スタミナを　かんぜんに　かいふくする=Heals stamina (FULL) [ALL].
