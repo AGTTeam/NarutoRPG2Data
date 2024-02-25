@@ -205,8 +205,8 @@
 は　こっそり見ている！= is watching secretly!
 しゅっけつたりょうで　動けない・・・= is in shock!#can’t move due to heavy blood loss.
 は　鼻血をふいた！！= has a bloody nose!
-は　おちこんでしまった・・・= is depressed...
-なにももっていなかった= didn't have anything.
+は　おちこんでしまった・・・= is feeling blue...
+なにももっていなかった=Didn't have anything.
 　を盗まれた！= was stolen!
 両=ryo
 回=times
