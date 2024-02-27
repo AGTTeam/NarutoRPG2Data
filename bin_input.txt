@@ -12,7 +12,6 @@
 くちよせシート=Summoning Sheet
 おんせん=Hot springs
 あしゆ=Foot bath
-は=ふ#qc
 じゅつ=Jutsu
 にげる=Flee
 きけん=Quit
