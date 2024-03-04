@@ -115,7 +115,7 @@
 <small_itachi>「・・・」=<small_itachi>...
 <small_itachi>「月読（つくよみ）の　せかいでは|すべては　おれが　しはいする」=<small_itachi>In the world of Tsukuyomi, I control everything...
 <small_itachi>「おろかな・・・」=<small_itachi>You fool...
-<small_kisame>「わたしの　だいとう　サメハダは|きるのではなく・・・　けずる！！」=<small_kisame>My large sword, Shark skin, doesn’t slice... it cuts you to ribbons!
+<small_kisame>「わたしの　だいとう　サメハダは|きるのではなく・・・　けずる！！」=>><small_kisame>My large sword, Shark skin, doesn’t slice... it cuts you to ribbons!
 <small_kisame>「水とん　水鮫弾の術（すいこうだんのじゅつ）！！」=<small_kisame>Water Style! Water Shark Bomb Jutsu!
 <small_jirobo>「ウォォォォ！|土遁　土りょうだんご（どとん　どりょうだんご）！」=<small_jirobo>Uoooh!|Earth Style: Sphere of Graves!
 <small_kidomaru>「忍法　クモソウカイ（にんぽう　クモソウカイ）！！」=<small_kidomaru>Ninja Art: Spiral Spider Web!!!
@@ -206,7 +206,7 @@
 <small_sasuke>「午！　寅ァ！　火とん！|豪火球の術（ごうかきゅうのじゅつ）！！」=<small_sasuke>Uma! Tra! Fire Style: Fire Ball Jutsu!!!
 <small_tsunade>「くらいな！！」=<small_tsunade>Take that!!
 <small_kabuto>「ぼくには　かてないよ」=<small_kabuto>You can’t beat me.
-<small_itachi>「にげて　にげて　生（せい）にしがみつくがいい」=<small_itachi>Flee...Flee and cling to your pathetic life.#start dupe section
+<small_itachi>「にげて　にげて　生（せい）にしがみつくがいい」=>><small_itachi>Flee...Flee and cling to your pathetic life.#start dupe section
 <small_sakon>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_sakon>Let’s hear a nice sound!|Multiple Fists Barrage!!!
 <girlnaruto>「エビス先生ェ・・・|いじわるしないで　お・<w16>し・<w16>え・<w16>て<red>♪<black>」=<girlnaruto>Ebisu-sensei<w5>.<w5>.<w5>. Be a darling and talk~to~me~please~<red>♪♪♪<black>
 <140072><small_kiba>「牙通牙（がつうが）！！」=<140072><small_kiba>Fang Over Fang!!!
@@ -246,8 +246,8 @@
 <small_tsunade>（そして　りっぱな　火影にな）=<small_tsunade>(And, a fine Hokage.)
 <small_sasuke3>「・・・・・・」=<small_sasuke3>......
 <small_kakashi>「いっきに　カタをつけさせてもらう！」=<small_kakashi>Leave these two to me!
-<small_itachi>「“月読”のせかいでは　くうかんも　じかんも|しつりょうも　すべては　オレがしはいする」=<small_itachi>When you're caught within the Tsukuyomi, I am its God.|I control everything within it, be it time or space.
-<small_itachi>「これから７２じかん・・・|アナタを　いためつけつづける・・・」=<small_itachi>For the next 72 hours, I shall make you suffer endlessly.
+<small_itachi>「“月読”のせかいでは　くうかんも　じかんも|しつりょうも　すべては　オレがしはいする」=>><small_itachi>When you're caught within the Tsukuyomi, I am its God.|I control everything within it, be it time or space.
+<small_itachi>「これから７２じかん・・・|アナタを　いためつけつづける・・・」=>><small_itachi>For the next 72 hours, I shall make you suffer endlessly.
 <naruto>（サ・・・スケ？　・・・いや　だれだ！？|サスケの写輪眼と　おんなじ・・・）=<naruto>(Is that<w5>.<w5>.<w5>.Sasuke?<w21> ...No, it isn't him! But he has the same eyes...)
 <small_sasuke>「うちは・・・　イタチィ！！」=<small_sasuke>Itachi Uchiha...!!!
 <small_itachi>「いまから　２４じかん|“あのひ”を　さまよえ・・・」=<small_itachi>You will now relive “that day” for the next 24 hours...
