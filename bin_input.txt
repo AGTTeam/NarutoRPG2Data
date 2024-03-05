@@ -213,6 +213,9 @@
 は<blue>= gained <blue>#gained might need to be removed
 <u48>　<u49>=<u48> <u49>
 それぞれ=Each
+は=は
+は=は
+は= gained
 せんとうじかん=Battle Time
 せんとうランク=Battle Rank
 こうどうかいすう=Number of turns
