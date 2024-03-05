@@ -3,7 +3,7 @@
 <narrator>「なにをしたらいいのか　ヒントをききたいかっ？」=<narrator>Why are you running around?|Do you need a hint?
 <narrator>「任務（にんむ）　ごくろうさま！」=<narrator>Good luck on your mission!
 <narrator>「綱手（ツナデ）さまが　もどられたそうだな！|これで　里もあんしんだ！」=<narrator>With Lady Tsunade back as our Hokage,|I feel a lot safer!
-<narrator>「うちはサスケが　里をぬけたらしい・・・|オレたちが　いながら　きづかなかったとは・・・」=<narrator>I heard Sasuke Uchiha left the village... and no one noticed...
+<narrator>「うちはサスケが　里をぬけたらしい・・・|オレたちが　いながら　きづかなかったとは・・・」=<narrator>I heard Sasuke Uchiha left the village... We never even saw him.
 <narrator>「自来也さまと　修業のたびに　でるんだってな！|がんばれよ！」=<narrator>Good luck on your training with Master Jiraiya!
 <narrator>「<blue>“木ノ葉くずし”<black>があってから　こわくて|よるねむれないことが　おおいのよ・・・」=<narrator>Things haven't been the same since the <blue>Destruction of the Leaf<black>.
 「あの日のことを　おもいだすと・・・<w64>|ううん・・・　<w32>だめだわ」=Just thinking back is...<w64>|No...<w32>I shouldn't....
@@ -56,7 +56,7 @@
 「そのひとたちがいたらー　<blue>“木ノ葉くずし”<black>は|おこらずに　すんだんじゃない？」=If they were still here, could they have stopped the Destruction...?
 <narrator>「あたらしい火影に　なったひとは　でんせつの|三忍（さんにん）の　綱手さまだったのね～」=<narrator>Our new Hokage is non other than Lady Tsunade of the Legendary Sannin~!
 「それにしても～|いままで　どこに　いたんだろうねー？」=Though, I have to wonder, where has she been all this time?
-<narrator>「このまえ　綱手さまを　ちかくでみたけどー|わかくて　びっくりしたー」=<narrator>When I first saw Lady Tsunade up close,|I was surprised at how young she is.
+<narrator>「このまえ　綱手さまを　ちかくでみたけどー|わかくて　びっくりしたー」=<narrator>When I first saw Lady Tsunade up close,|I was surprised by how young she is.
 <narrator>「綱手さまを　みならって～　わたしも|つよくて　かしこいおんなを　めざそっかな～」=<narrator>I really admire Lady Tsunade~|I want to be strong and smart like her!
 <narrator>「おにいちゃんたちも　忍者ゴッコする？」=<narrator>Do you want to play ninja?
 <narrator>「忍者ゴッコで　わたし　綱手さまを　してるんだよ！|だって　かっこいいもん！」=<narrator>I’m playing pretend that I’m Lady Tsunade! She’s just so cool!
@@ -116,7 +116,7 @@
 <narrator>「このやしきは　木ノ葉のめいもん|“日向（ひゅうが）いちぞく”のものらしい」=<narrator>Apparently this house belongs to the Hyuga clan...
 「いったい　どんなひとが|なかで　くらしているんだろう・・・？」=I wonder what kind of people they are...?
 <narrator>「このやしきにすんでいる　日向（ひゅうが）いちぞくは|そうけと　ぶんけの　あらそいがあったらしい」=<narrator>I heard there was a fight between the Hyuga’s Branch House and Main House...
-「・・・でも　いまでは　なかなおりをして|なかよく　くらしているらしい・・・」=But now they've reconciled and are living together in peace...
+「・・・でも　いまでは　なかなおりをして|なかよく　くらしているらしい・・・」=but now they've reconciled and are living together in peace...
 <narrator>「このまえ　日向（ひゅうが）いちぞくの　ヒアシさまが|ネジさんの　けいこをつけているのを　みかけたよ」=<narrator>The other day I saw Lord Hiashi of the Hyuga clan training Neji.
 「そばで　けいこをみてらした　ヒナタさまも|あいらしかったな・・・」=Hinata was also there watching them.
 <narrator>「おとうさんたちのために　波の国（なみのくに）から|おべんとうを　とどけにきたんだけど・・・」=<narrator>I came from the <blue>Land of Waves<black> to bring lunch for everyone.
