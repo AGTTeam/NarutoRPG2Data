@@ -29,7 +29,7 @@
 みかた全体=All allies
 いどうさきを　せんたくしてください=Please select where to move to.
 せっちしたい　ばしょを　せんたくしてください=Please select where to place.
-をふっかつさせます=
+をふっかつさせます=Revive #keep the space
 ふっかつさせたい　ばしょを　せんたくしてください=Please select where to revive.
 ぼうぎょして　こうげきに　たえる=Defend and endure the attack.
 たいじゅつ　きんし=Taijutsu are forbidden
@@ -48,8 +48,8 @@
 すてるかず=Number to discard
 だいじなもの=Valuables
 もっているかず=Number owned
-とのあいしょうがあがった！=
-とのあいしょうがさがった！=
+とのあいしょうがあがった！=!#This line is hardcoded in bin_patch.asm
+とのあいしょうがさがった！=!#This line is hardcoded in bin_patch.asm
 がけのうえに　のぼれる=Climb up cliffs #keep the space
 みずのうえを　あるける=Walk on water #keep the space
 てきに　であいにくくなる=Encounter less enemies
