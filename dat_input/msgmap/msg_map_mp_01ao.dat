@@ -28,9 +28,9 @@
 <narrator>「いろいろ　さがしてみてね！」=<narrator>Be sure to examine them all!
 <narrator>「忍者学校は　しばらく　おやすみなんだって！」=<narrator>I heard that the Academy is on break for now.
 <narrator>「３かいのきょうしつで|エビス先生を　みかけたよ！」=<narrator>Ebisu-sensei is posted at the classroom on the third floor!
-<hinata><140108>「あっ・・・　あの・・・|<130c>しのびばな・ハナシノブ　っていうのを」=<hinata><140108>Um...do you have the <130c>Ninja Flower: Jacob's Ladder?
+<hinata><140108>「あっ・・・　あの・・・|<130c>しのびばな・ハナシノブ　っていうのを」=<hinata><140108>Um...do you have the <130c>Ninja Flower: Valeriana?
 <hinata>「さがしてるんだけど・・・|もってないかな・・・　<w16>なんて」=<hinata>I've been searching for it and I...couldn't find one, so....
-<narrator><130c>しのびばな・ハナシノブを|ヒナタに　あげますか？=<narrator>Give Hinata the <130c>Ninja Flower: Jacob's Ladder?
+<narrator><130c>しのびばな・ハナシノブを|ヒナタに　あげますか？=<narrator>Give Hinata the <130c>Ninja Flower: Valeriana?
 <narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　No|　Yes<0B>
 <hinata><14010d>「あっ・・・　も・・・　もし|みかけたら　おしえてほしいな・・・　<w16>なんて」=<hinata><14010d>Oh well... If you happen to find one....please give it to me...
 <hinata>「あっ・・・　ありがとう|ずっと　さがしてたんだ」=<hinata>Oh...thank you so much....!||I've been searching for it for the longest time now...

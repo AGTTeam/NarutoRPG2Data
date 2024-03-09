@@ -8,8 +8,8 @@
 <narrator>「任務（にんむ）を　すすめるうえでの|<blue>いろいろなことを　おしえてくれる<black>ぞ！」=<narrator>They can teach you all sorts of things that will help with your missions.
 <narrator>「いちどはいって　いろいろと|きいてみるといいぞ！」=<narrator>It’s worth taking a look inside.
 <shino>「・・・・・・」=<shino>...
-<shino>「<130c>木ノ葉ひでん忍術ずかんを　さがしている|・・・もっていないか？」=<shino>...Do you have the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia?
-<narrator><130c>木ノ葉ひでん忍術ずかんを|シノに　あげますか？=<narrator>Give the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia to Shino?
+<shino>「<130c>木ノ葉ひでん忍術ずかんを　さがしている|・・・もっていないか？」=<shino>...Do you have the <130c>Secret Ninjutsu Scroll?
+<narrator><130c>木ノ葉ひでん忍術ずかんを|シノに　あげますか？=<narrator>Give the <130c>Secret Ninjutsu Scroll to Shino?
 <narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　Ray Charles is way cooler!|　All yours.<0B>
 <shino>「・・・・・・みかけたら　おしえてくれ」=<shino>...Guide me to it if you happen upon it.
 <shino>「・・・ずっと　さがしてたものだ|かわりといってはなんだが　これやろう」=<shino>...I've been looking for it for a long time. You may have this.

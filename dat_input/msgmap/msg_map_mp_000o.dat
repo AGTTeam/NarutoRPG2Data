@@ -22,8 +22,8 @@
 <narrator>「そうか・・・|しりたくなったら　いつでもこいよ！」=<narrator>Okay then... If you change your mind, feel free to speak to me again!
 <narrator>「わかったみたいだな・・・|またききたくなったら　いつでもこいよ！」=<narrator>That's good. Feel free to come back any time if you want me to go over it again!
 <tenten>「いっぱい　ぶきがあるわ！|めうつりしそう！！」=<tenten>This shop's packed with Ninja Tools! I can't choose what to get!
-<tenten>「<130c>木ノ葉ひでん忍術ずかんを　さがしてるの|・・・もっていない？」=<tenten>I'm looking for the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia...|Do you have it?
-<narrator><130c>木ノ葉ひでん忍術ずかんを|テンテンに　あげますか？=<narrator>Give Tenten the <130c>Hidden Leaf Secret Ninjutsu Encyclopedia?
+<tenten>「<130c>木ノ葉ひでん忍術ずかんを　さがしてるの|・・・もっていない？」=<tenten>I'm looking for the <130c>Secret Ninjutsu Scroll...|Do you have it?
+<narrator><130c>木ノ葉ひでん忍術ずかんを|テンテンに　あげますか？=<narrator>Give Tenten the <130c>Secret Ninjutsu Scroll?
 <narrator><instant>　あげない|　あげる<0B>=<narrator><instant>　What if she makes a gun!?|　I guess it's fate...<0B>
 <tenten>「もし　みつけたら　おしえてね！」=<tenten>Please let me know if you happen to find it!
 <tenten>「・・・ずっと　さがしてたのよ！|かわりといってはなんだけど　これをあげるわ」=<tenten>Oh thank you, I've been searching for this for a long time!|I know it isn't much, but you can have this.

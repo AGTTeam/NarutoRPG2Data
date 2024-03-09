@@ -59,7 +59,7 @@
 <small_hinata>「白眼（びゃくがん）！！」=<small_hinata>Byakugan!!
 <small_neji>「そこだ！！」=<small_neji>There!!
 <small_neji>「八卦掌回天（はっけしょうかいてん）！！」=<small_neji>Eight Trigrams, Palm Rotation!!
-<small_neji>「・・・八卦（はっけ）の　りょういきないに|入った！！」=<small_neji>...They are within my 8 Trigrams!!!
+<small_neji>「・・・八卦（はっけ）の　りょういきないに|入った！！」=<small_neji>...They are within my Eight Trigrams!!!
 <small_neji>「柔拳法（じゅうけんぽう）・・・|八卦（はっけ）　六十四掌（ろくじゅうよんしょう）！」=<small_neji>Gentle Fist Art... Eight Trigrams Sixty-Four Palms!
 <small_neji>「八卦（はっけ）！！|百二十八掌（ひゃくにじゅうはちしょう）！！！」=<small_neji>Eight Trigrams... One Hundred Twenty-Eight Palms!!!
 <small_lee>「木ノ葉烈風（このはれっぷう）！！」=<small_lee>Leaf Whirlwind!!!
@@ -79,7 +79,7 @@
 <small_kankuro>「くぐつの術！！」=<small_kankuro>Puppet Jutsu!!
 <small_kankuro>「にがさねーじゃん！！」=<small_kankuro>I won’t let you get away!
 <small_kankuro>「いけ！　カラス！！」=<small_kankuro>Go, Karasu!
-<small_kankuro>「くらえ！　カラクリえんげき・・・|黒秘技ききいっぱつ（くろひぎききいっぱつ）！！」=<small_kankuro>Time for a puppet show... Secret Black Move, Iron Maiden!
+<small_kankuro>「くらえ！　カラクリえんげき・・・|黒秘技ききいっぱつ（くろひぎききいっぱつ）！！」=<small_kankuro>Time for a puppet show...!
 <small_jiraiya>「口寄せ！|やたい崩しの術（やたいくずしのじゅつ）！！」=<small_jiraiya>Ninja Art Summoning: Bring Down the House Jutsu!!!
 <small_jiraiya>「忍法　針じぞう（にんぽう　はりじぞう）！！」=<small_jiraiya>Ninja Art: Needle Jizo!!
 <small_jiraiya>「これで　みうごきとれねーのォ！」=<small_jiraiya>This’ll shut you up!
@@ -111,7 +111,7 @@
 <small_tenten>「これならどう！？」=<small_tenten>How’s this?!
 <small_tenten>「とっておきよ！！」=<small_tenten>Special delivery!
 <small_tenten>「双昇竜（そうしょうりゅう）！！」=<small_tenten>Rising Twin Dragons!!!
-<small_tenten>「まだまだ・・・　いくわよ！」=<small_tenten>I’m not done yet!
+<small_tenten>「まだまだ・・・　いくわよ！」=<small_tenten>We're not done yet!
 <small_itachi>「・・・」=<small_itachi>...
 <small_itachi>「月読（つくよみ）の　せかいでは|すべては　おれが　しはいする」=<small_itachi>In the world of Tsukuyomi, I control everything...
 <small_itachi>「おろかな・・・」=<small_itachi>You fool...
@@ -120,7 +120,7 @@
 <small_jirobo>「ウォォォォ！|土遁　土りょうだんご（どとん　どりょうだんご）！」=<small_jirobo>Uoooh!|Earth Style: Sphere of Graves!
 <small_kidomaru>「忍法　クモソウカイ（にんぽう　クモソウカイ）！！」=<small_kidomaru>Ninja Art: Spiral Spider Web!!!
 <small_kidomaru>「ゲームオーバーぜよ」=<small_kidomaru>Game over.
-<small_kidomaru>「これで　おわりだ！|めいちゅうせいど　１２０％！！！」=<small_kidomaru>This is the end! Maximum destructive power... with 100% accuracy!
+<small_kidomaru>「これで　おわりだ！|めいちゅうせいど　１２０％！！！」=>><small_kidomaru>This is the end! Maximum destructive power... with 100% accuracy!
 <small_sakon>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_sakon>Let’s hear a nice sound!|Multiple Fists Barrage!!!
 <small_narrator>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_narrator>Let’s hear a nice sound!|Multiple Fists Barrage!!!
 <small_narrator>「さっさと　やっちまうぜ！」=<small_narrator>Let’s finish this!
@@ -171,7 +171,7 @@
 <small_neji>「フンッ！！」=<small_neji>Hmph!
 <small_hinata>「ネジ兄さん！！」=<small_hinata>Big Brother Neji...!
 <small_neji>「ヒナタさま！！」=<small_neji>Lady Hinata!
-<small_sakura>「ちからを　かしてください！」=<small_sakura>Please lend me your strength!
+<small_sakura>「ちからを　かしてください！」=<small_sakura>Lady Tsunade, please lend me your strength!
 <small_tsunade>「まかせな！　いくよ！！」=<small_tsunade>I’ve got you! Let’s go!
 <small_lee>「キミは　バックアップを　おねがいします！」=<small_lee>Please back me up.
 <small_gaara>「・・・」=<small_gaara>...

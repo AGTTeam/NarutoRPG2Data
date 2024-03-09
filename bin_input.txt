@@ -178,11 +178,11 @@
 の|ナルトとの　あいしょうが　上がった！$$=’s chemistry with Naruto|has gone up!$$
 の|ナルトとの　あいしょうが　下がった！$$=’s chemistry with Naruto|has gone down!$$
 このメンバーでよろしいですか？|　　はい　　いいえ=Is this correct?|　　Yes　　No
-木ノ葉おんせん=Konoha Hot Springs
-下忍=(G)
-上忍=(J)
+木ノ葉おんせん=　Leaf Hot Springs
+下忍=G
+上忍=J
 連勝=Wins#Consecutive
-中忍=(C)
+中忍=C
 ？？？=???
 たいせんチーム=Battle Team
 さいこうきろく=Best Record
@@ -262,7 +262,7 @@
 このはきんざん　みなみがわ=Hidden Leaf Mine - South
 ひのくにかいどう　ひがしがわ=Land of Fire Plains - East
 ひのくにこっきょう　おとがくれがわ=Land of Fire - Sound Border
-ひのくにこっきょう　このはがくれがわ=Land of Fire - Konoha Border
+ひのくにこっきょう　このはがくれがわ=Land of Fire - Leaf Border
 ＶＳ　<u48>勝=<u48> Wins
 セーブファイル・臨=Save File Rin
 をロードしました$$= has been loaded.$$
