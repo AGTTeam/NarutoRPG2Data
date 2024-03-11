@@ -210,7 +210,7 @@
 　を盗まれた！= was stolen!
 両=ryo
 回=times
-は<blue>= gained <blue>#gained might need to be removed
+は<blue>=Gained <blue>
 <u48>　<u49>=<u48> <u49>
 それぞれ=Each #leave space
 は=は
