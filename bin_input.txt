@@ -212,7 +212,7 @@
 回=times
 は<blue>= gained <blue>#gained might need to be removed
 <u48>　<u49>=<u48> <u49>
-それぞれ=Each
+それぞれ=Each #leave space
 は=は
 は=は
 は= gained
