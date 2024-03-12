@@ -116,7 +116,7 @@
 もういちど　こうかんしますか？|　はい　　　　いいえ=Trade again?|　Yes　　　　No
 つうしんたいせんの　さんかメンバーを|せっていします=Set the party members you want to use|during wireless communications battles.
 このアイテムを　こうかんしますか？|　はい　　　　いいえ=Accept this trade?|　Yes　　　　No
-アイテムのこうかんを　やめますか？|　はい　　　　いいえ=Cancel the trade and end the DS Wireless communications?|　Yes　　　　No
+アイテムのこうかんを　やめますか？|　はい　　　　いいえ=Cancel the trade?|　Yes　　　　No
 この　アイテムで　よろしいですか？|　はい　　　　いいえ=Trade this item?|　Yes　　　　No
 アイテム　こうかんちゅう・・・|（しばらくおまちください）=Trading items...|Please wait a moment.
 あいてが　こうかんをやめました|こちらも　しゅうりょうします=The other player cancelled the trade.|Ending DS Wireless Communications.
