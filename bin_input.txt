@@ -179,10 +179,10 @@
 の|ナルトとの　あいしょうが　下がった！$$=’s chemistry with Naruto|has gone down!$$
 このメンバーでよろしいですか？|　　はい　　いいえ=Is this correct?|　　Yes　　No
 木ノ葉おんせん=　Leaf Hot Springs
-下忍=G
-上忍=J
+下忍=下
+上忍=上
 連勝=Wins#Consecutive
-中忍=C
+中忍=中
 ？？？=???
 たいせんチーム=Battle Team
 さいこうきろく=Best Record
