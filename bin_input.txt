@@ -252,7 +252,7 @@
 とうぎじょう=Main Arena
 このはのもり=Hidden Leaf Forest
 えんしゅうじょう=Training Field
-おとがくれのたき=Hidden Sound Village
+おとがくれのたき=Waterfall
 しゅうまつのたに=Valley of the End
 このはがくれのさと=Hidden Leaf Village
 オロチまるのかくれが=Orochimaru's Hideout
