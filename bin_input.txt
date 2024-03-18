@@ -53,7 +53,7 @@
 がけのうえに　のぼれる=Climb up cliffs #keep the space
 みずのうえを　あるける=Walk on water #keep the space
 てきに　であいにくくなる=Encounter less enemies
-ダメージちけいを　むこうか=Ignore all terrain inflicted damage
+ダメージちけいを　むこうか=Ignore all terrain inflicted|damage #keep the space
 ゆくてをはばむ　いわをくだく=Smash through rocks in your way
 <1303>そうび=<1303> Equip
 <130b>どうぐ=<130b> Item
