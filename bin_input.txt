@@ -52,7 +52,7 @@
 とのあいしょうがさがった！=!#This line is hardcoded in bin_patch.asm
 がけのうえに　のぼれる=Climb up cliffs #keep the space
 みずのうえを　あるける=Walk on water #keep the space
-てきに　であいにくくなる=Encounter less enemies
+てきに　であいにくくなる=Encounter less enemies #keep the space
 ダメージちけいを　むこうか=Ignore all terrain inflicted|damage #keep the space
 ゆくてをはばむ　いわをくだく=Smash through rocks in your way
 <1303>そうび=<1303> Equip
@@ -236,7 +236,7 @@
 <katsuyu>「中忍ランクに　なったぞ！」$$=<katsuyu>You've become Chunin rank!$$
 <katsuyu>「下忍ランクに　なったぞ！」$$=<katsuyu>You've become Genin rank!$$
 つうしんせつだんちゅうです|しばらくおまちください=Cutting off communication. Please wait.
-<katsuyu>「しんきろくを　たっせいしたぞ！|よくやったな！」$$=<katsuyu>You achieved a new record! Well done!$$
+<katsuyu>「しんきろくを　たっせいしたぞ！|よくやったな！」$$=<katsuyu>You achieved a new record!|Well done!$$
 おつかれさまでした|Ａボタンで　フィールドにもどります$$=Press the A Button to return to the field.$$
 <katsuyu>「じぶんの　みじゅくさを　みとめるのも|つよさだ！」$$=<katsuyu>Admitting your shortcomings also|requires strength!$$
 <katsuyu>「これは　ほうしゅうの　アイテムだ|とっておくといい」$$=<katsuyu>This item is a reward.|You should hang on to it.$$
