@@ -97,7 +97,7 @@
 こうかんする|あいてを　さがす=Search for|a partner
 アイテムを　こうかんしました！$$=Trade successful!$$
 つうしんたいせんを　かいしします=Start wireless communications battle.
-アイテムの　こうかんを　やめました$$=Cancelled trade.$$
+アイテムの　こうかんを　やめました$$=Canceled trade.$$
 にんじゅつの　しようを　せっていします=Sets the ability to use ninjutsu.#qc
 たいじゅつの　しようを　せっていします=Sets the ability to use taijutsu.#qc
 　こうかんあいてを|にんしきしました！！=Your request|was accepted!
@@ -119,7 +119,7 @@
 アイテムのこうかんを　やめますか？|　はい　　　　いいえ=Cancel the trade?|　Yes　　　　No
 この　アイテムで　よろしいですか？|　はい　　　　いいえ=Trade this item?|　Yes　　　　No
 アイテム　こうかんちゅう・・・|（しばらくおまちください）=Trading items...|Please wait a moment.
-あいてが　こうかんをやめました|こちらも　しゅうりょうします=The other player cancelled the trade.|Ending DS Wireless Communications.
+あいてが　こうかんをやめました|こちらも　しゅうりょうします=The other player canceled the trade.|Ending DS Wireless Communications.
 さんかする　メンバーを|すべて　いっていの　レベルに　します=Sets all battle members’ stats to a certain|level.
 ＤＳワイヤレスつうしんを　つかいますか？|　はい　　　　　いいえ=Use DS Wireless Communications?|　Yes　　　　　No
 　つうしんに　しっぱいしました！|さいしょから　やりなおしてください=Unable to connect.|Please try again.
@@ -203,7 +203,7 @@
 にげられなかった・・・=Couldn’t escape...
 は　鼻の下がのびている！= is distracted!
 は　こっそり見ている！= is watching secretly!
-しゅっけつたりょうで　動けない・・・= is in shock!#can’t move due to heavy blood loss.
+しゅっけつたりょうで　動けない・・・=Can’t move due to blood loss...
 は　鼻血をふいた！！= has a bloody nose!
 は　おちこんでしまった・・・= is feeling blue...
 なにももっていなかった=Didn't have anything.
