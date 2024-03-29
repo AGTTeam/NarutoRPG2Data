@@ -108,9 +108,9 @@ Due to space limitations, some jutsu/item names had to be cut down so do not mat
 
 
 =RETROACHIEVEMENTS=
-A set of patch-compatible RetroAchievements for the emulator RetroArch have been created by team member LaytonLoztew and can be found at https://retroachievements.org/game/15481 
+A set of RetroAchievements (for use with compatible emulators) has been created by team member LaytonLoztew and can be found at https://retroachievements.org/game/15481 
 
-For instructions on how to set up RetroAchievements, please visit https://www.retroarch.com/?page=achievements
+For a list of compatible emulators, please visit https://retroachievements.org/download.php
 
 
 =UNLOCK ALL CHARACTERS=
@@ -118,7 +118,7 @@ Some characters in the game require Wi-Fi to unlock. One workaround is to use th
 
 This cheat code will instantly unlock all characters. Due to the potential for bugs/crashes, we do not advise using it before clearing the game.
 
-For those who want to unlock all characters manually/without cheats (for retroachievements, etc.), a second workaround has been created:
+For those who want to unlock all characters manually/without cheats (for RetroAchievements, etc.), a second workaround has been created:
 
 - Obtain Kakashi & Jiraiya: Talk to Anko at the Main Arena at any point in the game. She will give you Kakashi and Jiraiya's Ninja Tags, which can be used from the inventory once the game has been cleared.
 
