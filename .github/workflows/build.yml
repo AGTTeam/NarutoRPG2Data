@@ -55,25 +55,51 @@ jobs:
         run: pipenv --python 3.11 sync
       - name: Extract
         run: pipenv run python tool.py extract --rom --img
-      - name: Repack
+      - name: Repack sub
         run: pipenv run python tool.py repack
-      - name: Upload patch
+      - name: Rename sub
+        run: mv NarutoRPG2Data/patch.xdelta NarutoRPG2Data/patch_sub.xdelta
+      - name: Upload sub patch
         uses: actions/upload-artifact@v3
         with:
-          name: patch.xdelta
-          path: NarutoRPG2Data/patch.xdelta
+          name: patch_sub.xdelta
+          path: NarutoRPG2Data/patch_sub.xdelta
           retention-days: 7
-      - name: Check patch existence
-        id: check_patch
+      - name: Repack dub
+        run: pipenv run python tool.py repack --snd
+      - name: Rename dub
+        run: mv NarutoRPG2Data/patch.xdelta NarutoRPG2Data/patch_dub.xdelta
+      - name: Upload dub patch
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch_dub.xdelta
+          path: NarutoRPG2Data/patch_dub.xdelta
+          retention-days: 7
+      - name: Check sub patch existence
+        id: check_patch_sub
         uses: andstor/file-existence-action@v2
         with:
-          files: "NarutoRPG2Data/patch.xdelta"
-      - name: Webhook
-        if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
+          files: "NarutoRPG2Data/patch_sub.xdelta"
+      - name: Check dub patch existence
+        id: check_patch_dub
+        uses: andstor/file-existence-action@v2
+        with:
+          files: "NarutoRPG2Data/patch_dub.xdelta"
+      - name: Webhook sub
+        if: ${{ steps.check_patch_sub.outputs.files_exists == 'true' }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          content: "A new sub nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           username: "AGTTBot"
           avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
-          filename: "NarutoRPG2Data/patch.xdelta"
+          filename: "NarutoRPG2Data/patch_sub.xdelta"
+      - name: Webhook dub
+        if: ${{ steps.check_patch_dub.outputs.files_exists == 'true' }}
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          content: "A new dub nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          username: "AGTTBot"
+          avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
+          filename: "NarutoRPG2Data/patch_dub.xdelta"
