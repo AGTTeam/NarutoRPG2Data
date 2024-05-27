@@ -3,7 +3,7 @@
 <narrator>「ニャ～～」=<narrator>Meoow~
 <sakura>「もう　まいごになっちゃ　だめよ！」=<sakura>Make sure it never goes missing again!
 <narrator>「忍者さんたち　どうもありがとう」=<narrator>Thank you so much for helping me!
-<narrator>依頼人（いらいにん）は|ほうしゅうを　わたした=<narrator>(The client proceeds to pay the request fee.)
+<narrator>依頼人（いらいにん）は|ほうしゅうを　わたした=<narrator>I believe my fee is this much, yes?|I'll be sure to come again.
 <homura>「うむ・・・　ごくろうであった」=<homura>Hmm... I commend you all for a job well done.
 <naruto>「へへっ　どーってこと　ねーっての！！」=<naruto>Heh heh! It was nothing, believe it!
 <homura>「では　<blue>ほうしゅう<black>を　わたそう」=<homura>Then I suppose the request is finally complete.
@@ -13,7 +13,7 @@
 <naruto>「ねェねェ！　ホムラのじいちゃん！|この<blue>ちぎれた巻物１<black>って　なんだってばよ？」=<naruto>Hey, Old Man! What in the Ichiraku is this <blue>torn up scroll<black>?
 <homura>「これは　<blue>だいじなもの<black>に　わけられる|うちのひとつじゃ・・・」=<homura>This is a <blue>key item<black> that is divided into several parts...
 <homura>「“だいじなもの”　についての|せつめいを　きくか？」=<homura>Do you want me to explain what key items are?
-<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I guess.|　I don't think so.<0B>
+<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　Yes please.|　No need.<0B>
 <naruto>「もっちろん　きくってば！」=<naruto>Yeah, of course I wanna know!
 <homura>「よかろう！　おまえたちのもっているどうぐには|ふつうのどうぐと　<blue>だいじなもの<black>がある」=<homura>There are two types of items: <blue>key items<black> and <blue>expendables<black>.
 <homura>「だいじなものは　きほんてきには　うれないし|かえない　・・・また　すてることもできない」=<homura>Key items stay in your inventory, but cannot be used or discarded.
@@ -27,10 +27,10 @@
 <sakura>「けっきょく　ちぎれた巻物１　・・・って|いつ　つかうものなのですか？」=<sakura>How are we supposed to use this Ripped Scroll?
 <homura>「そーか・・・　おまえたちは|まだ　しらなかったのか・・・」=<homura>I see... You still do not know of its use.
 <koharu>「火影のいえの　ヒミツについて|せつめいを　きくか？」=<koharu>Shall I explain about the basement of the Hokage Mansion?
-<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　Yes please.|　No need.<0B>
+<narrator><instant>　きく|　きかない<0B>=<narrator><instant>　I guess.|　I don't think so.<0B>
 <sakura>「きかせてください　コハルさま」=<sakura>Please tell me more, Lady Koharu.
 <koharu>「よかろう・・・|つかいみちの　とくになさそうなものは」=<koharu>At first glance, this scroll is of no immediate use to you.
-「<blue>火影のいえ<black>の　ちかしつに|もっていくと　なにかおこるばあいもある」=However, if you were to go to the <blue>basement of the Hokage's Mansion <black>you may find a use for it.
+「<blue>火影のいえ<black>の　ちかしつに|もっていくと　なにかおこるばあいもある」=However, if you were to go to the <blue>basement of the Hokage's Mansion<black> only then may you find its true purpose.
 <sakura>「えっ！？　火影さまのいえに|ちかしつなんて　あったかしら？」=<sakura>Huh!? The Hokage's Mansion has a basement?
 <koharu>「あるとも・・・　ただし　ちかしつへの|いきかたは　おまえたちでさがすのだ！」=<koharu>Indeed... But, you must discover the way in for yourselves.
 <homura>「ちかしつにある　おおきな巻物のまえで|だいじなものをつかう！　すると」=<homura>Once you're in, unfold the scrolls in front of the fire clock...
@@ -44,13 +44,13 @@
 <koharu>「なにか　おこるかもしれんぞ・・・」=<koharu>You may wish to inspect the shelving...
 <naruto>「はぁあ・・・<w21>|なーんか　きょうは　つかれたってば！」=<naruto>Hoooooo...<w21>|Man, today got me pooped!
 <sakura>「そうね・・・　ネコを　つかまえるのに|はしりまわったものね」=<sakura>Yeah...that cat wasn't an easy target to capture.
-<koharu>「任務が　おわったところに　わるいが|第７班には　あたらしい任務についてもらう」=<koharu>Well, we hate to do this when you have only just returned from duty,|but we have another mission to assign Team 7 to.
+<koharu>「任務が　おわったところに　わるいが|第７班には　あたらしい任務についてもらう」=<koharu>Well, we hate to do this when you have only just returned from duty,|but we have another mission to assign Team 7.
 <naruto>「えーっ！！　ちっとくらい|やすましてくれたって　いーじゃん！」=<naruto>What!? Hold on a second!|At least give us a break here!
 <kakashi>「わがままいわないの！|ナルト！　おまえだって　いまの里が」=<kakashi>Put a lid on it, Naruto! The village needs all the help it can get!
 <kakashi>「どんな　じょうきょうかくらい|わかってるだろ」=<kakashi>No matter what it is, you help, you got that?
 <naruto>「・<w5>・<w5>・<w5>・<w5>・<w5>・」=<naruto>.<w5>.<w5>.<w5>.<w5>.<w5>.<w5>
 <kakashi>「・・・で<w21>　どんな　任務なんです？」=<kakashi>...So,<w21> what is this mission you speak of?
-<homura>「カカシ！　おまえには　すでに|ほかの任務が　でている・・・」=<homura>Kakashi! I'm afraid we have another mission lined up for you...
+<homura>「カカシ！　おまえには　すでに|ほかの任務が　でている・・・」=<homura>I'm afraid we have another mission lined up for you, Kakashi.
 <kakashi>「！」=<kakashi>!!!
 <kakashi>「・・・ということは|こいつらだけで　任務を！？」=<kakashi>You mean to say this mission is only for my students?
 <koharu>「あんずるな！|こやつらかて　せいちょうしておる」=<koharu>I believe they are quite ready for it.
@@ -81,7 +81,7 @@
 <sakura>「いったい　なにかんがえてるんだか・・・|きのかわりの　はやいやつ！」=<sakura>What made you change your mind so quickly? It's suspicious!
 <koharu>「では　はなしを　もどすぞ！　自来也の|ゆくえは　わしら“ごいけんばん”でも」=<koharu>Back to the topic at hand! Even we, the Honorary Advisors of the Leaf#no room for a comma at the end
 <koharu>「けんとうが　ついておらんのじゃ」=<koharu>do not know much about his current whereabouts.
-<sakura>「はぁ～　けんとうが　ついてないんじゃあ|なにから　はじめたら　いいんだろ」=<sakura>*Sigh...* Do you have anything for us to begin with, at least?
+<sakura>「はぁ～　けんとうが　ついてないんじゃあ|なにから　はじめたら　いいんだろ」=<sakura>Do you have anything for us to begin with, at least?
 <sasuke>「なんでもいい！|なにか　じょうほうは　ないのか？」=<sasuke>Anything will do. There must be something you can tell us?
 <homura>「<blue>エビス<black>が　自来也に　すうじつまえに|あったと　いっておったが・・・」=<homura>According to his account, <blue>Ebisu<black> met with him a few days ago.
 <sasuke>「とりあえず　<blue>エビス<black>をさがして|はなしを　きくぞ！」=<sasuke>Then let's go find him right away!
