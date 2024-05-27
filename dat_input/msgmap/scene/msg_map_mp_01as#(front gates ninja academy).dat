@@ -8,7 +8,7 @@
 <naruto>「チョー　じゅうような|任務をしてるんだってばよ！！」=<naruto>It's a top class mission, believe it!
 <hinata>「ナ・・・　ナルトくん　すごい！」=<hinata>T-That's wonderful, Naruto!
 <kiba>（ナルトのやつ　でんせつの|三忍さがしだと！？）=<kiba>(That slob's out there looking for one of the Sannin!?)
-<kiba>（チィ・・・　このままだと|おいつくどころか　ひきはなされちまう）=<kiba>(Tch... At this rate we'll be left eating their dust!)
+<kiba>（チィ・・・　このままだと|おいつくどころか　ひきはなされちまう）=<kiba>(Tch... At this rate we'll be left behind eating their dust!)
 <akamaru>「クゥーン」=<akamaru>Woof, woof.
 <kiba>「やっぱり　おまえも　そうおもうか！|赤丸（あかまる）！！」=<kiba>Guess you had the same thought, eh, Akamaru?
 <naruto>「赤丸・・・　なんだってばよ？」=<naruto>What did he...just say?
@@ -28,7 +28,7 @@
 <naruto>「くんな！　っつっても　キバのことだから|ついてきそーな　きがするってばよ」=<naruto>I don't think we have a choice. Kiba would just follow us anyway.
 <sasuke>「どうかんだな・・・」=<sasuke>Agreed...
 <kiba>「へっ！　きまったようだな！！」=<kiba>So I guess it's settled then!
-<kiba>「ところで　ナルト！　おまえ　戦闘ンときの|キャラクターのいれかえとか　しってんのか？」=<kiba>By the way Naruto, do you know how to swap party members?
+<kiba>「ところで　ナルト！　おまえ　戦闘ンときの|キャラクターのいれかえとか　しってんのか？」=<kiba>By the way, Naruto, do you know how to swap party members?
 <narrator><instant>　しらない|　しってる<0B>=<narrator><instant>　Why would I?|　Yeah, I do.<0B>
 <kiba>「つねに　戦闘（せんとう）にさんかできるのは|<blue>“せんぱつ”メンバー<black>の　３にんだけだ」=<kiba>So, as you already know, battles can only be carried out by your|<blue>main party <black>which consists of three members.
 <kiba>「だが　なかまが３にんいじょういるときは|<blue>“ひかえ”メンバー<black>に３にん　おくことができ」=<kiba>But, if there's more than three people in your party,|you can set up to three more to act as your <blue>reserve<black> team.
@@ -40,7 +40,7 @@
 <naruto>「オレってば　キバにおしえてもらわなくとも|そんくらいしってるってーの！」=<naruto>No need to flip your yapper because I know about it already!
 <kiba>「ヘッ！　おしえてくれって　たのんだって|おしえてやんねーからな」=<kiba>Well good, 'cuz I didn't want to waste my time on you anyway!
 <kiba>「しりたくなったら　忍者学校の|<blue>２０１きょうしつ<black>にいって　きけよ！」=<kiba>You can always review this over at <blue>Room 201<black>,| so don't go crying to me if you forget!
-<sakura>「そろそろ　しゅっぱつしましょう！」=<sakura>Now that's settled, let's get moving!
+<sakura>「そろそろ　しゅっぱつしましょう！」=<sakura>Are we done now?|Come on, let's go!
 <hinata>「ナルトくん・・・　わ・・・　わたしからも|ひとつ・・・　いいかな・・・」=<hinata>Naruto... I have something to explain to you...is that okay?
 <naruto>「・・・なんだ？　ヒナタ！」=<naruto>What's up, Hinata?
 <hinata>「<blue>“がったい忍術”<black>と　<blue>“がったいこうげき”<black>に|ついてなんだけど・・・　きいてくれるかな？」=<hinata>Do you want me to explain <blue>Combined Jutsus<black> and <blue>Combined Attacks<black>?
@@ -62,7 +62,7 @@
 <sasuke>「おい！　もう　いくぞ！！」=<sasuke>Are you done yet?|We need to get going!
 <naruto>「よーし　エロ仙人　とっつかまえてやる！」=<naruto>Alright! Let's go catch that Pervy Sage!
 <hinata>「ナ・・・　ナルトくん・・・」=<hinata>N-Naruto, I...
-<hinata>「あの・・・　その　えっと・・・|任務がんばってね・・・」=<hinata>I...wish you...the best of luck!
+<hinata>「あの・・・　その　えっと・・・|任務がんばってね・・・」=<hinata>G-Good luck everyone!
 <naruto>「おう！！」=<naruto>Believe it!
 <narrator><instant>　きく|　きかない<0B>=<narrator><instant>　Tell me!|　Some other time?<0B>
 <narrator><instant><1312>キバが　なかまになった！=<narrator><instant><1312>Kiba has joined your party!
