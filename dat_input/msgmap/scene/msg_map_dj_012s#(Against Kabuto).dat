@@ -26,13 +26,13 @@
 <shizune>「ひとりで　むちゃを　しないでください|わたしは　アナタの　つきびとなんですから」=<shizune>Lady Tsunade, you don't have to do everything on your own.|Please allow me to attend to you.
 <kabuto>「こわいかおで　ボクをにらんでも　きみは|ばちがいな　かわいい　下忍なんだよ」=<kabuto>Glare at me all you like, you're still just a dumb Genin in over his head.
 <kabuto>「きみのなかの　バケモノには　きたいするが|三忍をまえに　いま　きみじゃ　ものたりない」=<kabuto>You may have the Nine-Tailed Fox, but surrounded by the Legendary Sannin, I see how insignificant you are.
-<kabuto>「いまのきみは　ちっぽけな　ムシケラみたいな|もんだから・・・　<w32>でしゃばるなら」=<kabuto>You're just a child sitting at the grown-up's table, so stay back...
+<kabuto>「いまのきみは　ちっぽけな　ムシケラみたいな|もんだから・・・　<w32>でしゃばるなら」=<kabuto>You're just a child sitting at the grown-ups' table, so stay back...
 <kabuto><instant>「やるよ」=<kabuto><instant>Or DIE!
 <jiraiya>「よせ！　ナルト！！」=<jiraiya>Don't listen to him, Naruto!!
 <naruto>「いくってばよ！！」=<naruto>Oh, that's it!!
 <naruto><instant>「ぐあっ！！」=<naruto><instant>Ungh!!
 <jiraiya>「メガネは　シズネ　おまえがやれ|大蛇丸は　ワシがやる」=<jiraiya>I'll leave Four Eyes to you, Shizune. Orochimaru's all mine.
-<jiraiya>「綱手・・・　おまえは　かいふく忍術で|カラダをやすめとけ」=<jiraiya>Tsunade, use your Recovery Ninjutsu and rest.
+<jiraiya>「綱手・・・　おまえは　かいふく忍術で|カラダをやすめとけ」=<jiraiya>Tsunade, use your recovery ninjutsu and rest.
 <naruto>「じゃあ！　オレは！　オレは！」=<naruto>Hey, what about me!?
 <jiraiya>「おまえら下忍は　そのブタといっしょに|綱手のごえいだ」=<jiraiya>You Genin focus on ensuring Tsunade's safety.
 <naruto>「えっ？　オレも　たたかうってばよ！|オレだって・・・」=<naruto>Say what!? But I wanna fight too, Pervy Sage!
@@ -56,7 +56,7 @@
 <gamatatsu>「あっ！　ガマ吉（きち）にいちゃん！」=<gamatatsu>Oh, hey! It's you, Big Bro!
 <orochimaru>「おあそびは　ここまでよ・・・　わたしは|自来也を　そのほかは　おまえにまかせるわ」=<orochimaru>Playtime is over. I'll take care of Jiraiya, the others are all yours.
 <kabuto>「ざんねんですね・・・　ボクも　三忍の|自来也さまと　やりたかったのに」=<kabuto>That's a shame... I also wanted to try my skills against Lord Jiraiya.
-<shizune>（は・・・<w21>　はやいっ！！）=<shizune>(H-<w21>He's so quick!)
+<shizune>（は・・・<w21>　はやいっ！！）=<shizune>(H-<w16>He's too fast!)
 <naruto>「ねえちゃん！！」=<naruto>Shizune!
 <shizune>「ツ<w16>・<w16>・<w16>・<w16>　綱手さまを・・・」=<shizune>L<w16>.<w16>.<w16>.Lady Tsunade...
 <kabuto>「“でしゃばるな”って　いっただろ・・・」=<kabuto>I told you not to interfere, and now look what's happened...
@@ -94,8 +94,8 @@
 <kabuto>「死ぬんだよ！|死んだら　ゆめもなにも　ないんだから」=<kabuto>You'll no longer have any dreams to protect when you die, you know!
 <kabuto>「ガキは　すべてが|カンタンだと　おもってる・・・」=<kabuto>Only kids think life is so easy.
 <kabuto>「だから　バカげたゆめを　へいきでくちにする|だから　あきらめない　<w16>・・・そして死ぬんだ」=<kabuto>Chasing dreams gets you nowhere but an early grave!
-<naruto>「まっすぐ　じぶんのことばは|まげねェ<w16>・<w16>・<w16>・」=<naruto>I will not go back on my word<w16>.<w16>.<w16>.
-<naruto><140069>「<blue>それが　オレの　忍道だ・・・<black>」=<naruto><140069><blue>Because that is my Ninja Way!!!<black>
+<naruto>「まっすぐ　じぶんのことばは|まげねェ<w16>・<w16>・<w16>・」=<naruto>I will not go back on my word, because<w16>.<w16>.<w16>.
+<naruto><140069>「<blue>それが　オレの　忍道だ・・・<black>」=<naruto><140069><blue>That's the way of the ninja!!!<black>
 <naruto>「みんな！　いくってばよ！！」=<naruto>Let's get him, everybody!
 <tsunade>「なんで<w16>・<w16>・<w16>・」=<tsunade>Why<w16>.<w16>.<w16>.<w16>?
 <tsunade>「どうして<w16>・<w16>・<w16>・|どうして　おまえは・・・」=<tsunade>Why are you doing this to yourself!?
@@ -189,7 +189,7 @@
 <jiraiya>「まて！！」=<jiraiya>Wait-!!
 <tsunade>（くっ・・・　おいかけることは　おろか|こっちも　そろそろ　げんかいか・・・）=<tsunade>(Gh... I don't have the strength to go after him, let alone fight...)
 <sasuke>（大蛇丸・・・　やつは　これいじょうの|チカラを　まだ　ひめているというのか！？）=<sasuke>(That Orochimaru... He's even stronger than I thought!)
-（オレは・・・<w21>　オレは・・・）=(I...<w21>I will...)
+（オレは・・・<w21>　オレは・・・）=(I...<w21> I.....)
 <jiraiya>「フッ・・・<w16>　綱手　おまえは|あいかわらず　“かけ”によわいのォ」=<jiraiya>Well, Tsunade...<w16> Looks like you lost yet another bet.
 <tsunade>「フッ<w16>・<w16>・<w16>・」=<tsunade>Hmph<w16>.<w16>.<w16>.
 <tsunade>（火影は　オレのゆめだから　<w32>・・・かぁ）=<tsunade>(To become Hokage is your dream... <w32>huh...?)
