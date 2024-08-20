@@ -12,7 +12,7 @@ jobs:
     outputs:
       should_run: ${{ steps.should_run.outputs.should_run }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Print latest_commit
         run: echo ${{ github.sha }}
       - id: should_run
@@ -27,23 +27,23 @@ jobs:
     if: ${{ needs.check_date.outputs.should_run != 'false' }}
     steps:
       - name: Checkout tool
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Illidanz/NarutoRPG2Translation
           token: ${{ secrets.GH_PAT }}
       - name: Install Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
           cache: "pipenv"
       - name: Install pipenv
         run: python -m pip install --upgrade pipenv wheel
       - name: Checkout data
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           path: NarutoRPG2Data
       - name: Download data
-        uses: suisei-cn/actions-download-file@v1.3.0
+        uses: suisei-cn/actions-download-file@v1.6.0
         with:
           url: ${{ secrets.URL_DATA }}
       - name: Extract data
@@ -52,7 +52,7 @@ jobs:
           mv en1.sdat NarutoRPG2Data/sound/en1.sdat
           mv en2.sdat NarutoRPG2Data/sound/en2.sdat
       - name: Install dependencies
-        run: pipenv --python 3.11 sync
+        run: pipenv --python 3.12 sync
       - name: Extract
         run: pipenv run python tool.py extract --rom --img
       - name: Repack sub
@@ -60,7 +60,7 @@ jobs:
       - name: Rename sub
         run: mv NarutoRPG2Data/patch.xdelta NarutoRPG2Data/patch_sub.xdelta
       - name: Upload sub patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patch_sub.xdelta
           path: NarutoRPG2Data/patch_sub.xdelta
@@ -70,24 +70,24 @@ jobs:
       - name: Rename dub
         run: mv NarutoRPG2Data/patch.xdelta NarutoRPG2Data/patch_dub.xdelta
       - name: Upload dub patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patch_dub.xdelta
           path: NarutoRPG2Data/patch_dub.xdelta
           retention-days: 7
       - name: Check sub patch existence
         id: check_patch_sub
-        uses: andstor/file-existence-action@v2
+        uses: andstor/file-existence-action@v3
         with:
           files: "NarutoRPG2Data/patch_sub.xdelta"
       - name: Check dub patch existence
         id: check_patch_dub
-        uses: andstor/file-existence-action@v2
+        uses: andstor/file-existence-action@v3
         with:
           files: "NarutoRPG2Data/patch_dub.xdelta"
       - name: Webhook sub
         if: ${{ steps.check_patch_sub.outputs.files_exists == 'true' }}
-        uses: tsickert/discord-webhook@v5.3.0
+        uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
           content: "A new sub nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
@@ -96,7 +96,7 @@ jobs:
           filename: "NarutoRPG2Data/patch_sub.xdelta"
       - name: Webhook dub
         if: ${{ steps.check_patch_dub.outputs.files_exists == 'true' }}
-        uses: tsickert/discord-webhook@v5.3.0
+        uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
           content: "A new dub nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
