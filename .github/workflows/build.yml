@@ -34,7 +34,7 @@ jobs:
       - name: Install Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.11"
           cache: "pipenv"
       - name: Install pipenv
         run: python -m pip install --upgrade pipenv wheel
@@ -52,7 +52,7 @@ jobs:
           mv en1.sdat NarutoRPG2Data/sound/en1.sdat
           mv en2.sdat NarutoRPG2Data/sound/en2.sdat
       - name: Install dependencies
-        run: pipenv --python 3.12 sync
+        run: pipenv --python 3.11 sync
       - name: Extract
         run: pipenv run python tool.py extract --rom --img
       - name: Repack sub
