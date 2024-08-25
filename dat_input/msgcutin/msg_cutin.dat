@@ -121,8 +121,8 @@
 <small_kidomaru>「忍法　クモソウカイ（にんぽう　クモソウカイ）！！」=<small_kidomaru>Ninja Art: Spiral Spider Web!!!
 <small_kidomaru>「ゲームオーバーぜよ」=<small_kidomaru>Game over.
 <small_kidomaru>「これで　おわりだ！|めいちゅうせいど　１２０％！！！」=>><small_kidomaru>This is the end! Maximum destructive power... with 100% accuracy!
-<small_sakon>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_sakon>Let’s hear a nice sound!|Multiple Fists Barrage!!!
-<small_narrator>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_narrator>Let’s hear a nice sound!|Multiple Fists Barrage!!!
+<small_sakon>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_sakon>Let's have a little music, shall we?|Multiple Fists Barrage!!!
+<small_narrator>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_narrator>Let's have a little music, shall we?|Multiple Fists Barrage!!!
 <small_narrator>「さっさと　やっちまうぜ！」=<small_narrator>Let’s finish this!
 <small_takuya>「しのせんりつを　かなでてやる！」=<small_takuya>I’ll play a melody of death for you.
 <small_takuya>「しゅうきょく　だい９せつ・・・|魔きょうの乱（まきょうのらん）！！」=>><small_takuya>Ninth Passage... Demon Revolution!!!
@@ -207,7 +207,7 @@
 <small_tsunade>「くらいな！！」=<small_tsunade>Take that!!
 <small_kabuto>「ぼくには　かてないよ」=<small_kabuto>You can’t beat me.
 <small_itachi>「にげて　にげて　生（せい）にしがみつくがいい」=>><small_itachi>Flee...Flee and cling to your pathetic life.#start dupe section
-<small_sakon>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_sakon>Let’s hear a nice sound!|Multiple Fists Barrage!!!
+<small_sakon>「いい音　かなでろよ！|多連拳（たれんけん）！！」=<small_sakon>Let's have a little music, shall we?|Multiple Fists Barrage!!!
 <girlnaruto>「エビス先生ェ・・・|いじわるしないで　お・<w16>し・<w16>え・<w16>て<red>♪<black>」=<girlnaruto>Ebisu-sensei<w5>.<w5>.<w5>. Be a darling and talk~to~me~please~<red>♪♪♪<black>
 <140072><small_kiba>「牙通牙（がつうが）！！」=<140072><small_kiba>Fang Over Fang!!!
 <small_jiraiya>「のぞきが　バレるだろーが！」=<small_jiraiya>Don't spoil the fun!
