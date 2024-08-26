@@ -314,7 +314,7 @@
 <katsuyu>「ふ～・・・　こころが　やすまりますね」$$=<katsuyu>Phew... It’s nice to have a minute|to myself...$$#Ebisu
 <katsuyu>「わーい！　おんせんだァ|きもちいいです～」$$=<katsuyu>Wow! This hot water thingy feels|pretty nice!$$#Gamatatsu
 <katsuyu>「とっても　いいおゆです|しあわせです！！」$$=<katsuyu>This water is perfect for a|post-training muscle soak!$$#Lee
-<katsuyu>「クク・・・|たまには　こうゆうのも　いいわね」$$=<katsuyu>Kuku... This isn’t so bad once in a|while.$$#Orochimaru
+<katsuyu>「クク・・・|たまには　こうゆうのも　いいわね」$$=<katsuyu>*Chuckle...* This isn’t so bad once|in a while.$$#Orochimaru
 <katsuyu>「うーん！　いいおゆだなぁ|つかれが　とれるぞ！」$$=<katsuyu>Aaah... I can feel my exhaustion|melting away.$$#Iruka
 <katsuyu>「いいおゆね！|ハダが　スベスベになりそう<red>♪<black>」$$=<katsuyu>The water’s just perfect!|This should be good for my skin<red>♪<black>$$#Tenten
 <katsuyu>「たまには　おんせんもいいわな|のほほ～んと　できるぜ」$$=<katsuyu>Going to the hot springs ain’t so|bad. I can lounge around in here.$$#Shikamaru
