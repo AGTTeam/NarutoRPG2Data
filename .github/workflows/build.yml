@@ -2,8 +2,7 @@ name: Build
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 2 * * *"
+  push:
 
 jobs:
   check_date:
